@@ -1,37 +1,109 @@
-/* clue-mcp — small visual tweaks on top of Material */
+/* clue-mcp — peach (#FFBE98) brand theme on top of Material for MkDocs */
+
+/* ---------------------------------------------------------------------------
+   Brand palette
+   #FFBE98 is a light apricot, so it is used as the *surface* colour (header,
+   nav, primary-button fill) with DARK text on top. Links, focus rings, stat
+   numbers and other "ink" accents use a darker terracotta that stays legible
+   on a white page.
+--------------------------------------------------------------------------- */
 
 :root {
-  --md-primary-fg-color:        #3f51b5;
-  --md-primary-fg-color--dark:  #303f9f;
-  --md-accent-fg-color:         #009688;
+  --clue-peach:          #FFBE98;
+  --clue-peach-light:    #FFD4B6;
+  --clue-peach-dark:     #F0A074;
+  --clue-ink:            #3A2417;   /* dark brown text on peach surfaces      */
+  --clue-terracotta:     #C2562F;   /* readable accent on white               */
+  --clue-terracotta-dk:  #A2451F;
 }
 
-/* Hero banner on the landing page */
+/* Primary surface colour (header, nav highlights, primary button fill). */
+[data-md-color-primary="custom"] {
+  --md-primary-fg-color:        var(--clue-peach);
+  --md-primary-fg-color--light: var(--clue-peach-light);
+  --md-primary-fg-color--dark:  var(--clue-peach-dark);
+  /* Text / icons drawn ON the peach surface → dark brown for contrast. */
+  --md-primary-bg-color:        var(--clue-ink);
+  --md-primary-bg-color--light: rgba(58, 36, 23, 0.72);
+}
+
+/* Ink accent (links, hover, focus, search highlight). */
+[data-md-color-accent="custom"] {
+  --md-accent-fg-color:             var(--clue-terracotta);
+  --md-accent-fg-color--transparent: rgba(194, 86, 47, 0.10);
+}
+
+/* Keep header search text dark on the peach bar. */
+.md-search__input,
+.md-search__input::placeholder { color: var(--clue-ink); }
+
+/* In dark mode the body links should use the lighter peach so they pop. */
+[data-md-color-scheme="slate"] {
+  --md-typeset-a-color: var(--clue-peach);
+}
+[data-md-color-scheme="slate"][data-md-color-accent="custom"] {
+  --md-accent-fg-color: var(--clue-peach-light);
+}
+
+/* ---------------------------------------------------------------------------
+   Hero banner on the landing page
+--------------------------------------------------------------------------- */
 .clue-hero {
   text-align: center;
-  padding: 2.4rem 1rem 1.6rem;
+  padding: 2.6rem 1rem 1.4rem;
+  background:
+    radial-gradient(60rem 26rem at 50% -8rem,
+      rgba(255, 190, 152, 0.45), transparent 70%);
+  border-radius: 0 0 1.2rem 1.2rem;
+  margin-bottom: 0.6rem;
 }
 .clue-hero h1 {
-  font-size: 2.6rem;
+  font-size: 2.8rem;
   font-weight: 800;
-  letter-spacing: -0.02em;
+  letter-spacing: -0.025em;
   margin-bottom: 0.3rem;
 }
 .clue-hero p.tagline {
-  font-size: 1.05rem;
+  font-size: 1.08rem;
+  line-height: 1.55;
   color: var(--md-default-fg-color--light);
   max-width: 46rem;
-  margin: 0.2rem auto 1.2rem;
+  margin: 0.2rem auto 1.3rem;
 }
-.clue-badges img { margin: 0 0.15rem; }
+.clue-badges { margin-bottom: 1.3rem; }
+.clue-badges img { margin: 0 0.15rem; vertical-align: middle; }
 
-/* Stat strip */
+/* Buttons: primary = peach fill + dark ink text (on brand). */
+.clue-hero .md-button--primary {
+  background-color: var(--clue-peach);
+  border-color: var(--clue-peach);
+  color: var(--clue-ink);
+}
+.clue-hero .md-button--primary:hover,
+.clue-hero .md-button--primary:focus {
+  background-color: var(--clue-peach-dark);
+  border-color: var(--clue-peach-dark);
+  color: var(--clue-ink);
+}
+.clue-hero .md-button:not(.md-button--primary) {
+  border-color: var(--clue-terracotta);
+  color: var(--clue-terracotta);
+}
+.clue-hero .md-button:not(.md-button--primary):hover {
+  background-color: var(--clue-terracotta);
+  border-color: var(--clue-terracotta);
+  color: #fff;
+}
+
+/* ---------------------------------------------------------------------------
+   Stat strip
+--------------------------------------------------------------------------- */
 .clue-stats {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 1.4rem;
-  margin: 1.6rem 0;
+  gap: 1.6rem;
+  margin: 1.8rem 0;
 }
 .clue-stats .stat {
   text-align: center;
@@ -39,9 +111,12 @@
 }
 .clue-stats .stat .num {
   display: block;
-  font-size: 1.7rem;
+  font-size: 1.85rem;
   font-weight: 800;
-  color: var(--md-primary-fg-color);
+  color: var(--clue-terracotta);
+}
+[data-md-color-scheme="slate"] .clue-stats .stat .num {
+  color: var(--clue-peach);
 }
 .clue-stats .stat .label {
   font-size: 0.78rem;
@@ -50,7 +125,9 @@
   color: var(--md-default-fg-color--light);
 }
 
-/* Feature cards */
+/* ---------------------------------------------------------------------------
+   Feature / navigation cards
+--------------------------------------------------------------------------- */
 .clue-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
@@ -59,13 +136,23 @@
 }
 .clue-card {
   border: 1px solid var(--md-default-fg-color--lightest);
-  border-radius: 0.5rem;
-  padding: 1rem 1.1rem;
-  transition: border-color 0.2s, box-shadow 0.2s;
+  border-radius: 0.6rem;
+  padding: 1.05rem 1.15rem;
+  background: var(--md-default-bg-color);
+  transition: border-color 0.2s, box-shadow 0.2s, transform 0.2s;
 }
 .clue-card:hover {
-  border-color: var(--md-accent-fg-color);
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
+  border-color: var(--clue-peach-dark);
+  box-shadow: 0 6px 20px rgba(194, 86, 47, 0.12);
+  transform: translateY(-2px);
 }
 .clue-card h3 { margin: 0.1rem 0 0.4rem; font-size: 1.05rem; }
-.clue-card p { font-size: 0.85rem; margin: 0.2rem 0; }
+.clue-card p  { font-size: 0.85rem; margin: 0.2rem 0; }
+.clue-card .md-icon svg,
+.clue-card .twemoji svg { fill: var(--clue-terracotta); }
+
+/* Accent the left edge of admonitions/notes with the brand colour. */
+.md-typeset .admonition.note,
+.md-typeset details.note {
+  border-left-color: var(--clue-terracotta);
+}

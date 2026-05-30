@@ -1055,9 +1055,8 @@ curl -X POST https://huggingface.co/spaces/YOUR_SPACE/enrichment \
 # Option 2: Run locally with Docker
 git clone https://github.com/swaruplab/clue-mcp
 cd clue-mcp
-# Download data from Zenodo (DOI link in README)
-wget -P data/processed/ https://zenodo.org/records/XXXXX/files/cmap_processed.tar.gz
-tar xzf data/processed/cmap_processed.tar.gz -C data/processed/
+# Download + verify the prebuilt database from Zenodo (DOI 10.5281/zenodo.20465969)
+bash scripts/download_data.sh
 docker build -t cmap . && docker run -p 8000:8000 -v ./data:/app/data cmap
 
 # Option 3: Python package + MCP server

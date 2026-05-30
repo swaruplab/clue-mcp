@@ -15,6 +15,7 @@ from Python, a REST API, or directly inside Claude via the Model Context Protoco
 
 <p class="clue-badges">
 <a href="https://github.com/swaruplab/clue-mcp"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-clue--mcp-181717?logo=github"></a>
+<a href="https://doi.org/10.5281/zenodo.20465969"><img alt="Data DOI" src="https://img.shields.io/badge/data%20DOI-10.5281%2Fzenodo.20465969-FFBE98?labelColor=3A2417"></a>
 <img alt="License" src="https://img.shields.io/badge/license-MIT-blue">
 <img alt="Python" src="https://img.shields.io/badge/python-3.10%2B-3776AB?logo=python&logoColor=white">
 <img alt="Status" src="https://img.shields.io/badge/status-beta-orange">
@@ -115,11 +116,55 @@ The repo ships a fully worked, pre-computed **[showcase](showcase.md)**: clue-mc
 
 ---
 
-## Get started
+## Where to next
 
-1. **[Quickstart](quickstart.md)** — install and run your first query.
-2. **[Building the database](pipeline.md)** — how the LINCS 2020 GCTX files become the queryable engine (only needed once, on an HPC node).
-3. **[Method & data](method.md)** — the WTCS scoring, statistics, and data provenance.
+Pick the path that matches what you want to do.
+
+<div class="clue-grid" markdown>
+
+<div class="clue-card" markdown>
+### :material-rocket-launch: Quickstart
+Install the package, pull the database from Zenodo, and run your first reversal query in a few minutes.
+
+[Start here →](quickstart.md)
+</div>
+
+<div class="clue-card" markdown>
+### :material-flask: Running an analysis
+The full driver: permutation FDR, MOA enrichment, and 11 publication-quality figure panels from one command.
+
+[Running an analysis →](usage.md)
+</div>
+
+<div class="clue-card" markdown>
+### :material-chart-box: Showcase — 50 Hallmarks
+A complete worked example across every MSigDB Hallmark set, with a cross-pathway drug heatmap and network.
+
+[Browse the showcase →](showcase.md)
+</div>
+
+<div class="clue-card" markdown>
+### :material-database-cog: Building the database
+How the LINCS 2020 GCTX files become the queryable engine — only needed once, on an HPC node.
+
+[Build the database →](pipeline.md)
+</div>
+
+<div class="clue-card" markdown>
+### :material-function-variant: Method & data
+The Weighted Connectivity Score, the permutation statistics, and full data provenance.
+
+[Read the method →](method.md)
+</div>
+
+<div class="clue-card" markdown>
+### :material-cloud-download: Releasing the data
+For maintainers: how the processed database is packaged and deposited to Zenodo.
+
+[Data release →](data-release.md)
+</div>
+
+</div>
 
 !!! note "Do I need the 9 GB database?"
     The repo ships **code + the small precomputed [showcase](showcase.md)** — not the

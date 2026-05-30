@@ -28,15 +28,15 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
-      accent: teal
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
-      accent: teal
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
@@ -73,6 +73,9 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/swaruplab/clue-mcp
+    - icon: fontawesome/solid/database
+      link: https://doi.org/10.5281/zenodo.20465969
+      name: Processed database on Zenodo
     - icon: fontawesome/solid/flask
       link: https://swaruplab.bio.uci.edu/
 
