@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+91392,QL-X-138,HA1E,,,-0.252010
+91441,QL-XII-47,HA1E,,,-0.221420
+1992,AZD-7762,HA1E,CHK inhibitor,CHEK1,-0.207679
+120639,ouabain,SKB,ATPase inhibitor,ATP1A1,-0.206191
+91400,QL-X-138,MCF7,,,-0.203741
+111431,forskolin,HEPG2,Adenylyl cyclase activator,ADCY2,-0.197296
+105722,cycloheximide,HA1E,Protein synthesis inhibitor,RPL3,-0.196561
+101195,azacitidine,MCF7,DNA methyltransferase inhibitor,DNMT1,-0.183991
+98390,ZD-7114,A549,Adrenergic receptor agonist,ADRB3,-0.181827
+85078,JW-7-24-1,A375,,,-0.178464
+108724,emetine,HA1E,Protein synthesis inhibitor,RPS2,-0.177414
+124960,rilmenidine,MCF7,Adrenergic receptor agonist,NISCH,-0.175530
+110522,fenretinide,SKB,Apoptosis stimulant,RARA,-0.173964
+102563,brefeldin-a,HA1E,,,-0.172865
+111918,geldanamycin,U2OS,HSP inhibitor,HSP90AA1,-0.170929
+116880,megestrol-acetate,HCC515,DNA inhibitor,PGR,-0.169153
+131453,voriconazole,MCF7,Cytochrome P450 inhibitor,CYP2C19,-0.167679
+102566,brefeldin-a,HEPG2,,,-0.167354
+83737,GW-5074,PC3,RAF inhibitor,RAF1,-0.167134
+127698,tanespimycin,U2OS,HSP inhibitor,HSP90AA1,-0.165409
+124967,rilmenidine,NPC,Adrenergic receptor agonist,NISCH,-0.164024
+111093,fluphenazine,HA1E,Dopamine receptor antagonist,DRD1,-0.161526
+108736,emetine,PC3,Protein synthesis inhibitor,RPS2,-0.159222
+116471,manumycin-a,NCIH596,NFKB pathway inhibitor,FNTA,-0.157150
+129708,tozasertib,PC3,JAK inhibitor,FLT3,-0.156494
+89843,P-1075,MCF7,ATP channel activator,KCNJ11,-0.155836
+121280,parthenolide,ASC,,,-0.155201
+119516,nifedipine,VCAP,Calcium channel blocker,CACNA1C,-0.152517
+106841,dexamethasone,HEPG2,Glucocorticoid receptor agonist,NR3C1,-0.152251
+101189,azacitidine,HELA,DNA methyltransferase inhibitor,DNMT1,-0.152159
+107067,dichlorobenzamil,NPC,,,-0.151296
+123730,puromycin,PC3,,,-0.150730
+108719,emetine,A375,Protein synthesis inhibitor,RPS2,-0.148799
+109927,etomoxir,HT29,Carnitine palmitoyltransferase inhibitor,CPT1A,-0.148727
+80971,CO-102862,A549,,,-0.148119
+98706,acadesine,NPC,,,-0.146569
+83959,H-9,SKB,PKA inhibitor,PRKACA,-0.146371
+122096,piceatannol,ASC,,,-0.144752
+102559,brefeldin-a,A549,,,-0.144315
+113168,ibrutinib,MDAMB231,BTK inhibitor,BTK,-0.143618
+99076,afatinib,HA1E,EGFR inhibitor,EGFR,-0.142971
+80430,CG-930,NPC,JNK inhibitor,MAPK8,-0.142883
+121294,parthenolide,NCIH2073,,,-0.142785
+88293,MMPX,A375,,,-0.141838
+112507,guggulsterone,HCC515,IKK inhibitor,NR3C1,-0.141339
+103436,capecitabine,A549,DNA synthesis inhibitor,TYMS,-0.141295
+111440,forskolin,PC3,Adenylyl cyclase activator,ADCY2,-0.141174
+101199,azacitidine,PC3,DNA methyltransferase inhibitor,DNMT1,-0.140803
+89413,NVP-AUY922,HA1E,HSP inhibitor,HSP90AA1,-0.140473
+99436,aloisine,NPC,CDK inhibitor,CDK2,-0.140302

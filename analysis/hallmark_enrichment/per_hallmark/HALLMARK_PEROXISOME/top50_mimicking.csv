@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+129584,toremifene,MCF7,Estrogen receptor antagonist,ESR1,0.296456
+124833,ribavirin,PC3,Antiviral,IMPDH1,0.241160
+104522,cilastatin,PC3,Dehydropeptidase inhibitor,DPEP1,0.233970
+101297,azithromycin,A375,,,0.226314
+115911,lonidamine,PC3,,,0.226281
+124000,quinidine,NEU,Sodium channel blocker,SCN5A,0.224915
+100996,atorvastatin,MCF7,HMGCR inhibitor,DPP4,0.223968
+130336,triprolidine,HT29,Histamine receptor antagonist,HRH1,0.222709
+128355,testosterone,HEPG2,,,0.217406
+124910,rifapentine,VCAP,RNA polymerase inhibitor,CYP2C8,0.216756
+103281,calpeptin,HT29,,,0.215312
+117295,mestranol,HA1E,Estrogen receptor agonist,ESR1,0.214615
+113163,ibrutinib,JURKAT,BTK inhibitor,BTK,0.213185
+2486,BH3I-1,VCAP,BCL inhibitor,BCL2L1,0.212869
+118892,naloxone,PHH,Opioid receptor antagonist,OPRD1,0.212231
+120531,orteronel,A375,Cytochrome P450 inhibitor,CYP17A1,0.211041
+99430,aloisine,ASC,CDK inhibitor,CDK2,0.210953
+91421,QL-XI-92,HT29,,,0.210789
+129801,tranilast,HT29,,,0.210283
+113698,indirubin,PC3,CDK inhibitor,CDK5,0.210141
+89972,PD-0325901,A549,MEK inhibitor,MAP2K1,0.209596
+105148,clomifene,HEPG2,Estrogen receptor antagonist,ESR1,0.209129
+89420,NVP-AUY922,MCF7,HSP inhibitor,HSP90AA1,0.208220
+127193,suloctidil,A549,,,0.208142
+124676,resveratrol,ASC,SIRT activator,SIRT1,0.207820
+82693,GBR-12783,MCF7,,,0.207348
+130073,triciribine,ASC,Akt inhibitor,AKT3,0.207071
+102670,brivanib,PC3,FGFR inhibitor,FGFR1,0.206469
+108158,doxepin,HCC515,Histamine receptor antagonist,HRH1,0.205144
+129691,tozasertib,HT29,JAK inhibitor,FLT3,0.204514
+124678,resveratrol,HA1E,SIRT activator,SIRT1,0.202723
+118044,miglitol,MCF7,Glucosidase inhibitor,GAA,0.202102
+107462,diltiazem,HEPG2,Calcium channel blocker,CACNA1C,0.202024
+117911,mibefradil,HA1E,T-type calcium channel blocker,CACNA1C,0.201688
+123326,progesterone,VCAP,Progesterone receptor agonist,CYP17A1,0.201418
+112872,huperzine-a,VCAP,Glutamate receptor antagonist,ACHE,0.200268
+89031,NNC-63-0532,PC3,Opioid receptor agonist,OPRL1,0.199850
+129582,toremifene,HT29,Estrogen receptor antagonist,ESR1,0.199650
+116503,maprotiline,VCAP,Tricyclic antidepressant,SLC6A2,0.198680
+80413,CG-930,ASC,JNK inhibitor,MAPK8,0.198506
+79948,BW-B70C,VCAP,Lipoxygenase inhibitor,ALOX5,0.198352
+95773,SU-11274,A375,Tyrosine kinase inhibitor,MET,0.197462
+89981,PD-0325901,HEPG2,MEK inhibitor,MAP2K1,0.196967
+124733,retinol,VCAP,Retinoid receptor ligand,RXRA,0.196723
+127579,tamoxifen,HA1E,Estrogen receptor antagonist,ESR1,0.196558
+2927,BMS-509744,MDAMB231,,,0.196452
+110101,exemestane,HEPG2,Aromatase inhibitor,CYP19A1,0.196399
+111412,formoterol,HT29,Adrenergic receptor agonist,ADRB2,0.195809
+114610,ketoconazole,HA1E,Sterol demethylase inhibitor,CYP19A1,0.194882
+105154,clomifene,MCF7,Estrogen receptor antagonist,ESR1,0.194277

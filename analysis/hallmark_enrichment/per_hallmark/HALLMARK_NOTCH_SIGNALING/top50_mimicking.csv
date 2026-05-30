@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+82692,GBR-12783,HT29,,,0.335705
+110979,flunisolide,PC3,Cytochrome P450 inhibitor,NR3C1,0.331997
+122938,pravastatin,NPC,HMGCR inhibitor,HMGCR,0.324882
+131716,yohimbine,HCC515,Adrenergic receptor antagonist,ADRA2A,0.322043
+110040,everolimus,MDAMB231,MTOR inhibitor,MTOR,0.320594
+105157,clomifene,PC3,Estrogen receptor antagonist,ESR1,0.317952
+130081,triciribine,NPC,Akt inhibitor,AKT3,0.316828
+128832,thiothixene,VCAP,Dopamine receptor antagonist,HTR2A,0.301856
+84422,IB-MECA,U2OS,Adenosine receptor agonist,ADORA3,0.300443
+130998,vecuronium,HCC515,Acetylcholine receptor antagonist,CHRNA2,0.299237
+80483,CGP-12177,A375,Adrenergic receptor agonist,ADRB1,0.299098
+126016,scopolamine,A375,Acetylcholine receptor antagonist,CHRM1,0.298507
+112868,huperzine-a,PC3,Glutamate receptor antagonist,ACHE,0.294405
+98701,acadesine,HEPG2,,,0.292354
+102670,brivanib,PC3,FGFR inhibitor,FGFR1,0.291763
+100560,antimycin-a,VCAP,ATP synthase inhibitor,CYCS,0.283501
+107361,dihydrexidine,VCAP,Dopamine receptor agonist,DRD1,0.282180
+104822,cisapride,PC3,Serotonin receptor agonist,HTR4,0.280164
+121939,phentolamine,MCF7,Adrenergic receptor antagonist,ADRA1A,0.279607
+119803,nitrendipine,MCF7,Calcium channel blocker,CACNA1C,0.278912
+109148,eplerenone,HA1E,Cytochrome P450 inhibitor,NR3C2,0.277985
+126431,silibinin,PC3,,,0.277858
+103229,calcitriol,A375,Vitamin D receptor agonist,VDR,0.271542
+126797,sparfloxacin,MCF7,,,0.270627
+122758,pivmecillinam,MCF7,,,0.268576
+105729,cycloheximide,NPC,Protein synthesis inhibitor,RPL3,0.268135
+112411,griseofulvin,MCF10A,,,0.264276
+102813,bucladesine,HEPG2,CAMP stimulant,PRKACA,0.261820
+119815,nitrendipine,VCAP,Calcium channel blocker,CACNA1C,0.261194
+94528,SDZ-NKT-343,PC3,Tachykinin antagonist,TACR1,0.259827
+109923,etomoxir,HCC515,Carnitine palmitoyltransferase inhibitor,CPT1A,0.259421
+111560,fulvestrant,HA1E,Estrogen receptor antagonist,ESR1,0.258668
+130969,varenicline,HT29,Acetylcholine receptor agonist,CHRNA4,0.258494
+118882,naloxone,A549,Opioid receptor antagonist,OPRD1,0.257926
+115626,linsitinib,HA1E,IGF-1 inhibitor,IGF1R,0.257069
+110803,floxuridine,VCAP,,,0.256420
+116865,mefloquine,PC3,,,0.256339
+127604,tamoxifen,VCAP,Estrogen receptor antagonist,ESR1,0.256107
+131036,veliparib,YAPC,PARP inhibitor,PARP2,0.255794
+129972,tretinoin,HT29,Retinoid receptor ligand,RARA,0.255446
+105339,colchicine,U2OS,Microtubule inhibitor,TUBB,0.253928
+91428,QL-XI-92,NPC,,,0.253082
+105156,clomifene,NPC,Estrogen receptor antagonist,ESR1,0.252236
+96404,TTNPB,MCF7,Retinoid receptor agonist,RARB,0.251309
+122945,pravastatin,YAPC,HMGCR inhibitor,HMGCR,0.250579
+131297,vincristine,A549,Tubulin inhibitor,TUBB,0.248992
+118923,naltriben,PC3,Opioid receptor antagonist,OPRD1,0.248598
+122511,piperacillin,PC3,,,0.247984
+104553,cilomilast,A375,Phosphodiesterase inhibitor,PDE4A,0.247613
+128994,timolol,A375,Adrenergic receptor antagonist,ADRB1,0.246489

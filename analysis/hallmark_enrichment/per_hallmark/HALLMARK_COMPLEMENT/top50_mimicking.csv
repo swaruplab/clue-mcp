@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+112209,glimepiride,VCAP,Insulin secretagogue,KCNJ11,0.231336
+98268,YM-155,HT29,Survivin inhibitor,BIRC5,0.220984
+115636,linsitinib,MCF10A,IGF-1 inhibitor,IGF1R,0.198472
+127393,tacrolimus,THP1,Calcineurin inhibitor,FKBP1A,0.194792
+105903,cytarabine,HT29,Ribonucleotide reductase inhibitor,POLA1,0.193253
+105897,cytarabine,A549,Ribonucleotide reductase inhibitor,POLA1,0.191849
+111998,genistein,HT29,Tyrosine kinase inhibitor,CFTR,0.190299
+99523,alprostadil,MCF7,Prostanoid receptor agonist,PTGER1,0.189144
+102652,brivanib,A375,FGFR inhibitor,FGFR1,0.185923
+122741,pitavastatin,HT29,HMGCR inhibitor,HMGCR,0.185875
+128816,thiothixene,A549,Dopamine receptor antagonist,HTR2A,0.184315
+119790,nitrendipine,A375,Calcium channel blocker,CACNA1C,0.183922
+128819,thiothixene,HCC515,Dopamine receptor antagonist,HTR2A,0.177839
+102071,betulinic-acid,PC3,Caspase activator,GPBAR1,0.176725
+105849,cyclosporin-a,SKB,Calcineurin inhibitor,PPIA,0.174533
+128904,tibolone,HA1E,Androgen receptor agonist,ESR1,0.174115
+123059,pregnenolone,HEPG2,,,0.173343
+83226,GSK-1059615,MCF10A,,,0.172479
+117912,mibefradil,HCC515,T-type calcium channel blocker,CACNA1C,0.171797
+105039,clofarabine,HT29,Ribonucleoside reductase inhibitor,POLA1,0.171365
+99990,amiprilose,MCF7,,,0.171150
+105896,cytarabine,A375,Ribonucleotide reductase inhibitor,POLA1,0.170430
+118226,mitomycin-c,A375,,,0.169605
+117908,mibefradil,A375,T-type calcium channel blocker,CACNA1C,0.168836
+131817,zaprinast,HA1E,Phosphodiesterase inhibitor,PDE5A,0.167918
+127599,tamoxifen,SKB,Estrogen receptor antagonist,ESR1,0.166961
+111678,gabazine,A549,GABA receptor antagonist,GABRA1,0.166766
+124280,ramipril,A549,Angiotensin converting enzyme inhibitor,ACE,0.165048
+98258,YM-155,A549,Survivin inhibitor,BIRC5,0.164716
+102670,brivanib,PC3,FGFR inhibitor,FGFR1,0.164554
+103471,capsaicin,MCF7,TRPV agonist,TRPV1,0.163694
+116825,medrysone,VCAP,Glucocorticoid receptor agonist,NR3C1,0.163260
+130011,triamcinolone,HA1E,Glucocorticoid receptor agonist,NR3C1,0.160919
+102203,bimatoprost,MCF7,Prostanoid receptor agonist,PTGFR,0.159562
+122391,pinacidil,SKB,ATP channel activator,ABCC9,0.159222
+103341,camptothecin,HT29,Topoisomerase inhibitor,TOP1,0.158184
+124673,resveratrol,A375,SIRT activator,SIRT1,0.157937
+629,AG-490,U2OS,JAK inhibitor,JAK2,0.156929
+113291,idarubicin,A375,Topoisomerase inhibitor,TOP2A,0.156438
+124188,radicicol,HA1E,,,0.156257
+119987,noretynodrel,A375,Progestogen hormone,PGR,0.156128
+126137,selegiline,HT29,Monoamine oxidase inhibitor,MAOA,0.155829
+118885,naloxone,HCC515,Opioid receptor antagonist,OPRD1,0.155550
+112447,guanaben-acetate,PC3,Adrenergic receptor agonist,ADRA2A,0.154888
+124733,retinol,VCAP,Retinoid receptor ligand,RXRA,0.154777
+128826,thiothixene,MCF7,Dopamine receptor antagonist,HTR2A,0.154641
+131036,veliparib,YAPC,PARP inhibitor,PARP2,0.154444
+109574,estradiol,U2OS,Estrogen receptor agonist,ESR1,0.153741
+127214,sulpiride,PC3,Dopamine receptor antagonist,DRD2,0.152769
+130073,triciribine,ASC,Akt inhibitor,AKT3,0.152654

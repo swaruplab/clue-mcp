@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+103251,calcitriol,PC3,Vitamin D receptor agonist,VDR,0.247813
+131255,vinblastine,HUH7,Tubulin inhibitor,TUBB,0.206370
+103226,calcipotriol,PC3,Vitamin D receptor agonist,VDR,0.201636
+116112,lovastatin,PC3,HMGCR inhibitor,HMGCR,0.187609
+123317,progesterone,MCF10A,Progesterone receptor agonist,CYP17A1,0.185111
+131254,vinblastine,HT29,Tubulin inhibitor,TUBB,0.180220
+89874,PAC-1,HT29,Caspase activator,CASP3,0.179906
+83503,GSK-690693,HT29,Akt inhibitor,AKT3,0.178434
+131253,vinblastine,HEPG2,Tubulin inhibitor,TUBB,0.176054
+79943,BW-B70C,MCF7,Lipoxygenase inhibitor,ALOX5,0.171998
+131321,vinorelbine,HCC515,Tubulin inhibitor,TUBB,0.167774
+127199,suloctidil,MCF7,,,0.166073
+117862,mevastatin,PC3,HMGCR inhibitor,HMGCR,0.165315
+126734,sorafenib,MCF7,KIT inhibitor,FGFR1,0.164007
+131304,vincristine,MCF7,Tubulin inhibitor,TUBB,0.163710
+131249,vinblastine,A549,Tubulin inhibitor,TUBB,0.163384
+98258,YM-155,A549,Survivin inhibitor,BIRC5,0.162935
+119563,niguldipine,MCF7,Calcium channel blocker,ADRA1A,0.162760
+99257,alfacalcidol,PC3,Vitamin D receptor agonist,VDR,0.161922
+106362,daunorubicin,A375,RNA synthesis inhibitor,TOP2A,0.157994
+89768,OSI-027,HT29,MTOR inhibitor,MTOR,0.156452
+111998,genistein,HT29,Tyrosine kinase inhibitor,CFTR,0.155597
+131259,vinblastine,PC3,Tubulin inhibitor,TUBB,0.154642
+131323,vinorelbine,HT29,Tubulin inhibitor,TUBB,0.153093
+128823,thiothixene,HT29,Dopamine receptor antagonist,HTR2A,0.151866
+105903,cytarabine,HT29,Ribonucleotide reductase inhibitor,POLA1,0.151782
+103814,catechin,VCAP,,,0.151705
+99969,amiodarone,MCF7,Potassium channel blocker,KCNH2,0.150303
+89972,PD-0325901,A549,MEK inhibitor,MAP2K1,0.149740
+105153,clomifene,MCF10A,Estrogen receptor antagonist,ESR1,0.149104
+131328,vinorelbine,PC3,Tubulin inhibitor,TUBB,0.148600
+83217,GSK-1059615,HEK293,,,0.147954
+114617,ketoconazole,PC3,Sterol demethylase inhibitor,CYP19A1,0.147943
+131252,vinblastine,HCC515,Tubulin inhibitor,TUBB,0.147764
+131256,vinblastine,MCF7,Tubulin inhibitor,TUBB,0.147165
+125519,rottlerin,PHH,,,0.146991
+130341,triprolidine,VCAP,Histamine receptor antagonist,HRH1,0.146538
+106494,deforolimus,A549,MTOR inhibitor,MTOR,0.146286
+95786,SU-11274,PC3,Tyrosine kinase inhibitor,MET,0.145727
+90722,PIK-75,MCF7,PI3K inhibitor,PIK3CA,0.145580
+110023,everolimus,A549,MTOR inhibitor,MTOR,0.145546
+105745,cyclopamine,MCF7,Smoothened receptor antagonist,SMO,0.145281
+114894,lapatinib,SKB,EGFR inhibitor,EGFR,0.145113
+111280,fluvastatin,PC3,HMGCR inhibitor,HMGCR,0.144520
+131320,vinorelbine,HA1E,Tubulin inhibitor,TUBB,0.143948
+107317,digitoxin,VCAP,ATPase inhibitor,ATP1A1,0.143555
+99591,altrenogest,MCF7,Progestogen hormone,PGR,0.142847
+131331,vinorelbine,VCAP,Tubulin inhibitor,TUBB,0.142103
+109110,epirubicin,A375,Topoisomerase inhibitor,TOP2A,0.142045
+126482,simvastatin,PC3,HMGCR inhibitor,HMGCR,0.141440

@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+122746,pitavastatin,PC3,HMGCR inhibitor,HMGCR,-0.760188
+111280,fluvastatin,PC3,HMGCR inhibitor,HMGCR,-0.757443
+89984,PD-0325901,HT29,MEK inhibitor,MAP2K1,-0.751184
+116112,lovastatin,PC3,HMGCR inhibitor,HMGCR,-0.748728
+126482,simvastatin,PC3,HMGCR inhibitor,HMGCR,-0.742251
+89419,NVP-AUY922,MCF10A,HSP inhibitor,HSP90AA1,-0.734740
+117862,mevastatin,PC3,HMGCR inhibitor,HMGCR,-0.733987
+127245,sunitinib,HT29,KIT inhibitor,FLT1,-0.723361
+115383,levonorgestrel,VCAP,Estrogen receptor agonist,PGR,-0.720107
+127590,tamoxifen,MCF7,Estrogen receptor antagonist,ESR1,-0.711901
+99257,alfacalcidol,PC3,Vitamin D receptor agonist,VDR,-0.708679
+103251,calcitriol,PC3,Vitamin D receptor agonist,VDR,-0.698552
+94075,SB-590885,A375,RAF inhibitor,BRAF,-0.697407
+110113,exemestane,VCAP,Aromatase inhibitor,CYP19A1,-0.691833
+111571,fulvestrant,MCF7,Estrogen receptor antagonist,ESR1,-0.681820
+1988,AZD-7762,A549,CHK inhibitor,CHEK1,-0.681726
+127235,sunitinib,A375,KIT inhibitor,FLT1,-0.676048
+82896,GDC-0980,PC3,MTOR inhibitor,MTOR,-0.675470
+105902,cytarabine,HEPG2,Ribonucleotide reductase inhibitor,POLA1,-0.672446
+101003,atorvastatin,PC3,HMGCR inhibitor,DPP4,-0.671751
+82892,GDC-0980,HT29,MTOR inhibitor,MTOR,-0.669571
+106502,deforolimus,PC3,MTOR inhibitor,MTOR,-0.667891
+2005,AZD-7762,MDAMB231,CHK inhibitor,CHEK1,-0.666083
+79945,BW-B70C,PC3,Lipoxygenase inhibitor,ALOX5,-0.664412
+123317,progesterone,MCF10A,Progesterone receptor agonist,CYP17A1,-0.661690
+114462,ivermectin,PC3,,,-0.660742
+84058,HG-5-113-01,HT29,,,-0.658332
+119999,noretynodrel,VCAP,Progestogen hormone,PGR,-0.655259
+115160,lestaurtinib,HT29,JAK inhibitor,FLT3,-0.651482
+83236,GSK-1059615,THP1,,,-0.651249
+128365,testosterone,VCAP,,,-0.651135
+109951,etoposide,MCF7,Topoisomerase inhibitor,TOP2A,-0.647819
+94084,SB-590885,HT29,RAF inhibitor,BRAF,-0.641622
+115633,linsitinib,HT29,IGF-1 inhibitor,IGF1R,-0.632686
+100063,amlodipine,VCAP,Calcium channel blocker,CACNA1C,-0.632628
+127669,tanespimycin,HT29,HSP inhibitor,HSP90AA1,-0.632177
+106135,danazol,VCAP,Estrogen receptor antagonist,ESR1,-0.632017
+129986,tretinoin,U937,Retinoid receptor ligand,RARA,-0.631784
+96558,U-0126,HT29,MEK inhibitor,MAP2K1,-0.630694
+89774,OSI-027,PC3,MTOR inhibitor,MTOR,-0.630486
+2925,BMS-509744,MCF10A,,,-0.627647
+110520,fenretinide,PC3,Apoptosis stimulant,RARA,-0.625376
+117402,metergoline,HT29,Dopamine receptor agonist,HTR1A,-0.624866
+83960,H-9,VCAP,PKA inhibitor,PRKACA,-0.624422
+115154,lestaurtinib,A549,JAK inhibitor,FLT3,-0.622569
+2495,BI-2536,HCC515,PLK inhibitor,PLK1,-0.619974
+89885,PAC-1,VCAP,Caspase activator,CASP3,-0.619328
+119571,niguldipine,PC3,Calcium channel blocker,ADRA1A,-0.615801
+131631,wortmannin,PC3,PI3K inhibitor,PIK3CA,-0.615396
+127675,tanespimycin,MCF7,HSP inhibitor,HSP90AA1,-0.614656

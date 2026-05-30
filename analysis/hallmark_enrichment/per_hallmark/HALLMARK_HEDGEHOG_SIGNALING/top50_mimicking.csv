@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+119563,niguldipine,MCF7,Calcium channel blocker,ADRA1A,0.328944
+106852,dexamethasone,NOMO1,Glucocorticoid receptor agonist,NR3C1,0.325429
+114746,labetalol,A375,Adrenergic receptor antagonist,ADRA1D,0.322365
+98120,Y-27632,VCAP,Rho associated kinase inhibitor,ROCK1,0.321797
+111558,fulvestrant,A549,Estrogen receptor antagonist,ESR1,0.312676
+100548,antimycin-a,A549,ATP synthase inhibitor,CYCS,0.305447
+99437,aloisine,PC3,CDK inhibitor,CDK2,0.298183
+82691,GBR-12783,HEPG2,,,0.291414
+123317,progesterone,MCF10A,Progesterone receptor agonist,CYP17A1,0.290738
+126727,sorafenib,HEPG2,KIT inhibitor,FGFR1,0.288440
+109663,estropipate,HT29,,,0.287728
+110653,finasteride,HT29,5 alpha reductase inhibitor,SRD5A1,0.287340
+111396,formestane,PC3,Aromatase inhibitor,CYP19A1,0.283645
+623,AG-490,HT29,JAK inhibitor,JAK2,0.283465
+111097,fluphenazine,HEPG2,Dopamine receptor antagonist,DRD1,0.281437
+127243,sunitinib,HEPG2,KIT inhibitor,FLT1,0.280707
+110977,flunisolide,MCF7,Cytochrome P450 inhibitor,NR3C1,0.280473
+94936,SN-38,MCF7,Topoisomerase inhibitor,TOP1,0.272640
+119815,nitrendipine,VCAP,Calcium channel blocker,CACNA1C,0.265457
+106057,dactinomycin,PC3,RNA polymerase inhibitor,POLR2A,0.263411
+103586,carbenoxolone,VCAP,11-beta-HSD1 inhibitor,HSD11B1,0.263024
+112865,huperzine-a,MCF7,Glutamate receptor antagonist,ACHE,0.262816
+119204,nelfinavir,A549,HIV protease inhibitor,CYP1A2,0.261942
+625,AG-490,NPC,JAK inhibitor,JAK2,0.260933
+116117,lovastatin,VCAP,HMGCR inhibitor,HMGCR,0.260626
+94003,SB-366791,PC3,TRPV antagonist,TRPV1,0.259391
+131299,vincristine,HA1E,Tubulin inhibitor,TUBB,0.257931
+1553,AT-CSC-18,HEPG2,,,0.255597
+109855,etodolac,ASC,Cyclooxygenase inhibitor,PTGS2,0.254732
+359,A-443654,HT29,,,0.251406
+83693,GW-441756,VCAP,Growth factor receptor inhibitor,NTRK1,0.250802
+109866,etodolac,PC3,Cyclooxygenase inhibitor,PTGS2,0.249865
+126798,sparfloxacin,PC3,,,0.249054
+111429,forskolin,HCC515,Adenylyl cyclase activator,ADCY2,0.248549
+89248,NSC-693868,HA1E,CDK inhibitor,CDK5,0.247648
+99071,afatinib,A375,EGFR inhibitor,EGFR,0.246809
+109908,etomidate,HT29,GABA receptor modulator,GABRA1,0.246665
+128822,thiothixene,HEPG2,Dopamine receptor antagonist,HTR2A,0.245548
+128829,thiothixene,PC3,Dopamine receptor antagonist,HTR2A,0.244745
+98443,ZG-10,MCF7,,,0.243583
+111998,genistein,HT29,Tyrosine kinase inhibitor,CFTR,0.243412
+117811,metoprolol,PC3,Adrenergic receptor antagonist,ADRB1,0.242835
+128348,testosterone,A375,,,0.242546
+116818,medrysone,HT29,Glucocorticoid receptor agonist,NR3C1,0.242456
+130355,triptolide,MCF7,,,0.242231
+116043,losartan,A549,Angiotensin receptor antagonist,AGTR1,0.241789
+1542,AT-CSC-07,HT29,,,0.240582
+119740,nisoldipine,A549,Calcium channel blocker,CACNA1C,0.239698
+107571,dinoprost,MCF7,Prostacyclin analog,PTGDR,0.239491
+100560,antimycin-a,VCAP,ATP synthase inhibitor,CYCS,0.238977

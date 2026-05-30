@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+89874,PAC-1,HT29,Caspase activator,CASP3,0.258932
+89868,PAC-1,A549,Caspase activator,CASP3,0.256945
+83729,GW-5074,MCF7,RAF inhibitor,RAF1,0.249006
+102000,betamethasone,PC3,Glucocorticoid receptor agonist,NR3C1,0.239564
+2507,BI-2536,MCF7,PLK inhibitor,PLK1,0.238059
+84072,HG-5-88-01,HA1E,,,0.233135
+89875,PAC-1,MCF7,Caspase activator,CASP3,0.231373
+119840,nitrofural,PC3,,,0.226954
+89871,PAC-1,HCC515,Caspase activator,CASP3,0.226073
+89870,PAC-1,HA1E,Caspase activator,CASP3,0.216964
+114924,lasalocid,A375,,,0.212781
+100048,amlodipine,A549,Calcium channel blocker,CACNA1C,0.212033
+123054,pregnenolone,A549,,,0.211836
+104026,celastrol,MCF7,,,0.209496
+89880,PAC-1,PC3,Caspase activator,CASP3,0.208893
+110645,finasteride,A375,5 alpha reductase inhibitor,SRD5A1,0.208354
+102731,bromocriptine,PC3,Dopamine receptor agonist,ADRA2A,0.205957
+128819,thiothixene,HCC515,Dopamine receptor antagonist,HTR2A,0.202568
+108154,doxepin,A375,Histamine receptor antagonist,HRH1,0.202522
+106854,dexamethasone,PC3,Glucocorticoid receptor agonist,NR3C1,0.201338
+113182,ibrutinib,YAPC,BTK inhibitor,BTK,0.200461
+110958,flunarizine,HA1E,Calcium channel blocker,CACNA1H,0.197487
+103478,capsaicin,PC3,TRPV agonist,TRPV1,0.197056
+102196,bimatoprost,HA1E,Prostanoid receptor agonist,PTGFR,0.196672
+118138,minoxidil,A375,Vasodilator,ABCC9,0.195118
+112943,hydrocortisone,PC3,Glucocorticoid receptor agonist,NR3C1,0.194988
+111415,formoterol,MCF7,Adrenergic receptor agonist,ADRB2,0.194976
+119386,nicardipine,HCC515,Calcium channel blocker,CACNA1C,0.194448
+101994,betamethasone,HA1E,Glucocorticoid receptor agonist,NR3C1,0.194376
+102847,budesonide,HA1E,Glucocorticoid receptor agonist,NR3C1,0.194274
+1967,AZD-7545,PC3,,,0.193781
+82689,GBR-12783,HA1E,,,0.193479
+89867,PAC-1,A375,Caspase activator,CASP3,0.193067
+94086,SB-590885,MCF7,RAF inhibitor,BRAF,0.191657
+124293,ramipril,VCAP,Angiotensin converting enzyme inhibitor,ACE,0.190831
+129582,toremifene,HT29,Estrogen receptor antagonist,ESR1,0.189932
+105750,cyclopamine,SKB,Smoothened receptor antagonist,SMO,0.189793
+109916,etomidate,VCAP,GABA receptor modulator,GABRA1,0.189625
+103225,calcipotriol,MCF7,Vitamin D receptor agonist,VDR,0.189377
+119795,nitrendipine,HA1E,Calcium channel blocker,CACNA1C,0.188322
+84100,HG-6-64-01,MCF7,,,0.187341
+118044,miglitol,MCF7,Glucosidase inhibitor,GAA,0.187021
+79945,BW-B70C,PC3,Lipoxygenase inhibitor,ALOX5,0.186604
+629,AG-490,U2OS,JAK inhibitor,JAK2,0.185266
+118143,minoxidil,HCC515,Vasodilator,ABCC9,0.184226
+97599,WH-4023,MCF7,,,0.182928
+121941,phentolamine,PC3,Adrenergic receptor antagonist,ADRA1A,0.182616
+117912,mibefradil,HCC515,T-type calcium channel blocker,CACNA1C,0.182592
+102250,biperiden,HT29,Acetylcholine receptor antagonist,CHRM1,0.182531
+122761,pivmecillinam,PC3,,,0.182269

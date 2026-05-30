@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+120638,ouabain,PHH,ATPase inhibitor,ATP1A1,-0.369752
+130083,triciribine,PHH,Akt inhibitor,AKT3,-0.324743
+107347,digoxin,PHH,ATPase inhibitor,ATP1A1,-0.282946
+101183,azacitidine,A549,DNA methyltransferase inhibitor,DNMT1,-0.269076
+96409,TTNPB,PHH,Retinoid receptor agonist,RARB,-0.262089
+88890,NCS-382,ASC,GABA receptor antagonist,GABBR1,-0.256083
+131301,vincristine,HEPG2,Tubulin inhibitor,TUBB,-0.251481
+117302,mestranol,MCF7,Estrogen receptor agonist,ESR1,-0.250788
+108737,emetine,PHH,Protein synthesis inhibitor,RPS2,-0.248174
+131253,vinblastine,HEPG2,Tubulin inhibitor,TUBB,-0.243660
+105828,cyclosporin-a,ASC,Calcineurin inhibitor,PPIA,-0.240866
+88897,NCS-382,PC3,GABA receptor antagonist,GABBR1,-0.236604
+111224,fluticasone,ASC,Glucocorticoid receptor agonist,NR3C1,-0.232939
+93715,SB-203580,ASC,P38 MAPK inhibitor,MAPK14,-0.228750
+118914,naltriben,A375,Opioid receptor antagonist,OPRD1,-0.224739
+91404,QL-X-138,PC3,,,-0.223341
+119060,nateglinide,A375,Insulin secretagogue,KCNJ11,-0.218924
+108740,emetine,U2OS,Protein synthesis inhibitor,RPS2,-0.217770
+131322,vinorelbine,HEPG2,Tubulin inhibitor,TUBB,-0.216681
+122925,pravastatin,ASC,HMGCR inhibitor,HMGCR,-0.215907
+105848,cyclosporin-a,PHH,Calcineurin inhibitor,PPIA,-0.214426
+108725,emetine,HCC515,Protein synthesis inhibitor,RPS2,-0.211432
+131318,vinorelbine,A549,Tubulin inhibitor,TUBB,-0.208736
+105158,clomifene,PHH,Estrogen receptor antagonist,ESR1,-0.207829
+100202,amsacrine,HEPG2,Topoisomerase inhibitor,TOP2A,-0.207265
+130763,ursolic-acid,A549,STAT inhibitor,HSD11B1,-0.207088
+108719,emetine,A375,Protein synthesis inhibitor,RPS2,-0.206831
+85092,JW-7-24-1,PC3,,,-0.206775
+118005,mifepristone,ASC,Progesterone receptor antagonist,NR3C1,-0.206424
+129003,timolol,MCF7,Adrenergic receptor antagonist,ADRB1,-0.206359
+131250,vinblastine,ASC,Tubulin inhibitor,TUBB,-0.205909
+111724,galantamine,VCAP,Acetylcholinesterase inhibitor,ACHE,-0.205178
+131719,yohimbine,HT29,Adrenergic receptor antagonist,ADRA2A,-0.204920
+95825,SU-4312,ASC,PDGFR inhibitor,KDR,-0.204910
+83710,GW-5074,A549,RAF inhibitor,RAF1,-0.202254
+110860,fludarabine,PHH,DNA synthesis inhibitor,RRM1,-0.201208
+105899,cytarabine,HCC515,Ribonucleotide reductase inhibitor,POLA1,-0.199208
+102492,bortezomib,YAPC,Proteasome inhibitor,PSMB1,-0.199058
+94080,SB-590885,HCC515,RAF inhibitor,BRAF,-0.198563
+627,AG-490,PHH,JAK inhibitor,JAK2,-0.193715
+120972,paclitaxel,A549,Tubulin inhibitor,TUBB,-0.193014
+96572,U-0126,PHH,MEK inhibitor,MAP2K1,-0.192395
+124297,ranitidine,ASC,Histamine receptor antagonist,HRH2,-0.191956
+97979,XMD-16144,SKBR3,,,-0.191710
+110521,fenretinide,PHH,Apoptosis stimulant,RARA,-0.190462
+104998,clobetasol,ASC,Glucocorticoid receptor agonist,NR3C1,-0.190419
+91446,QL-XII-47,HT29,,,-0.190131
+98734,acarbose,A375,Glucosidase inhibitor,GAA,-0.189995
+85078,JW-7-24-1,A375,,,-0.189556
+131906,zidovudine,HA1E,,,-0.189552

@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+130344,triptolide,A549,,,0.385367
+126926,staurosporine,MCF7,PKC inhibitor,CDK2,0.374416
+103346,camptothecin,MCF7,Topoisomerase inhibitor,TOP1,0.369679
+131600,wortmannin,A549,PI3K inhibitor,PIK3CA,0.361372
+131713,yohimbine,A549,Adrenergic receptor antagonist,ADRA2A,0.354283
+103608,carbidopa,MCF7,Aromatic L-amino acid decarboxylase inhibitor,DDC,0.341483
+124024,quinine,MCF7,Hemozoin biocrystallization inhibitor,KCNN4,0.339260
+128815,thiothixene,A375,Dopamine receptor antagonist,HTR2A,0.337573
+112371,granisetron,A375,Serotonin receptor antagonist,HTR3A,0.335042
+100743,argatroban,A549,Thrombin inhibitor,F2,0.333615
+113309,idarubicin,VCAP,Topoisomerase inhibitor,TOP2A,0.332479
+100057,amlodipine,MCF7,Calcium channel blocker,CACNA1C,0.332333
+90722,PIK-75,MCF7,PI3K inhibitor,PIK3CA,0.328926
+129576,toremifene,A549,Estrogen receptor antagonist,ESR1,0.327547
+103895,cefixime,A549,,,0.326606
+119037,naringenin,PC3,TRPV antagonist,CYP19A1,0.323021
+124919,rifaximin,MCF7,RNA synthesis inhibitor,NR1I2,0.320944
+89656,OBAA,PC3,Phospholipase inhibitor,PLA2G1B,0.320668
+98397,ZD-7114,MCF7,Adrenergic receptor agonist,ADRB3,0.320133
+125524,rottlerin,VCAP,,,0.320101
+128361,testosterone,PC3,,,0.317197
+104092,ceramide,A549,,,0.316483
+124880,rifabutin,PC3,,,0.315769
+105618,curcumin,THP1,Lipoxygenase inhibitor,PTGS1,0.315574
+106056,dactinomycin,MCF7,RNA polymerase inhibitor,POLR2A,0.315266
+127604,tamoxifen,VCAP,Estrogen receptor antagonist,ESR1,0.314763
+115161,lestaurtinib,MCF7,JAK inhibitor,FLT3,0.314487
+99091,afatinib,MCF7,EGFR inhibitor,EGFR,0.312865
+114359,isradipine,NPC,Calcium channel blocker,CACNA1C,0.312735
+80970,CO-102862,A375,,,0.311324
+125935,saracatinib,HME1,Src inhibitor,ABL1,0.310545
+116812,medrysone,ASC,Glucocorticoid receptor agonist,NR3C1,0.309831
+127675,tanespimycin,MCF7,HSP inhibitor,HSP90AA1,0.305970
+105601,curcumin,HCT116,Lipoxygenase inhibitor,PTGS1,0.305759
+114350,isradipine,A549,Calcium channel blocker,CACNA1C,0.305127
+119235,nemonapride,PC3,Dopamine receptor antagonist,DRD2,0.303699
+126925,staurosporine,HT29,PKC inhibitor,CDK2,0.303585
+115156,lestaurtinib,HA1E,JAK inhibitor,FLT3,0.302401
+113099,hyoscyamine,MCF7,,,0.301525
+110113,exemestane,VCAP,Aromatase inhibitor,CYP19A1,0.299676
+106375,daunorubicin,MCF7,RNA synthesis inhibitor,TOP2A,0.298248
+90718,PIK-75,HCC515,PI3K inhibitor,PIK3CA,0.297761
+83223,GSK-1059615,HUVEC,,,0.297177
+118019,mifepristone,VCAP,Progesterone receptor antagonist,NR3C1,0.296512
+122168,picrotoxin,A549,GABA receptor antagonist,GABRA1,0.295814
+116063,losartan,PC3,Angiotensin receptor antagonist,AGTR1,0.294484
+102203,bimatoprost,MCF7,Prostanoid receptor agonist,PTGFR,0.293186
+88897,NCS-382,PC3,GABA receptor antagonist,GABBR1,0.291726
+122071,physostigmine,A549,Cholinesterase inhibitor,ACHE,0.288790
+104624,cimetidine,HEPG2,Histamine receptor antagonist,HRH2,0.287930

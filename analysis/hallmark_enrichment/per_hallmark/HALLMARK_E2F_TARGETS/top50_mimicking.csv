@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+94083,SB-590885,HS578T,RAF inhibitor,BRAF,0.564077
+82262,EPZ-5676,MCF10A,DOT1L inhibitor,DOT1L,0.527266
+113182,ibrutinib,YAPC,BTK inhibitor,BTK,0.514190
+90733,PIK-75,VCAP,PI3K inhibitor,PIK3CA,0.505560
+91411,QL-XI-92,ASC,,,0.494051
+120444,orantinib,A549,FGFR inhibitor,FGFR1,0.469881
+105721,cycloheximide,ASC,Protein synthesis inhibitor,RPL3,0.467075
+124948,rilmenidine,A549,Adrenergic receptor agonist,NISCH,0.461383
+124698,resveratrol,VCAP,SIRT activator,SIRT1,0.458575
+115058,lenalidomide,A375,Anti-cancer agent,CRBN,0.457617
+119516,nifedipine,VCAP,Calcium channel blocker,CACNA1C,0.448087
+1803,AZD-1480,MCF10A,JAK inhibitor,JAK1,0.442461
+906,AM-404,VCAP,FAAH inhibitor,TRPV1,0.433026
+118143,minoxidil,HCC515,Vasodilator,ABCC9,0.432932
+93910,SB-239063,A375,P38 MAPK inhibitor,MAPK14,0.430261
+126299,sericetin,VCAP,,,0.424694
+101498,batimastat,A375,,,0.423986
+106118,danazol,HCC515,Estrogen receptor antagonist,ESR1,0.423172
+120955,ozagrel,VCAP,Thromboxane synthase inhibitor,TBXAS1,0.415011
+106843,dexamethasone,HT29,Glucocorticoid receptor agonist,NR3C1,0.412753
+129810,tranilast,VCAP,,,0.410767
+131815,zaprinast,A549,Phosphodiesterase inhibitor,PDE5A,0.405352
+106847,dexamethasone,MCF7,Glucocorticoid receptor agonist,NR3C1,0.404210
+131023,veliparib,MCF10A,PARP inhibitor,PARP2,0.403697
+129968,tretinoin,HCC515,Retinoid receptor ligand,RARA,0.403515
+121945,phentolamine,VCAP,Adrenergic receptor antagonist,ADRA1A,0.402529
+96283,THZ-2-98-01,SKBR3,,,0.399340
+119848,nizatidine,A375,Histamine receptor antagonist,HRH2,0.395456
+110956,flunarizine,A549,Calcium channel blocker,CACNA1H,0.395355
+96276,THZ-2-98-01,HS578T,,,0.394668
+93715,SB-203580,ASC,P38 MAPK inhibitor,MAPK14,0.393720
+118151,minoxidil,MCF7,Vasodilator,ABCC9,0.392708
+120544,orteronel,MCF7,Cytochrome P450 inhibitor,CYP17A1,0.392253
+104691,cinanserin,VCAP,,,0.391781
+112510,guggulsterone,MCF7,IKK inhibitor,NR3C1,0.391611
+128725,thioperamide,HCC515,Histamine receptor antagonist,HRH3,0.390953
+80431,CG-930,PC3,JNK inhibitor,MAPK8,0.390320
+131457,voriconazole,PC3,Cytochrome P450 inhibitor,CYP2C19,0.389823
+102829,bucladesine,VCAP,CAMP stimulant,PRKACA,0.387519
+96413,TTNPB,VCAP,Retinoid receptor agonist,RARB,0.386264
+122935,pravastatin,MCF7,HMGCR inhibitor,HMGCR,0.385809
+130336,triprolidine,HT29,Histamine receptor antagonist,HRH1,0.384664
+116042,losartan,A375,Angiotensin receptor antagonist,AGTR1,0.383652
+93931,SB-239063,PC3,P38 MAPK inhibitor,MAPK14,0.383051
+129972,tretinoin,HT29,Retinoid receptor ligand,RARA,0.381132
+117728,methysergide,HCC515,Serotonin receptor antagonist,HTR1B,0.380531
+100881,asenapine,MCF7,Dopamine receptor antagonist,ADRB2,0.380086
+118760,nadolol,VCAP,Adrenergic receptor antagonist,ADRB1,0.379882
+112504,guggulsterone,A549,IKK inhibitor,NR3C1,0.379878
+122070,physostigmine,A375,Cholinesterase inhibitor,ACHE,0.377383

@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+107333,digoxin,A549,ATPase inhibitor,ATP1A1,-0.382277
+108719,emetine,A375,Protein synthesis inhibitor,RPS2,-0.368267
+108724,emetine,HA1E,Protein synthesis inhibitor,RPS2,-0.364003
+122386,pinacidil,MCF7,ATP channel activator,ABCC9,-0.358893
+125134,ritodrine,A375,Adrenergic receptor agonist,ADRB2,-0.356100
+91404,QL-X-138,PC3,,,-0.351303
+91400,QL-X-138,MCF7,,,-0.343712
+102492,bortezomib,YAPC,Proteasome inhibitor,PSMB1,-0.342264
+126510,sirolimus,A375,MTOR inhibitor,FKBP1A,-0.342252
+105720,cycloheximide,A549,Protein synthesis inhibitor,RPL3,-0.340676
+117859,mevastatin,MCF7,HMGCR inhibitor,HMGCR,-0.336667
+101188,azacitidine,HEK293,DNA methyltransferase inhibitor,DNMT1,-0.318138
+108728,emetine,HT29,Protein synthesis inhibitor,RPS2,-0.317952
+91397,QL-X-138,HT29,,,-0.317176
+112434,guanaben-acetate,HA1E,Adrenergic receptor agonist,ADRA2A,-0.316944
+1989,AZD-7762,ASC,CHK inhibitor,CHEK1,-0.311671
+105036,clofarabine,HCC515,Ribonucleoside reductase inhibitor,POLA1,-0.304695
+100838,artesunate,PC3,,,-0.304313
+129676,tozasertib,A375,JAK inhibitor,FLT3,-0.304232
+128582,thapsigargin,HA1E,ATPase inhibitor,ATP2A1,-0.303745
+105854,cyclosporin-a,VCAP,Calcineurin inhibitor,PPIA,-0.301474
+100826,artesunate,A549,,,-0.301347
+128579,thapsigargin,A375,ATPase inhibitor,ATP2A1,-0.298948
+126739,sorafenib,SKB,KIT inhibitor,FGFR1,-0.295043
+96281,THZ-2-98-01,MDAMB231,,,-0.294846
+79940,BW-B70C,HCC515,Lipoxygenase inhibitor,ALOX5,-0.294533
+102237,biotin,MCF7,,,-0.293154
+127698,tanespimycin,U2OS,HSP inhibitor,HSP90AA1,-0.292609
+109558,estradiol,ASC,Estrogen receptor agonist,ESR1,-0.292447
+125501,rottlerin,HCC515,,,-0.288345
+102563,brefeldin-a,HA1E,,,-0.288264
+123734,puromycin,VCAP,,,-0.287661
+120290,oligomycin-a,A549,ATPase inhibitor,ATP5F1A,-0.286004
+91437,QL-XII-47,A375,,,-0.285934
+105035,clofarabine,HA1E,Ribonucleoside reductase inhibitor,POLA1,-0.285714
+91388,QL-X-138,A375,,,-0.285483
+116483,manumycin-a,VCAP,NFKB pathway inhibitor,FNTA,-0.284718
+117081,mephentermine,PC3,,,-0.284231
+102474,bortezomib,MCF10A,Proteasome inhibitor,PSMB1,-0.282458
+123309,progesterone,HA1E,Progesterone receptor agonist,CYP17A1,-0.282110
+110513,fenretinide,HEPG2,Apoptosis stimulant,RARA,-0.281913
+105839,cyclosporin-a,MCF10A,Calcineurin inhibitor,PPIA,-0.281763
+104513,cilastatin,A549,Dehydropeptidase inhibitor,DPEP1,-0.281577
+101195,azacitidine,MCF7,DNA methyltransferase inhibitor,DNMT1,-0.281485
+91392,QL-X-138,HA1E,,,-0.281461
+113700,indirubin,VCAP,CDK inhibitor,CDK5,-0.281346
+89255,NSC-693868,PHH,CDK inhibitor,CDK5,-0.281033
+102001,betamethasone,PHH,Glucocorticoid receptor agonist,NR3C1,-0.281033
+126738,sorafenib,PC3,KIT inhibitor,FGFR1,-0.280998
+131943,zimelidine,MCF7,Serotonin reuptake inhibitor,SLC6A4,-0.280106

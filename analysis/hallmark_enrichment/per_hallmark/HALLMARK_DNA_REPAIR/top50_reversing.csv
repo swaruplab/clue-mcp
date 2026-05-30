@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+1036,AMG-9810,PC3,TRPV antagonist,TRPV1,-0.377354
+110145,ezetimibe,PC3,Cholesterol inhibitor,NPC1L1,-0.361895
+118003,mifepristone,A375,Progesterone receptor antagonist,NR3C1,-0.357677
+118036,miglitol,A375,Glucosidase inhibitor,GAA,-0.347007
+84060,HG-5-113-01,MCF7,,,-0.340110
+127675,tanespimycin,MCF7,HSP inhibitor,HSP90AA1,-0.339528
+123686,pterostilbene,A375,PPAR receptor agonist,PTGS2,-0.335853
+104091,ceramide,A375,,,-0.333956
+126348,sertraline,HT29,Serotonin receptor antagonist,SLC6A4,-0.329563
+125027,rimcazole,HT29,Sigma receptor antagonist,SIGMAR1,-0.329549
+89656,OBAA,PC3,Phospholipase inhibitor,PLA2G1B,-0.328134
+110849,fludarabine,A375,DNA synthesis inhibitor,RRM1,-0.326434
+127674,tanespimycin,MCF10A,HSP inhibitor,HSP90AA1,-0.325851
+89397,NVP-AEW541,A375,IGF-1 inhibitor,IGF1R,-0.323215
+93757,SB-205607,HT29,Delta 1 opioid receptor agonist,OPRD1,-0.322019
+130781,ursolic-acid,PC3,STAT inhibitor,HSD11B1,-0.320740
+127590,tamoxifen,MCF7,Estrogen receptor antagonist,ESR1,-0.320522
+131713,yohimbine,A549,Adrenergic receptor antagonist,ADRA2A,-0.320181
+126545,sirolimus,NOMO1,MTOR inhibitor,FKBP1A,-0.318048
+130994,vecuronium,A375,Acetylcholine receptor antagonist,CHRNA2,-0.315655
+349,A-443654,A549,,,-0.314867
+119549,niguldipine,A375,Calcium channel blocker,ADRA1A,-0.314407
+110143,ezetimibe,MCF7,Cholesterol inhibitor,NPC1L1,-0.314211
+110786,floxuridine,HA1E,,,-0.313511
+105811,cyclopiazonic-acid,A549,ATPase inhibitor,ATP2A1,-0.309795
+98396,ZD-7114,HT29,Adrenergic receptor agonist,ADRB3,-0.309664
+1988,AZD-7762,A549,CHK inhibitor,CHEK1,-0.309346
+103457,capsaicin,A375,TRPV agonist,TRPV1,-0.307978
+123317,progesterone,MCF10A,Progesterone receptor agonist,CYP17A1,-0.307107
+127235,sunitinib,A375,KIT inhibitor,FLT1,-0.304915
+128361,testosterone,PC3,,,-0.304815
+120118,nutlin-3,HCC515,MDM inhibitor,MDM2,-0.303967
+111911,geldanamycin,NPC,HSP inhibitor,HSP90AA1,-0.303468
+127733,targinine,A375,,,-0.303144
+122168,picrotoxin,A549,GABA receptor antagonist,GABRA1,-0.302887
+108244,doxorubicin,VCAP,Topoisomerase inhibitor,TOP2A,-0.302690
+107358,dihydrexidine,HT29,Dopamine receptor agonist,DRD1,-0.300858
+129535,topotecan,MCF7,Topoisomerase inhibitor,TOP1,-0.300567
+90717,PIK-75,HA1E,PI3K inhibitor,PIK3CA,-0.299954
+119037,naringenin,PC3,TRPV antagonist,CYP19A1,-0.298650
+83236,GSK-1059615,THP1,,,-0.296336
+128727,thioperamide,HT29,Histamine receptor antagonist,HRH3,-0.295960
+116812,medrysone,ASC,Glucocorticoid receptor agonist,NR3C1,-0.295691
+113292,idarubicin,A549,Topoisomerase inhibitor,TOP2A,-0.295598
+110513,fenretinide,HEPG2,Apoptosis stimulant,RARA,-0.294407
+126925,staurosporine,HT29,PKC inhibitor,CDK2,-0.294266
+84091,HG-6-64-01,BT20,,,-0.293982
+105003,clobetasol,HT29,Glucocorticoid receptor agonist,NR3C1,-0.293964
+116456,manumycin-a,HCT116,NFKB pathway inhibitor,FNTA,-0.293755
+116497,maprotiline,MCF7,Tricyclic antidepressant,SLC6A2,-0.293112

@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+123989,quinidine,ASC,Sodium channel blocker,SCN5A,0.253254
+124679,resveratrol,HCC515,SIRT activator,SIRT1,0.234580
+91411,QL-XI-92,ASC,,,0.225660
+89994,PD-0325901,PC3,MEK inhibitor,MAP2K1,0.222837
+118202,mirtazapine,HT29,Serotonin receptor antagonist,ADRA2A,0.222543
+82742,GDC-0068,MCF10A,Akt inhibitor,AKT3,0.217361
+95789,SU-11274,SKBR3,Tyrosine kinase inhibitor,MET,0.215834
+115058,lenalidomide,A375,Anti-cancer agent,CRBN,0.215604
+105622,curcumin,YAPC,Lipoxygenase inhibitor,PTGS1,0.212505
+111678,gabazine,A549,GABA receptor antagonist,GABRA1,0.211823
+93715,SB-203580,ASC,P38 MAPK inhibitor,MAPK14,0.211537
+103235,calcitriol,HA1E,Vitamin D receptor agonist,VDR,0.210107
+111680,gabazine,HA1E,GABA receptor antagonist,GABRA1,0.209121
+110510,fenretinide,ASC,Apoptosis stimulant,RARA,0.207980
+82314,EX-527,PC3,SIRT inhibitor,SIRT1,0.207894
+117733,methysergide,NPC,Serotonin receptor antagonist,HTR1B,0.206310
+80431,CG-930,PC3,JNK inhibitor,MAPK8,0.205833
+118213,mirtazapine,VCAP,Serotonin receptor antagonist,ADRA2A,0.204740
+106843,dexamethasone,HT29,Glucocorticoid receptor agonist,NR3C1,0.204697
+131290,vincamine,PC3,,,0.203373
+105750,cyclopamine,SKB,Smoothened receptor antagonist,SMO,0.203314
+125161,rivaroxaban,A375,Coagulation factor inhibitor,F10,0.202959
+114863,lapatinib,ASC,EGFR inhibitor,EGFR,0.202892
+89978,PD-0325901,HCC515,MEK inhibitor,MAP2K1,0.200254
+121945,phentolamine,VCAP,Adrenergic receptor antagonist,ADRA1A,0.199954
+123066,pregnenolone,PC3,,,0.198443
+131300,vincristine,HCC515,Tubulin inhibitor,TUBB,0.198377
+129293,tofacitinib,MCF10A,JAK inhibitor,JAK1,0.197898
+121291,parthenolide,MCF7,,,0.197596
+125944,saracatinib,MCF7,Src inhibitor,ABL1,0.197330
+123056,pregnenolone,HA1E,,,0.197057
+104619,cimetidine,ASC,Histamine receptor antagonist,HRH2,0.196662
+120955,ozagrel,VCAP,Thromboxane synthase inhibitor,TBXAS1,0.196172
+113235,icariin,A375,,,0.195573
+124730,retinol,PC3,Retinoid receptor ligand,RXRA,0.195180
+122167,picrotoxin,A375,GABA receptor antagonist,GABRA1,0.192850
+101722,benzamil,HA1E,Sodium channel blocker,SCNN1A,0.192708
+102823,bucladesine,PHH,CAMP stimulant,PRKACA,0.191972
+124001,quinidine,NPC,Sodium channel blocker,SCN5A,0.191662
+112863,huperzine-a,HCC515,Glutamate receptor antagonist,ACHE,0.191585
+109923,etomoxir,HCC515,Carnitine palmitoyltransferase inhibitor,CPT1A,0.191402
+118470,montelukast,A549,Leukotriene receptor antagonist,CYSLTR1,0.190936
+94083,SB-590885,HS578T,RAF inhibitor,BRAF,0.190718
+80942,CNQX,MCF7,Glutamate receptor antagonist,GRIA1,0.190702
+115485,limonin,A375,,,0.190556
+127374,tacrolimus,ASC,Calcineurin inhibitor,FKBP1A,0.190540
+110514,fenretinide,HT29,Apoptosis stimulant,RARA,0.190450
+1786,AZD-1480,A375,JAK inhibitor,JAK1,0.190340
+116813,medrysone,HA1E,Glucocorticoid receptor agonist,NR3C1,0.190036
+105010,clobetasol,VCAP,Glucocorticoid receptor agonist,NR3C1,0.189704

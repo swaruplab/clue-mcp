@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+102570,brefeldin-a,MCF7,,,-0.306194
+91441,QL-XII-47,HA1E,,,-0.285681
+111571,fulvestrant,MCF7,Estrogen receptor antagonist,ESR1,-0.280970
+126740,sorafenib,SKBR3,KIT inhibitor,FGFR1,-0.268180
+120631,ouabain,HCC515,ATPase inhibitor,ATP1A1,-0.262119
+124297,ranitidine,ASC,Histamine receptor antagonist,HRH2,-0.259345
+91449,QL-XII-47,MCF7,,,-0.256424
+125924,saracatinib,ASC,Src inhibitor,ABL1,-0.248267
+103282,calpeptin,MCF7,,,-0.248228
+106056,dactinomycin,MCF7,RNA polymerase inhibitor,POLR2A,-0.244724
+108740,emetine,U2OS,Protein synthesis inhibitor,RPS2,-0.239234
+110143,ezetimibe,MCF7,Cholesterol inhibitor,NPC1L1,-0.237706
+131339,vinpocetine,HEPG2,Sodium channel blocker,PDE1A,-0.233400
+93911,SB-239063,A549,P38 MAPK inhibitor,MAPK14,-0.231836
+131591,withaferin-a,PC3,IKK inhibitor,NAMPT,-0.231126
+114460,ivermectin,MCF7,,,-0.231093
+114362,isradipine,VCAP,Calcium channel blocker,CACNA1C,-0.230286
+126926,staurosporine,MCF7,PKC inhibitor,CDK2,-0.230071
+99103,afatinib,SKBR3,EGFR inhibitor,EGFR,-0.229302
+89218,NSC-632839,MCF7,Ubiquitin specific protease inhibitor,SENP2,-0.229043
+108720,emetine,A549,Protein synthesis inhibitor,RPS2,-0.228520
+1805,AZD-1480,MDAMB231,JAK inhibitor,JAK1,-0.227307
+127689,tanespimycin,PC3,HSP inhibitor,HSP90AA1,-0.224812
+101649,benazepril,VCAP,Angiotensin converting enzyme inhibitor,ACE,-0.223699
+127669,tanespimycin,HT29,HSP inhibitor,HSP90AA1,-0.222878
+116465,manumycin-a,MCF7,NFKB pathway inhibitor,FNTA,-0.222729
+89427,NVP-AUY922,SKBR3,HSP inhibitor,HSP90AA1,-0.220681
+108719,emetine,A375,Protein synthesis inhibitor,RPS2,-0.220347
+129744,tramadol,MCF7,Opioid receptor agonist,OPRM1,-0.219500
+130355,triptolide,MCF7,,,-0.219491
+91437,QL-XII-47,A375,,,-0.218397
+104028,celastrol,PC3,,,-0.217651
+102249,biperiden,HEPG2,Acetylcholine receptor antagonist,CHRM1,-0.217515
+120118,nutlin-3,HCC515,MDM inhibitor,MDM2,-0.217349
+128582,thapsigargin,HA1E,ATPase inhibitor,ATP2A1,-0.217219
+114757,labetalol,MCF7,Adrenergic receptor antagonist,ADRA1D,-0.217184
+116456,manumycin-a,HCT116,NFKB pathway inhibitor,FNTA,-0.216911
+102475,bortezomib,MCF7,Proteasome inhibitor,PSMB1,-0.216506
+127199,suloctidil,MCF7,,,-0.215516
+84091,HG-6-64-01,BT20,,,-0.215052
+90002,PD-0325901,VCAP,MEK inhibitor,MAP2K1,-0.213877
+120634,ouabain,MCF7,ATPase inhibitor,ATP1A1,-0.213494
+91453,QL-XII-47,PC3,,,-0.213300
+102467,bortezomib,HELA,Proteasome inhibitor,PSMB1,-0.212988
+131547,warfarin,MCF7,Vitamin K antagonist,VKORC1,-0.212907
+85079,JW-7-24-1,A549,,,-0.212365
+89659,OBAA,VCAP,Phospholipase inhibitor,PLA2G1B,-0.211736
+109121,epirubicin,MCF7,Topoisomerase inhibitor,TOP2A,-0.211207
+109145,eplerenone,A375,Cytochrome P450 inhibitor,NR3C2,-0.211006
+91392,QL-X-138,HA1E,,,-0.209422

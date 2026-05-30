@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+105149,clomifene,HT29,Estrogen receptor antagonist,ESR1,0.249142
+114609,ketoconazole,A549,Sterol demethylase inhibitor,CYP19A1,0.231012
+97748,WZ-4-145,PC3,,,0.219636
+100886,asiatic-acid,A375,,,0.214299
+83503,GSK-690693,HT29,Akt inhibitor,AKT3,0.211411
+98258,YM-155,A549,Survivin inhibitor,BIRC5,0.205209
+110803,floxuridine,VCAP,,,0.202142
+115638,linsitinib,MDAMB231,IGF-1 inhibitor,IGF1R,0.201084
+130766,ursolic-acid,HA1E,STAT inhibitor,HSD11B1,0.198408
+125149,ritodrine,VCAP,Adrenergic receptor agonist,ADRB2,0.197183
+102257,biperiden,PC3,Acetylcholine receptor antagonist,CHRM1,0.194465
+119214,nelfinavir,PC3,HIV protease inhibitor,CYP1A2,0.191043
+97733,WZ-4-145,A375,,,0.189396
+131323,vinorelbine,HT29,Tubulin inhibitor,TUBB,0.184366
+91446,QL-XII-47,HT29,,,0.183029
+105339,colchicine,U2OS,Microtubule inhibitor,TUBB,0.182111
+123723,puromycin,HA1E,,,0.182011
+1967,AZD-7545,PC3,,,0.181190
+110799,floxuridine,PC3,,,0.177655
+89874,PAC-1,HT29,Caspase activator,CASP3,0.176648
+124691,resveratrol,NPC,SIRT activator,SIRT1,0.176092
+131253,vinblastine,HEPG2,Tubulin inhibitor,TUBB,0.175331
+124867,rifabutin,A549,,,0.172799
+98263,YM-155,HCC515,Survivin inhibitor,BIRC5,0.171952
+123725,puromycin,HEPG2,,,0.171441
+104023,celastrol,HT29,,,0.171344
+105032,clofarabine,A375,Ribonucleoside reductase inhibitor,POLA1,0.170293
+125510,rottlerin,MCF7,,,0.170228
+128816,thiothixene,A549,Dopamine receptor antagonist,HTR2A,0.169867
+118205,mirtazapine,MCF7,Serotonin receptor antagonist,ADRA2A,0.169514
+110940,flumetasone,ASC,Glucocorticoid receptor agonist,NR3C1,0.169084
+130772,ursolic-acid,HT29,STAT inhibitor,HSD11B1,0.168959
+103263,calmidazolium,HT29,Calmodulin antagonist,ATP2B1,0.168638
+89875,PAC-1,MCF7,Caspase activator,CASP3,0.168545
+99594,altrenogest,PC3,Progestogen hormone,PGR,0.168083
+105852,cyclosporin-a,U2OS,Calcineurin inhibitor,PPIA,0.167998
+115911,lonidamine,PC3,,,0.167778
+126474,simvastatin,HT29,HMGCR inhibitor,HMGCR,0.167701
+123695,pterostilbene,PC3,PPAR receptor agonist,PTGS2,0.167640
+127199,suloctidil,MCF7,,,0.167495
+99975,amiodarone,PC3,Potassium channel blocker,KCNH2,0.167385
+128351,testosterone,HA1E,,,0.167016
+111998,genistein,HT29,Tyrosine kinase inhibitor,CFTR,0.167005
+127201,suloctidil,PC3,,,0.166812
+98268,YM-155,HT29,Survivin inhibitor,BIRC5,0.166651
+114610,ketoconazole,HA1E,Sterol demethylase inhibitor,CYP19A1,0.166512
+125735,safinamide,A375,Glutamate inhibitor,MAOB,0.166180
+117687,methylprednisolone,HA1E,Glucocorticoid receptor agonist,NR3C1,0.165791
+126723,sorafenib,BT20,KIT inhibitor,FGFR1,0.165658
+623,AG-490,HT29,JAK inhibitor,JAK2,0.164858

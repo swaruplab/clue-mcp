@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+106364,daunorubicin,ASC,RNA synthesis inhibitor,TOP2A,-0.355237
+120638,ouabain,PHH,ATPase inhibitor,ATP1A1,-0.353018
+107347,digoxin,PHH,ATPase inhibitor,ATP1A1,-0.350573
+122925,pravastatin,ASC,HMGCR inhibitor,HMGCR,-0.348239
+108217,doxorubicin,ASC,Topoisomerase inhibitor,TOP2A,-0.336407
+105158,clomifene,PHH,Estrogen receptor antagonist,ESR1,-0.333174
+125520,rottlerin,SKB,,,-0.332967
+101194,azacitidine,MCF10A,DNA methyltransferase inhibitor,DNMT1,-0.330228
+102244,biperiden,ASC,Acetylcholine receptor antagonist,CHRM1,-0.326467
+89247,NSC-693868,ASC,CDK inhibitor,CDK5,-0.320354
+103612,carbidopa,PC3,Aromatic L-amino acid decarboxylase inhibitor,DDC,-0.318801
+112505,guggulsterone,ASC,IKK inhibitor,NR3C1,-0.315405
+123722,puromycin,ASC,,,-0.313897
+110851,fludarabine,ASC,DNA synthesis inhibitor,RRM1,-0.313208
+118005,mifepristone,ASC,Progesterone receptor antagonist,NR3C1,-0.312729
+105828,cyclosporin-a,ASC,Calcineurin inhibitor,PPIA,-0.311999
+108720,emetine,A549,Protein synthesis inhibitor,RPS2,-0.308588
+83218,GSK-1059615,HELA,,,-0.304654
+108719,emetine,A375,Protein synthesis inhibitor,RPS2,-0.304352
+128361,testosterone,PC3,,,-0.299330
+108737,emetine,PHH,Protein synthesis inhibitor,RPS2,-0.298378
+103262,calmidazolium,HEPG2,Calmodulin antagonist,ATP2B1,-0.296170
+129745,tramadol,PC3,Opioid receptor agonist,OPRM1,-0.293239
+120116,nutlin-3,HA1E,MDM inhibitor,MDM2,-0.290706
+100202,amsacrine,HEPG2,Topoisomerase inhibitor,TOP2A,-0.290595
+109558,estradiol,ASC,Estrogen receptor agonist,ESR1,-0.289913
+130484,tubaic-acid,PC3,,,-0.289858
+103970,cefotiam,MCF7,,,-0.287889
+1805,AZD-1480,MDAMB231,JAK inhibitor,JAK1,-0.287184
+116447,manumycin-a,A375,NFKB pathway inhibitor,FNTA,-0.285378
+103901,cefixime,MCF7,,,-0.285090
+123730,puromycin,PC3,,,-0.284611
+104998,clobetasol,ASC,Glucocorticoid receptor agonist,NR3C1,-0.283969
+82321,EX-527,YAPC,SIRT inhibitor,SIRT1,-0.283409
+89659,OBAA,VCAP,Phospholipase inhibitor,PLA2G1B,-0.282598
+619,AG-490,ASC,JAK inhibitor,JAK2,-0.279998
+111224,fluticasone,ASC,Glucocorticoid receptor agonist,NR3C1,-0.279795
+91449,QL-XII-47,MCF7,,,-0.279191
+104028,celastrol,PC3,,,-0.276377
+124297,ranitidine,ASC,Histamine receptor antagonist,HRH2,-0.275423
+115379,levonorgestrel,PC3,Estrogen receptor agonist,PGR,-0.275198
+131330,vinorelbine,SKB,Tubulin inhibitor,TUBB,-0.273760
+122511,piperacillin,PC3,,,-0.272126
+2482,BH3I-1,MCF7,BCL inhibitor,BCL2L1,-0.271606
+123734,puromycin,VCAP,,,-0.270006
+119209,nelfinavir,HT29,HIV protease inhibitor,CYP1A2,-0.268941
+130054,tribenoside,MCF7,,,-0.268601
+125142,ritodrine,HT29,Adrenergic receptor agonist,ADRB2,-0.267469
+104015,celastrol,A549,,,-0.267370
+1544,AT-CSC-07,PC3,,,-0.267045

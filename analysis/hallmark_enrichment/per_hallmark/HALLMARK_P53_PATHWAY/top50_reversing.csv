@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+110861,fludarabine,SKB,DNA synthesis inhibitor,RRM1,-0.261664
+84471,ICI-162846,PC3,Histamine receptor antagonist,HRH2,-0.249742
+119854,nizatidine,HT29,Histamine receptor antagonist,HRH2,-0.247270
+128361,testosterone,PC3,,,-0.241514
+103132,cabergoline,HEPG2,Dopamine receptor agonist,ADRA1A,-0.241499
+106055,dactinomycin,HT29,RNA polymerase inhibitor,POLR2A,-0.241054
+127689,tanespimycin,PC3,HSP inhibitor,HSP90AA1,-0.239094
+120474,orciprenaline,PC3,Adrenergic receptor agonist,ADRB2,-0.234691
+103891,cefepime,PC3,,,-0.232593
+90729,PIK-75,PC3,PI3K inhibitor,PIK3CA,-0.230261
+126027,scopolamine,MCF7,Acetylcholine receptor antagonist,CHRM1,-0.228277
+121265,paroxetine,HT29,Selective serotonin reuptake inhibitor,SLC6A4,-0.227071
+109642,estrone,HT29,Estrogen receptor agonist,ESR1,-0.225832
+353,A-443654,HA1E,,,-0.225736
+103282,calpeptin,MCF7,,,-0.222205
+110819,flucloxacillin,MCF7,,,-0.221452
+122173,picrotoxin,HT29,GABA receptor antagonist,GABRA1,-0.219345
+100619,apigenin,PC3,,,-0.218388
+106056,dactinomycin,MCF7,RNA polymerase inhibitor,POLR2A,-0.217992
+116817,medrysone,HEPG2,Glucocorticoid receptor agonist,NR3C1,-0.217153
+89656,OBAA,PC3,Phospholipase inhibitor,PLA2G1B,-0.215716
+105437,cortisone-acetate,PC3,Glucocorticoid receptor agonist,NR3C1,-0.215200
+106053,dactinomycin,HCC515,RNA polymerase inhibitor,POLR2A,-0.215090
+124721,retinol,A549,Retinoid receptor ligand,RXRA,-0.214594
+119222,nemonapride,HA1E,Dopamine receptor antagonist,DRD2,-0.214175
+99753,amcinonide,HCC515,Glucocorticoid receptor agonist,NR3C1,-0.211962
+117685,methylprednisolone,A375,Glucocorticoid receptor agonist,NR3C1,-0.211895
+119993,noretynodrel,HT29,Progestogen hormone,PGR,-0.211697
+108239,doxorubicin,SKB,Topoisomerase inhibitor,TOP2A,-0.210889
+119027,naringenin,A549,TRPV antagonist,CYP19A1,-0.209626
+126920,staurosporine,A549,PKC inhibitor,CDK2,-0.209564
+359,A-443654,HT29,,,-0.209551
+131278,vincamine,A375,,,-0.207926
+116063,losartan,PC3,Angiotensin receptor antagonist,AGTR1,-0.207412
+106054,dactinomycin,HEPG2,RNA polymerase inhibitor,POLR2A,-0.207242
+119998,noretynodrel,SKB,Progestogen hormone,PGR,-0.206931
+106367,daunorubicin,HCC515,RNA synthesis inhibitor,TOP2A,-0.206697
+95825,SU-4312,ASC,PDGFR inhibitor,KDR,-0.204853
+100871,ascorbic-acid,PC3,Antioxidant,SLC23A1,-0.204262
+131339,vinpocetine,HEPG2,Sodium channel blocker,PDE1A,-0.204151
+89659,OBAA,VCAP,Phospholipase inhibitor,PLA2G1B,-0.203886
+118889,naloxone,MCF7,Opioid receptor antagonist,OPRD1,-0.203590
+126926,staurosporine,MCF7,PKC inhibitor,CDK2,-0.203506
+119851,nizatidine,HA1E,Histamine receptor antagonist,HRH2,-0.202973
+106052,dactinomycin,HA1E,RNA polymerase inhibitor,POLR2A,-0.202322
+114757,labetalol,MCF7,Adrenergic receptor antagonist,ADRA1D,-0.202259
+90720,PIK-75,HEPG2,PI3K inhibitor,PIK3CA,-0.202024
+103806,catechin,HCC515,,,-0.201686
+113305,idarubicin,PC3,Topoisomerase inhibitor,TOP2A,-0.201493
+365,A-443654,MDAMB231,,,-0.201105

@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+98104,Y-27632,MCF7,Rho associated kinase inhibitor,ROCK1,-0.226457
+117911,mibefradil,HA1E,T-type calcium channel blocker,CACNA1C,-0.219900
+102802,brucine,VCAP,,,-0.219811
+113690,indirubin,A375,CDK inhibitor,CDK5,-0.211705
+121260,paroxetine,HA1E,Selective serotonin reuptake inhibitor,SLC6A4,-0.211265
+101999,betamethasone,NPC,Glucocorticoid receptor agonist,NR3C1,-0.208817
+119815,nitrendipine,VCAP,Calcium channel blocker,CACNA1C,-0.207660
+84105,HG-6-64-01,SKBR3,,,-0.206573
+91441,QL-XII-47,HA1E,,,-0.206232
+118882,naloxone,A549,Opioid receptor antagonist,OPRD1,-0.202439
+91392,QL-X-138,HA1E,,,-0.201516
+109521,esculin,MCF7,,,-0.201169
+98100,Y-27632,HT29,Rho associated kinase inhibitor,ROCK1,-0.197040
+111440,forskolin,PC3,Adenylyl cyclase activator,ADCY2,-0.195810
+99436,aloisine,NPC,CDK inhibitor,CDK2,-0.193158
+122851,potassium-canrenoate,MCF7,Mineralocorticoid receptor antagonist,NR3C2,-0.192694
+91428,QL-XI-92,NPC,,,-0.192660
+89971,PD-0325901,A375,MEK inhibitor,MAP2K1,-0.192559
+119981,norethindrone,MCF7,Progestogen hormone,PGR,-0.192069
+100612,apigenin,HA1E,,,-0.189071
+102067,betulinic-acid,MCF7,Caspase activator,GPBAR1,-0.188343
+112049,gestrinone,PC3,Progesterone receptor antagonist,ESR1,-0.188213
+82888,GDC-0980,HA1E,MTOR inhibitor,MTOR,-0.187310
+113168,ibrutinib,MDAMB231,BTK inhibitor,BTK,-0.186038
+117734,methysergide,PC3,Serotonin receptor antagonist,HTR1B,-0.185729
+82732,GDC-0068,HA1E,Akt inhibitor,AKT3,-0.185580
+120456,orantinib,MCF7,FGFR inhibitor,FGFR1,-0.185059
+101991,betamethasone,A375,Glucocorticoid receptor agonist,NR3C1,-0.185019
+107462,diltiazem,HEPG2,Calcium channel blocker,CACNA1C,-0.184991
+122394,pinacidil,VCAP,ATP channel activator,ABCC9,-0.184924
+83220,GSK-1059615,HME1,,,-0.182917
+124827,ribavirin,HT29,Antiviral,IMPDH1,-0.182828
+96557,U-0126,HEPG2,MEK inhibitor,MAP2K1,-0.182276
+115485,limonin,A375,,,-0.182145
+80941,CNQX,HT29,Glutamate receptor antagonist,GRIA1,-0.181202
+103579,carbenoxolone,MCF7,11-beta-HSD1 inhibitor,HSD11B1,-0.179875
+119506,nifedipine,MCF7,Calcium channel blocker,CACNA1C,-0.178806
+104638,cimetidine,VCAP,Histamine receptor antagonist,HRH2,-0.178415
+89837,P-1075,A549,ATP channel activator,KCNJ11,-0.177537
+126422,sildenafil,THP1,Phosphodiesterase inhibitor,PDE5A,-0.177438
+80498,CGP-12177,PC3,Adrenergic receptor agonist,ADRB1,-0.176908
+126893,spironolactone,PC3,Mineralocorticoid receptor antagonist,NR3C2,-0.176438
+120535,orteronel,HA1E,Cytochrome P450 inhibitor,CYP17A1,-0.176086
+96573,U-0126,SKB,MEK inhibitor,MAP2K1,-0.176050
+98748,acarbose,PC3,Glucosidase inhibitor,GAA,-0.176015
+113700,indirubin,VCAP,CDK inhibitor,CDK5,-0.175937
+82894,GDC-0980,MCF7,MTOR inhibitor,MTOR,-0.175308
+98302,YM-298198,HT29,Glutamate receptor antagonist,GRM1,-0.175220
+129253,tobramycin,A549,,,-0.172254
+127579,tamoxifen,HA1E,Estrogen receptor antagonist,ESR1,-0.171806

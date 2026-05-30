@@ -1,0 +1,69 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "clue-mcp"
+version = "0.2.0"
+description = "Connectivity Map (LINCS 2020) perturbation-enrichment engine (drugs, knockdowns, overexpression) with an MCP server, REST API, and Python library."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+authors = [
+    { name = "Swarup Lab, UC Irvine" },
+]
+keywords = ["bioinformatics", "drug-repurposing", "cmap", "lincs", "connectivity-map", "transcriptomics", "mcp"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Bio-Informatics",
+]
+dependencies = [
+    "numpy>=1.24",
+    "pandas>=2.0",
+    "scipy>=1.10",
+    "pyarrow>=14",
+    "duckdb>=0.10",
+]
+
+[project.optional-dependencies]
+pipeline = [
+    "cmapPy>=4.0",
+]
+api = [
+    "fastapi>=0.110",
+    "uvicorn[standard]>=0.27",
+    "pydantic>=2",
+]
+mcp = [
+    "mcp>=1.0",
+]
+viz = [
+    "matplotlib>=3.7",
+    "networkx>=3.0",
+    "seaborn>=0.12",
+]
+docs = [
+    "mkdocs-material>=9.5",
+]
+all = [
+    "clue-mcp[pipeline,api,mcp,viz]",
+]
+
+[project.scripts]
+clue-mcp-server = "mcp_server.server:run"
+
+[project.urls]
+Homepage = "https://swaruplab.github.io/clue-mcp/"
+Documentation = "https://swaruplab.github.io/clue-mcp/"
+Repository = "https://github.com/swaruplab/clue-mcp"
+Issues = "https://github.com/swaruplab/clue-mcp/issues"
+
+[tool.setuptools.packages.find]
+include = ["cmap_enrichment*", "api*", "mcp_server*"]
+exclude = ["analysis*", "scripts*", "examples*", "docs*", "data*", "tests*"]

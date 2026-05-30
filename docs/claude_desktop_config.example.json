@@ -1,0 +1,15 @@
+{
+  "_comment": "Copy this file to your Claude Desktop config location and replace the ABSOLUTE paths. Remove the _comment key — Claude Desktop will reject unknown top-level fields. macOS: ~/Library/Application Support/Claude/claude_desktop_config.json | Windows: %APPDATA%\\Claude\\claude_desktop_config.json",
+
+  "mcpServers": {
+    "clue-mcp": {
+      "command": "/REPLACE/WITH/ABS/PATH/TO/conda/envs/model-ad_env/bin/python",
+      "args": [
+        "/REPLACE/WITH/ABS/PATH/TO/clue-mcp/mcp_server/server.py"
+      ],
+      "env": {
+        "CMAP_DATA_DIR": "/REPLACE/WITH/ABS/PATH/TO/clue-mcp/data/processed"
+      }
+    }
+  }
+}

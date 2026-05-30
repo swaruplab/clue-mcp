@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+106135,danazol,VCAP,Estrogen receptor antagonist,ESR1,0.475852
+127833,taxifolin,VCAP,Opioid receptor antagonist,ADIPOR2,0.473194
+118213,mirtazapine,VCAP,Serotonin receptor antagonist,ADRA2A,0.424473
+116825,medrysone,VCAP,Glucocorticoid receptor agonist,NR3C1,0.417079
+123326,progesterone,VCAP,Progesterone receptor agonist,CYP17A1,0.414626
+128365,testosterone,VCAP,,,0.408743
+119983,norethindrone,VCAP,Progestogen hormone,PGR,0.349770
+116886,megestrol-acetate,VCAP,DNA inhibitor,PGR,0.346652
+102004,betamethasone,VCAP,Glucocorticoid receptor agonist,NR3C1,0.346020
+117922,mibefradil,VCAP,T-type calcium channel blocker,CACNA1C,0.345063
+127253,sunitinib,PC3,KIT inhibitor,FLT1,0.341835
+124293,ramipril,VCAP,Angiotensin converting enzyme inhibitor,ACE,0.333368
+120955,ozagrel,VCAP,Thromboxane synthase inhibitor,TBXAS1,0.332518
+106861,dexamethasone,VCAP,Glucocorticoid receptor agonist,NR3C1,0.332323
+79948,BW-B70C,VCAP,Lipoxygenase inhibitor,ALOX5,0.316053
+118209,mirtazapine,PC3,Serotonin receptor antagonist,ADRA2A,0.310259
+105752,cyclopamine,VCAP,Smoothened receptor antagonist,SMO,0.309956
+129810,tranilast,VCAP,,,0.308296
+105605,curcumin,HT29,Lipoxygenase inhibitor,PTGS1,0.306614
+121275,paroxetine,VCAP,Selective serotonin reuptake inhibitor,SLC6A4,0.305402
+89401,NVP-AEW541,HS578T,IGF-1 inhibitor,IGF1R,0.299574
+114900,lapatinib,VCAP,EGFR inhibitor,EGFR,0.294726
+103581,carbenoxolone,PC3,11-beta-HSD1 inhibitor,HSD11B1,0.292510
+117726,methysergide,ASC,Serotonin receptor antagonist,HTR1B,0.292190
+131346,vinpocetine,NPC,Sodium channel blocker,PDE1A,0.291967
+127735,targinine,HA1E,,,0.291669
+119840,nitrofural,PC3,,,0.290196
+83503,GSK-690693,HT29,Akt inhibitor,AKT3,0.287553
+126424,sildenafil,VCAP,Phosphodiesterase inhibitor,PDE5A,0.283234
+110647,finasteride,ASC,5 alpha reductase inhibitor,SRD5A1,0.282566
+106853,dexamethasone,NPC,Glucocorticoid receptor agonist,NR3C1,0.282279
+105149,clomifene,HT29,Estrogen receptor antagonist,ESR1,0.281097
+112512,guggulsterone,NPC,IKK inhibitor,NR3C1,0.280025
+115638,linsitinib,MDAMB231,IGF-1 inhibitor,IGF1R,0.279770
+105849,cyclosporin-a,SKB,Calcineurin inhibitor,PPIA,0.279260
+103292,calpeptin,VCAP,,,0.278518
+109669,estropipate,VCAP,,,0.277114
+110113,exemestane,VCAP,Aromatase inhibitor,CYP19A1,0.276977
+105010,clobetasol,VCAP,Glucocorticoid receptor agonist,NR3C1,0.276424
+95784,SU-11274,MDAMB231,Tyrosine kinase inhibitor,MET,0.275495
+115383,levonorgestrel,VCAP,Estrogen receptor agonist,PGR,0.273704
+124405,reboxetine,HT29,Adrenergic receptor antagonist,SLC6A2,0.272610
+86702,L-689560,ASC,,,0.272057
+128816,thiothixene,A549,Dopamine receptor antagonist,HTR2A,0.271166
+120467,orantinib,VCAP,FGFR inhibitor,FGFR1,0.270549
+110645,finasteride,A375,5 alpha reductase inhibitor,SRD5A1,0.269820
+82742,GDC-0068,MCF10A,Akt inhibitor,AKT3,0.269791
+121945,phentolamine,VCAP,Adrenergic receptor antagonist,ADRA1A,0.269198
+129584,toremifene,MCF7,Estrogen receptor antagonist,ESR1,0.269042
+2515,BI-2536,PC3,PLK inhibitor,PLK1,0.268072

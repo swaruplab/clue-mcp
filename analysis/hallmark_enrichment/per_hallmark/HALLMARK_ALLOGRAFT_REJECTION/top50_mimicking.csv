@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+118226,mitomycin-c,A375,,,0.267816
+131540,warfarin,A549,Vitamin K antagonist,VKORC1,0.238525
+122510,piperacillin,MCF7,,,0.232615
+107335,digoxin,HA1E,ATPase inhibitor,ATP1A1,0.223612
+118928,naltrindole,A549,Opioid receptor antagonist,OPRD1,0.219174
+126137,selegiline,HT29,Monoamine oxidase inhibitor,MAOA,0.215882
+110850,fludarabine,A549,DNA synthesis inhibitor,RRM1,0.215411
+109926,etomoxir,HEPG2,Carnitine palmitoyltransferase inhibitor,CPT1A,0.215176
+117730,methysergide,HT29,Serotonin receptor antagonist,HTR1B,0.212895
+103471,capsaicin,MCF7,TRPV agonist,TRPV1,0.207681
+102256,biperiden,NPC,Acetylcholine receptor antagonist,CHRM1,0.205211
+118856,nalbuphine,A375,Opioid receptor agonist,OPRD1,0.203813
+83949,H-9,HA1E,PKA inhibitor,PRKACA,0.201840
+129978,tretinoin,NEU,Retinoid receptor ligand,RARA,0.201342
+126380,siguazodan,HA1E,Phosphodiesterase inhibitor,PDE3A,0.198730
+93763,SB-205607,VCAP,Delta 1 opioid receptor agonist,OPRD1,0.197526
+103333,camptothecin,A549,Topoisomerase inhibitor,TOP1,0.195844
+107473,diltiazem,U2OS,Calcium channel blocker,CACNA1C,0.192389
+106366,daunorubicin,HA1E,RNA synthesis inhibitor,TOP2A,0.192383
+99523,alprostadil,MCF7,Prostanoid receptor agonist,PTGER1,0.192101
+101854,benzydamine,A375,,,0.189863
+83951,H-9,HCC515,PKA inhibitor,PRKACA,0.189810
+113295,idarubicin,HA1E,Topoisomerase inhibitor,TOP2A,0.189042
+126738,sorafenib,PC3,KIT inhibitor,FGFR1,0.187746
+124683,resveratrol,HT29,SIRT activator,SIRT1,0.187637
+118041,miglitol,HT29,Glucosidase inhibitor,GAA,0.187397
+115638,linsitinib,MDAMB231,IGF-1 inhibitor,IGF1R,0.187352
+129532,topotecan,HT29,Topoisomerase inhibitor,TOP1,0.186196
+129535,topotecan,MCF7,Topoisomerase inhibitor,TOP1,0.186188
+117808,metoprolol,MCF7,Adrenergic receptor antagonist,ADRB1,0.185874
+100547,antimycin-a,A375,ATP synthase inhibitor,CYCS,0.185834
+105733,cycloheximide,U2OS,Protein synthesis inhibitor,RPL3,0.185730
+118237,mitomycin-c,MCF7,,,0.185230
+79940,BW-B70C,HCC515,Lipoxygenase inhibitor,ALOX5,0.182210
+84077,HG-5-88-01,HT29,,,0.181366
+100361,anandamide,HT29,Cannabinoid receptor agonist,CNR1,0.180808
+105903,cytarabine,HT29,Ribonucleotide reductase inhibitor,POLA1,0.180730
+103876,cefdinir,HT29,,,0.180523
+108215,doxorubicin,A375,Topoisomerase inhibitor,TOP2A,0.179373
+129526,topotecan,A375,Topoisomerase inhibitor,TOP1,0.178957
+103897,cefixime,HA1E,,,0.178838
+108224,doxorubicin,HEPG2,Topoisomerase inhibitor,TOP2A,0.178358
+118147,minoxidil,HT29,Vasodilator,ABCC9,0.176779
+89254,NSC-693868,PC3,CDK inhibitor,CDK5,0.176750
+105896,cytarabine,A375,Ribonucleotide reductase inhibitor,POLA1,0.176631
+98258,YM-155,A549,Survivin inhibitor,BIRC5,0.174891
+110979,flunisolide,PC3,Cytochrome P450 inhibitor,NR3C1,0.174059
+116788,medetomidine,HA1E,Adrenergic receptor agonist,ADRA2A,0.173997
+120639,ouabain,SKB,ATPase inhibitor,ATP1A1,0.173921
+129529,topotecan,HA1E,Topoisomerase inhibitor,TOP1,0.173306

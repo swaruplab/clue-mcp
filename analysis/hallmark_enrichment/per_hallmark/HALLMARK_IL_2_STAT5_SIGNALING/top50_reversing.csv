@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+91441,QL-XII-47,HA1E,,,-0.232095
+111893,geldanamycin,HCC515,HSP inhibitor,HSP90AA1,-0.228619
+89413,NVP-AUY922,HA1E,HSP inhibitor,HSP90AA1,-0.224835
+91392,QL-X-138,HA1E,,,-0.218119
+89971,PD-0325901,A375,MEK inhibitor,MAP2K1,-0.211654
+95825,SU-4312,ASC,PDGFR inhibitor,KDR,-0.206344
+1805,AZD-1480,MDAMB231,JAK inhibitor,JAK1,-0.204337
+118473,montelukast,HT29,Leukotriene receptor antagonist,CYSLTR1,-0.203843
+127681,tanespimycin,NCIH596,HSP inhibitor,HSP90AA1,-0.194303
+102567,brefeldin-a,HT29,,,-0.191176
+127579,tamoxifen,HA1E,Estrogen receptor antagonist,ESR1,-0.186452
+353,A-443654,HA1E,,,-0.185996
+80423,CG-930,HT29,JNK inhibitor,MAPK8,-0.183613
+129745,tramadol,PC3,Opioid receptor agonist,OPRM1,-0.183591
+130054,tribenoside,MCF7,,,-0.182939
+104091,ceramide,A375,,,-0.182570
+129676,tozasertib,A375,JAK inhibitor,FLT3,-0.181784
+127669,tanespimycin,HT29,HSP inhibitor,HSP90AA1,-0.181134
+111997,genistein,HEPG2,Tyrosine kinase inhibitor,CFTR,-0.181004
+84105,HG-6-64-01,SKBR3,,,-0.179881
+123307,progesterone,A549,Progesterone receptor agonist,CYP17A1,-0.179686
+83220,GSK-1059615,HME1,,,-0.177682
+96550,U-0126,A375,MEK inhibitor,MAP2K1,-0.176698
+103612,carbidopa,PC3,Aromatic L-amino acid decarboxylase inhibitor,DDC,-0.175106
+123306,progesterone,A375,Progesterone receptor agonist,CYP17A1,-0.175091
+90718,PIK-75,HCC515,PI3K inhibitor,PIK3CA,-0.174685
+99726,ambrisentan,MCF7,Endothelin receptor antagonist,EDNRA,-0.174507
+89421,NVP-AUY922,MDAMB231,HSP inhibitor,HSP90AA1,-0.173656
+119506,nifedipine,MCF7,Calcium channel blocker,CACNA1C,-0.173249
+89419,NVP-AUY922,MCF10A,HSP inhibitor,HSP90AA1,-0.173108
+120636,ouabain,NPC,ATPase inhibitor,ATP1A1,-0.173075
+111892,geldanamycin,HA1E,HSP inhibitor,HSP90AA1,-0.172138
+104028,celastrol,PC3,,,-0.171980
+94084,SB-590885,HT29,RAF inhibitor,BRAF,-0.171403
+119549,niguldipine,A375,Calcium channel blocker,ADRA1A,-0.171403
+364,A-443654,MCF7,,,-0.170528
+117911,mibefradil,HA1E,T-type calcium channel blocker,CACNA1C,-0.170195
+97746,WZ-4-145,MDAMB231,,,-0.169750
+111689,gabazine,VCAP,GABA receptor antagonist,GABRA1,-0.169441
+94924,SN-38,A375,Topoisomerase inhibitor,TOP1,-0.169084
+83683,GW-441756,ASC,Growth factor receptor inhibitor,NTRK1,-0.168501
+114866,lapatinib,HA1E,EGFR inhibitor,EGFR,-0.168392
+124002,quinidine,PC3,Sodium channel blocker,SCN5A,-0.168236
+96573,U-0126,SKB,MEK inhibitor,MAP2K1,-0.167174
+126724,sorafenib,HA1E,KIT inhibitor,FGFR1,-0.166432
+124027,quinine,PC3,Hemozoin biocrystallization inhibitor,KCNN4,-0.165182
+111407,formoterol,HA1E,Adrenergic receptor agonist,ADRB2,-0.165154
+118081,milnacipran,HT29,Serotonin reuptake inhibitor,SLC6A2,-0.165154
+90729,PIK-75,PC3,PI3K inhibitor,PIK3CA,-0.164034
+107360,dihydrexidine,PC3,Dopamine receptor agonist,DRD1,-0.163548

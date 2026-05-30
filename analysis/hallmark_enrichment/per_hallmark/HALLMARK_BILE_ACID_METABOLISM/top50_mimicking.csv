@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+99430,aloisine,ASC,CDK inhibitor,CDK2,0.278231
+131611,wortmannin,HEPG2,PI3K inhibitor,PIK3CA,0.266183
+127193,suloctidil,A549,,,0.263139
+89981,PD-0325901,HEPG2,MEK inhibitor,MAP2K1,0.249020
+93724,SB-203580,HT29,P38 MAPK inhibitor,MAPK14,0.248433
+107471,diltiazem,PHH,Calcium channel blocker,CACNA1C,0.240508
+105148,clomifene,HEPG2,Estrogen receptor antagonist,ESR1,0.234986
+89972,PD-0325901,A549,MEK inhibitor,MAP2K1,0.232230
+114866,lapatinib,HA1E,EGFR inhibitor,EGFR,0.229171
+105897,cytarabine,A549,Ribonucleotide reductase inhibitor,POLA1,0.227725
+100744,argatroban,HA1E,Thrombin inhibitor,F2,0.223774
+117911,mibefradil,HA1E,T-type calcium channel blocker,CACNA1C,0.223000
+80427,CG-930,MCF7,JNK inhibitor,MAPK8,0.222873
+89406,NVP-AEW541,PC3,IGF-1 inhibitor,IGF1R,0.222466
+124733,retinol,VCAP,Retinoid receptor ligand,RXRA,0.215810
+117686,methylprednisolone,A549,Glucocorticoid receptor agonist,NR3C1,0.215786
+128355,testosterone,HEPG2,,,0.211115
+111093,fluphenazine,HA1E,Dopamine receptor antagonist,DRD1,0.208376
+113168,ibrutinib,MDAMB231,BTK inhibitor,BTK,0.206735
+125949,saracatinib,NPC,Src inhibitor,ABL1,0.206082
+80412,CG-930,A549,JNK inhibitor,MAPK8,0.205848
+98118,Y-27632,U2OS,Rho associated kinase inhibitor,ROCK1,0.204778
+118903,naltrexone,HEPG2,Opioid receptor antagonist,OPRD1,0.204310
+116489,maprotiline,HCC515,Tricyclic antidepressant,SLC6A2,0.202606
+114868,lapatinib,HCC515,EGFR inhibitor,EGFR,0.201815
+105143,clomifene,HA1E,Estrogen receptor antagonist,ESR1,0.201133
+114397,itraconazole,A375,,,0.200956
+113149,ibrutinib,A375,BTK inhibitor,BTK,0.200703
+102578,brefeldin-a,PC3,,,0.200641
+117397,metergoline,HA1E,Dopamine receptor agonist,HTR1A,0.200025
+123067,pregnenolone,PHH,,,0.198852
+124010,quinine,A549,Hemozoin biocrystallization inhibitor,KCNN4,0.196758
+118983,naproxen,HA1E,Cyclooxygenase inhibitor,PTGS1,0.196361
+104011,cefuroxime,PC3,,,0.196214
+80413,CG-930,ASC,JNK inhibitor,MAPK8,0.196084
+111098,fluphenazine,HT29,Dopamine receptor antagonist,DRD1,0.195688
+97734,WZ-4-145,A549,,,0.194840
+124302,ranitidine,HEPG2,Histamine receptor antagonist,HRH2,0.194692
+123583,prothionamide,MCF7,,,0.194286
+89419,NVP-AUY922,MCF10A,HSP inhibitor,HSP90AA1,0.193041
+129575,toremifene,A375,Estrogen receptor antagonist,ESR1,0.192730
+100605,apicidin,NPC,HDAC inhibitor,HDAC6,0.192072
+123054,pregnenolone,A549,,,0.190159
+104522,cilastatin,PC3,Dehydropeptidase inhibitor,DPEP1,0.190111
+126724,sorafenib,HA1E,KIT inhibitor,FGFR1,0.189796
+105142,clomifene,ASC,Estrogen receptor antagonist,ESR1,0.188826
+119516,nifedipine,VCAP,Calcium channel blocker,CACNA1C,0.188822
+125026,rimcazole,HEPG2,Sigma receptor antagonist,SIGMAR1,0.188508
+114862,lapatinib,A549,EGFR inhibitor,EGFR,0.187062
+125035,rimcazole,PC3,Sigma receptor antagonist,SIGMAR1,0.185515

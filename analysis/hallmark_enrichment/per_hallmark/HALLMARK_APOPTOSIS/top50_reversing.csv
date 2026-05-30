@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+102254,biperiden,MCF7,Acetylcholine receptor antagonist,CHRM1,-0.244267
+114927,lasalocid,HA1E,,,-0.242006
+95825,SU-4312,ASC,PDGFR inhibitor,KDR,-0.239916
+99202,alclometasone,PC3,Glucocorticoid receptor agonist,NR3C1,-0.237624
+127662,tanespimycin,HCC515,HSP inhibitor,HSP90AA1,-0.237253
+363,A-443654,MCF10A,,,-0.231332
+105008,clobetasol,SKB,Glucocorticoid receptor agonist,NR3C1,-0.227091
+108786,enalapril,HA1E,Angiotensin converting enzyme inhibitor,ACE,-0.225891
+105618,curcumin,THP1,Lipoxygenase inhibitor,PTGS1,-0.224196
+110646,finasteride,A549,5 alpha reductase inhibitor,SRD5A1,-0.223088
+119993,noretynodrel,HT29,Progestogen hormone,PGR,-0.222590
+120540,orteronel,HT29,Cytochrome P450 inhibitor,CYP17A1,-0.212761
+117079,mephentermine,MCF7,,,-0.212420
+353,A-443654,HA1E,,,-0.210478
+125155,ritonavir,HT29,HIV protease inhibitor,CYP1A2,-0.210408
+82293,EX-527,A549,SIRT inhibitor,SIRT1,-0.209493
+104513,cilastatin,A549,Dehydropeptidase inhibitor,DPEP1,-0.208624
+126475,simvastatin,HUH7,HMGCR inhibitor,HMGCR,-0.207530
+111002,fluocinolone-acetonide,PC3,Corticosteroid agonist,NR3C1,-0.206658
+110145,ezetimibe,PC3,Cholesterol inhibitor,NPC1L1,-0.204539
+110947,flumetasone,PC3,Glucocorticoid receptor agonist,NR3C1,-0.204313
+110860,fludarabine,PHH,DNA synthesis inhibitor,RRM1,-0.204061
+131190,vicriviroc,HA1E,CCK receptor antagonist,CCR5,-0.203251
+131330,vinorelbine,SKB,Tubulin inhibitor,TUBB,-0.202644
+365,A-443654,MDAMB231,,,-0.202187
+105740,cyclopamine,ASC,Smoothened receptor antagonist,SMO,-0.201800
+110108,exemestane,PC3,Aromatase inhibitor,CYP19A1,-0.200913
+110861,fludarabine,SKB,DNA synthesis inhibitor,RRM1,-0.200834
+84105,HG-6-64-01,SKBR3,,,-0.200488
+124654,resorcinol,A549,,,-0.200131
+89971,PD-0325901,A375,MEK inhibitor,MAP2K1,-0.200066
+116102,lovastatin,HEPG2,HMGCR inhibitor,HMGCR,-0.198504
+129745,tramadol,PC3,Opioid receptor agonist,OPRM1,-0.197295
+109511,esculin,A375,,,-0.196224
+115156,lestaurtinib,HA1E,JAK inhibitor,FLT3,-0.195872
+117685,methylprednisolone,A375,Glucocorticoid receptor agonist,NR3C1,-0.194709
+119687,nimodipine,HCC515,Calcium channel blocker,NR3C2,-0.194011
+119418,nicergoline,PC3,Adrenergic receptor antagonist,ADRA1A,-0.193951
+113963,ipratropium,HA1E,Acetylcholine receptor antagonist,CHRM1,-0.193062
+112371,granisetron,A375,Serotonin receptor antagonist,HTR3A,-0.191812
+104091,ceramide,A375,,,-0.191182
+128582,thapsigargin,HA1E,ATPase inhibitor,ATP2A1,-0.190629
+131580,withaferin-a,HEPG2,IKK inhibitor,NAMPT,-0.190397
+96281,THZ-2-98-01,MDAMB231,,,-0.189932
+97928,XMD-1185H,HS578T,,,-0.189382
+100618,apigenin,NPC,,,-0.189283
+123987,quinidine,A375,Sodium channel blocker,SCN5A,-0.188931
+100357,anandamide,HCC515,Cannabinoid receptor agonist,CNR1,-0.187655
+1555,AT-CSC-18,MCF7,,,-0.187346
+99726,ambrisentan,MCF7,Endothelin receptor antagonist,EDNRA,-0.186459

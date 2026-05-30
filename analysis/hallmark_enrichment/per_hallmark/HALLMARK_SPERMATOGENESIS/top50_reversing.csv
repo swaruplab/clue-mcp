@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+119563,niguldipine,MCF7,Calcium channel blocker,ADRA1A,-0.299974
+104997,clobetasol,A549,Glucocorticoid receptor agonist,NR3C1,-0.295089
+95830,SU-4312,MCF7,PDGFR inhibitor,KDR,-0.290291
+82261,EPZ-5676,A375,DOT1L inhibitor,DOT1L,-0.275388
+103478,capsaicin,PC3,TRPV agonist,TRPV1,-0.264835
+126797,sparfloxacin,MCF7,,,-0.263811
+89972,PD-0325901,A549,MEK inhibitor,MAP2K1,-0.261030
+79943,BW-B70C,MCF7,Lipoxygenase inhibitor,ALOX5,-0.259998
+105835,cyclosporin-a,HEPG2,Calcineurin inhibitor,PPIA,-0.258596
+126721,sorafenib,A549,KIT inhibitor,FGFR1,-0.254984
+109926,etomoxir,HEPG2,Carnitine palmitoyltransferase inhibitor,CPT1A,-0.254335
+100621,apigenin,SKB,,,-0.253092
+102260,biperiden,SKB,Acetylcholine receptor antagonist,CHRM1,-0.250452
+116112,lovastatin,PC3,HMGCR inhibitor,HMGCR,-0.249534
+131904,zidovudine,A375,,,-0.246824
+109950,etoposide,MCF10A,Topoisomerase inhibitor,TOP2A,-0.246164
+119791,nitrendipine,A549,Calcium channel blocker,CACNA1C,-0.245173
+119989,noretynodrel,ASC,Progestogen hormone,PGR,-0.244272
+106500,deforolimus,HT29,MTOR inhibitor,MTOR,-0.244254
+110040,everolimus,MDAMB231,MTOR inhibitor,MTOR,-0.243383
+130073,triciribine,ASC,Akt inhibitor,AKT3,-0.242094
+99634,alvespimycin,A549,HSP inhibitor,HSP90AA1,-0.238391
+114766,lacidipine,A549,Calcium channel blocker,CACNA1C,-0.238067
+101555,beclomethasone-dipropionate,HA1E,Immunosuppressant,NR3C1,-0.238060
+124299,ranitidine,HCC515,Histamine receptor antagonist,HRH2,-0.236647
+98268,YM-155,HT29,Survivin inhibitor,BIRC5,-0.236121
+89874,PAC-1,HT29,Caspase activator,CASP3,-0.235855
+131317,vinorelbine,A375,Tubulin inhibitor,TUBB,-0.235674
+132028,zonisamide,NEU,Sodium channel blocker,SCN11A,-0.234217
+127372,tacrolimus,A549,Calcineurin inhibitor,FKBP1A,-0.231124
+98263,YM-155,HCC515,Survivin inhibitor,BIRC5,-0.230475
+95833,SU-4312,PC3,PDGFR inhibitor,KDR,-0.229660
+93756,SB-205607,HEPG2,Delta 1 opioid receptor agonist,OPRD1,-0.229158
+123054,pregnenolone,A549,,,-0.229026
+116814,medrysone,HCC515,Glucocorticoid receptor agonist,NR3C1,-0.228252
+97733,WZ-4-145,A375,,,-0.227824
+109630,estriol,SKB,Estrogen receptor agonist,ESR1,-0.227231
+102652,brivanib,A375,FGFR inhibitor,FGFR1,-0.226232
+114924,lasalocid,A375,,,-0.225243
+111558,fulvestrant,A549,Estrogen receptor antagonist,ESR1,-0.223540
+98900,acitretin,MCF7,Retinoid receptor agonist,RARA,-0.223411
+116981,memantine,A375,Glutamate receptor antagonist,GRIN1,-0.222920
+123687,pterostilbene,A549,PPAR receptor agonist,PTGS2,-0.222784
+117300,mestranol,HT29,Estrogen receptor agonist,ESR1,-0.222739
+129975,tretinoin,MCF7,Retinoid receptor ligand,RARA,-0.220240
+114866,lapatinib,HA1E,EGFR inhibitor,EGFR,-0.220089
+126024,scopolamine,HT29,Acetylcholine receptor antagonist,CHRM1,-0.218570
+110974,flunisolide,HCC515,Cytochrome P450 inhibitor,NR3C1,-0.218379
+105431,cortisone-acetate,HA1E,Glucocorticoid receptor agonist,NR3C1,-0.218323
+119686,nimodipine,HA1E,Calcium channel blocker,NR3C2,-0.217898

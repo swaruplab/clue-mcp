@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+96550,U-0126,A375,MEK inhibitor,MAP2K1,-0.238350
+89971,PD-0325901,A375,MEK inhibitor,MAP2K1,-0.228155
+124189,radicicol,HCC515,,,-0.217376
+100621,apigenin,SKB,,,-0.215006
+126537,sirolimus,MCF7,MTOR inhibitor,FKBP1A,-0.211588
+119039,naringenin,U2OS,TRPV antagonist,CYP19A1,-0.205233
+127679,tanespimycin,NCIH2073,HSP inhibitor,HSP90AA1,-0.190685
+117698,methylprednisolone,PC3,Glucocorticoid receptor agonist,NR3C1,-0.190627
+91441,QL-XII-47,HA1E,,,-0.188241
+129676,tozasertib,A375,JAK inhibitor,FLT3,-0.186106
+127181,sulmazole,HA1E,,,-0.182712
+94087,SB-590885,MDAMB231,RAF inhibitor,BRAF,-0.180031
+122925,pravastatin,ASC,HMGCR inhibitor,HMGCR,-0.179205
+89981,PD-0325901,HEPG2,MEK inhibitor,MAP2K1,-0.178575
+83496,GSK-690693,A375,Akt inhibitor,AKT3,-0.178329
+89413,NVP-AUY922,HA1E,HSP inhibitor,HSP90AA1,-0.177055
+93732,SB-203580,PC3,P38 MAPK inhibitor,MAPK14,-0.176742
+103171,caffeic-acid,A375,Lipoxygenase inhibitor,ALOX5,-0.176484
+118882,naloxone,A549,Opioid receptor antagonist,OPRD1,-0.175531
+105435,cortisone-acetate,MCF7,Glucocorticoid receptor agonist,NR3C1,-0.171972
+101999,betamethasone,NPC,Glucocorticoid receptor agonist,NR3C1,-0.171487
+118902,naltrexone,HCC515,Opioid receptor antagonist,OPRD1,-0.168572
+129970,tretinoin,HEPG2,Retinoid receptor ligand,RARA,-0.166785
+96557,U-0126,HEPG2,MEK inhibitor,MAP2K1,-0.166620
+82314,EX-527,PC3,SIRT inhibitor,SIRT1,-0.166218
+112524,halcinonide,A549,Glucocorticoid receptor agonist,NR3C1,-0.165587
+112049,gestrinone,PC3,Progesterone receptor antagonist,ESR1,-0.162848
+129708,tozasertib,PC3,JAK inhibitor,FLT3,-0.162351
+100870,ascorbic-acid,MCF7,Antioxidant,SLC23A1,-0.162267
+109560,estradiol,HCC515,Estrogen receptor agonist,ESR1,-0.162072
+129677,tozasertib,A549,JAK inhibitor,FLT3,-0.161827
+82732,GDC-0068,HA1E,Akt inhibitor,AKT3,-0.161333
+126422,sildenafil,THP1,Phosphodiesterase inhibitor,PDE5A,-0.159254
+89408,NVP-AUY922,A375,HSP inhibitor,HSP90AA1,-0.159085
+122851,potassium-canrenoate,MCF7,Mineralocorticoid receptor antagonist,NR3C2,-0.157805
+83220,GSK-1059615,HME1,,,-0.157298
+129804,tranilast,MCF7,,,-0.156334
+103946,cefotaxime,MCF7,,,-0.156148
+129581,toremifene,HEPG2,Estrogen receptor antagonist,ESR1,-0.155386
+101991,betamethasone,A375,Glucocorticoid receptor agonist,NR3C1,-0.154117
+121929,phentolamine,A549,Adrenergic receptor antagonist,ADRA1A,-0.153762
+126299,sericetin,VCAP,,,-0.152971
+106834,dexamethasone,A549,Glucocorticoid receptor agonist,NR3C1,-0.152586
+110097,exemestane,HA1E,Aromatase inhibitor,CYP19A1,-0.152097
+118006,mifepristone,HA1E,Progesterone receptor antagonist,NR3C1,-0.151997
+98303,YM-298198,MCF7,Glutamate receptor antagonist,GRM1,-0.151791
+99436,aloisine,NPC,CDK inhibitor,CDK2,-0.151607
+100551,antimycin-a,HCC515,ATP synthase inhibitor,CYCS,-0.151567
+113157,ibrutinib,HEK293,BTK inhibitor,BTK,-0.149344
+111886,geldanamycin,A549,HSP inhibitor,HSP90AA1,-0.148555

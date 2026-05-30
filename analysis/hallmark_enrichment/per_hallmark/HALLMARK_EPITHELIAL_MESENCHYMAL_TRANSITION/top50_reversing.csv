@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+91392,QL-X-138,HA1E,,,-0.435051
+80322,CD-1530,HA1E,Retinoid receptor agonist,RARG,-0.371346
+123722,puromycin,ASC,,,-0.359600
+108740,emetine,U2OS,Protein synthesis inhibitor,RPS2,-0.353537
+89413,NVP-AUY922,HA1E,HSP inhibitor,HSP90AA1,-0.352261
+105722,cycloheximide,HA1E,Protein synthesis inhibitor,RPL3,-0.346687
+123732,puromycin,SKB,,,-0.334066
+128582,thapsigargin,HA1E,ATPase inhibitor,ATP2A1,-0.325570
+127660,tanespimycin,HA1E,HSP inhibitor,HSP90AA1,-0.321381
+125520,rottlerin,SKB,,,-0.318462
+105008,clobetasol,SKB,Glucocorticoid receptor agonist,NR3C1,-0.315931
+99076,afatinib,HA1E,EGFR inhibitor,EGFR,-0.312714
+1992,AZD-7762,HA1E,CHK inhibitor,CHEK1,-0.307369
+111892,geldanamycin,HA1E,HSP inhibitor,HSP90AA1,-0.302401
+97928,XMD-1185H,HS578T,,,-0.299838
+100605,apicidin,NPC,HDAC inhibitor,HDAC6,-0.299132
+105828,cyclosporin-a,ASC,Calcineurin inhibitor,PPIA,-0.298531
+82888,GDC-0980,HA1E,MTOR inhibitor,MTOR,-0.298443
+110786,floxuridine,HA1E,,,-0.292992
+83690,GW-441756,PC3,Growth factor receptor inhibitor,NTRK1,-0.290755
+102461,bortezomib,HA1E,Proteasome inhibitor,PSMB1,-0.288555
+91441,QL-XII-47,HA1E,,,-0.286512
+95825,SU-4312,ASC,PDGFR inhibitor,KDR,-0.279159
+83220,GSK-1059615,HME1,,,-0.277914
+110522,fenretinide,SKB,Apoptosis stimulant,RARA,-0.276734
+110967,flunarizine,SKB,Calcium channel blocker,CACNA1H,-0.276083
+110511,fenretinide,HA1E,Apoptosis stimulant,RARA,-0.275315
+115365,levonorgestrel,HA1E,Estrogen receptor agonist,PGR,-0.274971
+117685,methylprednisolone,A375,Glucocorticoid receptor agonist,NR3C1,-0.274919
+107573,dinoprost,PC3,Prostacyclin analog,PTGDR,-0.274174
+89408,NVP-AUY922,A375,HSP inhibitor,HSP90AA1,-0.271802
+131190,vicriviroc,HA1E,CCK receptor antagonist,CCR5,-0.270094
+120639,ouabain,SKB,ATPase inhibitor,ATP1A1,-0.269289
+84096,HG-6-64-01,HS578T,,,-0.268984
+108719,emetine,A375,Protein synthesis inhibitor,RPS2,-0.267351
+102244,biperiden,ASC,Acetylcholine receptor antagonist,CHRM1,-0.266394
+108724,emetine,HA1E,Protein synthesis inhibitor,RPS2,-0.264086
+106366,daunorubicin,HA1E,RNA synthesis inhibitor,TOP2A,-0.260865
+1989,AZD-7762,ASC,CHK inhibitor,CHEK1,-0.260731
+2495,BI-2536,HCC515,PLK inhibitor,PLK1,-0.257539
+103335,camptothecin,HA1E,Topoisomerase inhibitor,TOP1,-0.257494
+93934,SB-239063,SKB,P38 MAPK inhibitor,MAPK14,-0.256632
+105740,cyclopamine,ASC,Smoothened receptor antagonist,SMO,-0.253351
+114767,lacidipine,HA1E,Calcium channel blocker,CACNA1C,-0.252970
+125924,saracatinib,ASC,Src inhibitor,ABL1,-0.251256
+118159,minoxidil,PC3,Vasodilator,ABCC9,-0.249732
+131251,vinblastine,HA1E,Tubulin inhibitor,TUBB,-0.249480
+80973,CO-102862,HA1E,,,-0.249469
+88890,NCS-382,ASC,GABA receptor antagonist,GABBR1,-0.248902
+111093,fluphenazine,HA1E,Dopamine receptor antagonist,DRD1,-0.247701

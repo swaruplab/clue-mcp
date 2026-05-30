@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+109916,etomidate,VCAP,GABA receptor modulator,GABRA1,0.247799
+126138,selegiline,HUH7,Monoamine oxidase inhibitor,MAOA,0.244834
+127201,suloctidil,PC3,,,0.240549
+90733,PIK-75,VCAP,PI3K inhibitor,PIK3CA,0.239686
+110799,floxuridine,PC3,,,0.226624
+123695,pterostilbene,PC3,PPAR receptor agonist,PTGS2,0.224374
+103478,capsaicin,PC3,TRPV agonist,TRPV1,0.223321
+105752,cyclopamine,VCAP,Smoothened receptor antagonist,SMO,0.221680
+109957,etoposide,VCAP,Topoisomerase inhibitor,TOP2A,0.221460
+110803,floxuridine,VCAP,,,0.214394
+2486,BH3I-1,VCAP,BCL inhibitor,BCL2L1,0.213868
+101720,benzamil,A549,Sodium channel blocker,SCNN1A,0.212876
+129810,tranilast,VCAP,,,0.211470
+126725,sorafenib,HCC515,KIT inhibitor,FGFR1,0.209825
+105045,clofarabine,PC3,Ribonucleoside reductase inhibitor,POLA1,0.209590
+116477,manumycin-a,PC3,NFKB pathway inhibitor,FNTA,0.208770
+106126,danazol,MCF7,Estrogen receptor antagonist,ESR1,0.207749
+109669,estropipate,VCAP,,,0.205837
+128797,thiostrepton,PC3,FOXM1 inhibitor,FOXM1,0.205361
+95823,SU-4312,A375,PDGFR inhibitor,KDR,0.205243
+94092,SB-590885,SKBR3,RAF inhibitor,BRAF,0.205232
+102250,biperiden,HT29,Acetylcholine receptor antagonist,CHRM1,0.205068
+100528,anisomycin,NEU,,,0.203816
+124673,resveratrol,A375,SIRT activator,SIRT1,0.203643
+96283,THZ-2-98-01,SKBR3,,,0.203491
+101502,batimastat,HA1E,,,0.203394
+105849,cyclosporin-a,SKB,Calcineurin inhibitor,PPIA,0.201719
+82261,EPZ-5676,A375,DOT1L inhibitor,DOT1L,0.201682
+114900,lapatinib,VCAP,EGFR inhibitor,EGFR,0.201037
+906,AM-404,VCAP,FAAH inhibitor,TRPV1,0.199119
+102484,bortezomib,PC3,Proteasome inhibitor,PSMB1,0.198533
+105032,clofarabine,A375,Ribonucleoside reductase inhibitor,POLA1,0.197790
+104999,clobetasol,HA1E,Glucocorticoid receptor agonist,NR3C1,0.197125
+86706,L-689560,HT29,,,0.195972
+100605,apicidin,NPC,HDAC inhibitor,HDAC6,0.193701
+112504,guggulsterone,A549,IKK inhibitor,NR3C1,0.193144
+109942,etoposide,HA1E,Topoisomerase inhibitor,TOP2A,0.192077
+116042,losartan,A375,Angiotensin receptor antagonist,AGTR1,0.191089
+89213,NSC-632839,HCC515,Ubiquitin specific protease inhibitor,SENP2,0.190596
+104567,cilomilast,PC3,Phosphodiesterase inhibitor,PDE4A,0.189360
+110859,fludarabine,PC3,DNA synthesis inhibitor,RRM1,0.189288
+125626,rutin,ASC,Antioxidant,AKR1C3,0.188660
+131597,withaferin-a,VCAP,IKK inhibitor,NAMPT,0.188387
+89207,NSC-632839,A375,Ubiquitin specific protease inhibitor,SENP2,0.187524
+80431,CG-930,PC3,JNK inhibitor,MAPK8,0.187412
+119848,nizatidine,A375,Histamine receptor antagonist,HRH2,0.186380
+111419,formoterol,PC3,Adrenergic receptor agonist,ADRB2,0.185675
+97737,WZ-4-145,HA1E,,,0.185481
+105429,cortisone-acetate,A549,Glucocorticoid receptor agonist,NR3C1,0.185169
+110940,flumetasone,ASC,Glucocorticoid receptor agonist,NR3C1,0.184939

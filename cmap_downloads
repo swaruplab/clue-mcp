@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+
+set -euo pipefail
+
+cat > links2020_level5_urls.txt << 'EOF'
+https://s3.amazonaws.com/macchiato.clue.io/builds/LINCS2020/level5/level5_beta_trt_misc_n8283x12328.gctx
+https://s3.amazonaws.com/macchiato.clue.io/builds/LINCS2020/level5/level5_beta_trt_xpr_n142901x12328.gctx
+https://s3.amazonaws.com/macchiato.clue.io/builds/LINCS2020/level5/level5_beta_ctl_n58022x12328.gctx
+https://s3.amazonaws.com/macchiato.clue.io/builds/LINCS2020/level5/level5_beta_trt_cp_n720216x12328.gctx
+https://s3.amazonaws.com/macchiato.clue.io/builds/LINCS2020/level5/level5_beta_trt_sh_n238351x12328.gctx
+https://s3.amazonaws.com/macchiato.clue.io/builds/LINCS2020/level5/level5_beta_trt_oe_n34171x12328.gctx
+EOF
+
+wget -c -i links2020_level5_urls.txt
+

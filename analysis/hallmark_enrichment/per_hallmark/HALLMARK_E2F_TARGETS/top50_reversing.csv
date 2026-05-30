@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+113166,ibrutinib,MCF10A,BTK inhibitor,BTK,-0.735215
+128587,thapsigargin,HT29,ATPase inhibitor,ATP2A1,-0.726049
+82892,GDC-0980,HT29,MTOR inhibitor,MTOR,-0.725432
+109951,etoposide,MCF7,Topoisomerase inhibitor,TOP2A,-0.719073
+120122,nutlin-3,HEPG2,MDM inhibitor,MDM2,-0.711254
+119559,niguldipine,HT29,Calcium channel blocker,ADRA1A,-0.703602
+111571,fulvestrant,MCF7,Estrogen receptor antagonist,ESR1,-0.688820
+123317,progesterone,MCF10A,Progesterone receptor agonist,CYP17A1,-0.688184
+120112,nutlin-3,A375,MDM inhibitor,MDM2,-0.687626
+119554,niguldipine,HCC515,Calcium channel blocker,ADRA1A,-0.683447
+100207,amsacrine,MCF7,Topoisomerase inhibitor,TOP2A,-0.682665
+127674,tanespimycin,MCF10A,HSP inhibitor,HSP90AA1,-0.682188
+125931,saracatinib,HCC515,Src inhibitor,ABL1,-0.681650
+119983,norethindrone,VCAP,Progestogen hormone,PGR,-0.669521
+127245,sunitinib,HT29,KIT inhibitor,FLT1,-0.666851
+125501,rottlerin,HCC515,,,-0.665355
+127590,tamoxifen,MCF7,Estrogen receptor antagonist,ESR1,-0.658048
+110113,exemestane,VCAP,Aromatase inhibitor,CYP19A1,-0.657555
+127249,sunitinib,MCF7,KIT inhibitor,FLT1,-0.654995
+120298,oligomycin-a,HT29,ATPase inhibitor,ATP5F1A,-0.654667
+99090,afatinib,MCF10A,EGFR inhibitor,EGFR,-0.654148
+1560,AT-CSC-18,PC3,,,-0.653132
+102567,brefeldin-a,HT29,,,-0.649748
+111277,fluvastatin,MCF7,HMGCR inhibitor,HMGCR,-0.643155
+120113,nutlin-3,A549,MDM inhibitor,MDM2,-0.640501
+119563,niguldipine,MCF7,Calcium channel blocker,ADRA1A,-0.639810
+82886,GDC-0980,A375,MTOR inhibitor,MTOR,-0.639294
+85079,JW-7-24-1,A549,,,-0.638811
+128597,thapsigargin,PC3,ATPase inhibitor,ATP2A1,-0.638220
+97746,WZ-4-145,MDAMB231,,,-0.635014
+100196,amsacrine,A549,Topoisomerase inhibitor,TOP2A,-0.628846
+100982,atorvastatin,A375,HMGCR inhibitor,DPP4,-0.625095
+111280,fluvastatin,PC3,HMGCR inhibitor,HMGCR,-0.624965
+89990,PD-0325901,MCF7,MEK inhibitor,MAP2K1,-0.623551
+128579,thapsigargin,A375,ATPase inhibitor,ATP2A1,-0.623470
+122744,pitavastatin,MCF7,HMGCR inhibitor,HMGCR,-0.622782
+82896,GDC-0980,PC3,MTOR inhibitor,MTOR,-0.616513
+126464,simvastatin,A375,HMGCR inhibitor,HMGCR,-0.614051
+130085,triciribine,VCAP,Akt inhibitor,AKT3,-0.610050
+109940,etoposide,A375,Topoisomerase inhibitor,TOP2A,-0.609973
+128580,thapsigargin,A549,ATPase inhibitor,ATP2A1,-0.608649
+116112,lovastatin,PC3,HMGCR inhibitor,HMGCR,-0.606465
+97751,WZ-4-145,SKBR3,,,-0.605680
+122734,pitavastatin,A375,HMGCR inhibitor,HMGCR,-0.605498
+115383,levonorgestrel,VCAP,Estrogen receptor agonist,PGR,-0.602999
+117862,mevastatin,PC3,HMGCR inhibitor,HMGCR,-0.601286
+1544,AT-CSC-07,PC3,,,-0.601218
+2004,AZD-7762,MCF7,CHK inhibitor,CHEK1,-0.599845
+100195,amsacrine,A375,Topoisomerase inhibitor,TOP2A,-0.598807
+127235,sunitinib,A375,KIT inhibitor,FLT1,-0.597036

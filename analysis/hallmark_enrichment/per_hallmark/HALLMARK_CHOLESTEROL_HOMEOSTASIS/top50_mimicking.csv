@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+114862,lapatinib,A549,EGFR inhibitor,EGFR,0.542386
+128819,thiothixene,HCC515,Dopamine receptor antagonist,HTR2A,0.538006
+127236,sunitinib,A549,KIT inhibitor,FLT1,0.524497
+119550,niguldipine,A549,Calcium channel blocker,ADRA1A,0.521496
+94086,SB-590885,MCF7,RAF inhibitor,BRAF,0.519792
+117912,mibefradil,HCC515,T-type calcium channel blocker,CACNA1C,0.518786
+122741,pitavastatin,HT29,HMGCR inhibitor,HMGCR,0.517148
+125038,rimcazole,VCAP,Sigma receptor antagonist,SIGMAR1,0.512838
+114944,lasalocid,VCAP,,,0.504159
+117405,metergoline,MCF7,Dopamine receptor agonist,HTR1A,0.503212
+105836,cyclosporin-a,HT29,Calcineurin inhibitor,PPIA,0.500692
+99297,alimemazine,MCF7,Histamine receptor ligand,HRH1,0.500303
+125023,rimcazole,HCC515,Sigma receptor antagonist,SIGMAR1,0.498032
+119553,niguldipine,HA1E,Calcium channel blocker,ADRA1A,0.496355
+114617,ketoconazole,PC3,Sterol demethylase inhibitor,CYP19A1,0.496182
+114609,ketoconazole,A549,Sterol demethylase inhibitor,CYP19A1,0.495804
+128816,thiothixene,A549,Dopamine receptor antagonist,HTR2A,0.483869
+114616,ketoconazole,MCF7,Sterol demethylase inhibitor,CYP19A1,0.475768
+95786,SU-11274,PC3,Tyrosine kinase inhibitor,MET,0.474502
+105140,clomifene,A375,Estrogen receptor antagonist,ESR1,0.469198
+105144,clomifene,HCC515,Estrogen receptor antagonist,ESR1,0.465926
+119563,niguldipine,MCF7,Calcium channel blocker,ADRA1A,0.464547
+105157,clomifene,PC3,Estrogen receptor antagonist,ESR1,0.464541
+94087,SB-590885,MDAMB231,RAF inhibitor,BRAF,0.461254
+105143,clomifene,HA1E,Estrogen receptor antagonist,ESR1,0.459518
+131300,vincristine,HCC515,Tubulin inhibitor,TUBB,0.458961
+126341,sertraline,A549,Serotonin receptor antagonist,SLC6A4,0.458187
+126474,simvastatin,HT29,HMGCR inhibitor,HMGCR,0.457857
+116499,maprotiline,PC3,Tricyclic antidepressant,SLC6A2,0.456468
+116489,maprotiline,HCC515,Tricyclic antidepressant,SLC6A2,0.455305
+89405,NVP-AEW541,MDAMB231,IGF-1 inhibitor,IGF1R,0.454959
+100048,amlodipine,A549,Calcium channel blocker,CACNA1C,0.453634
+105817,cyclopiazonic-acid,MCF7,ATPase inhibitor,ATP2A1,0.448432
+119575,niguldipine,VCAP,Calcium channel blocker,ADRA1A,0.447085
+111090,fluphenazine,A375,Dopamine receptor antagonist,DRD1,0.445722
+129576,toremifene,A549,Estrogen receptor antagonist,ESR1,0.445560
+114619,ketoconazole,VCAP,Sterol demethylase inhibitor,CYP19A1,0.444024
+127574,tamoxifen,A549,Estrogen receptor antagonist,ESR1,0.443878
+111102,fluphenazine,MCF7,Dopamine receptor antagonist,DRD1,0.442997
+111582,fulvestrant,U2OS,Estrogen receptor antagonist,ESR1,0.442916
+116494,maprotiline,HT29,Tricyclic antidepressant,SLC6A2,0.441175
+128826,thiothixene,MCF7,Dopamine receptor antagonist,HTR2A,0.440017
+121270,paroxetine,MCF7,Selective serotonin reuptake inhibitor,SLC6A4,0.439287
+100063,amlodipine,VCAP,Calcium channel blocker,CACNA1C,0.438476
+103263,calmidazolium,HT29,Calmodulin antagonist,ATP2B1,0.436686
+82689,GBR-12783,HA1E,,,0.433133
+85079,JW-7-24-1,A549,,,0.431933
+116503,maprotiline,VCAP,Tricyclic antidepressant,SLC6A2,0.431533
+117397,metergoline,HA1E,Dopamine receptor agonist,HTR1A,0.430516
+129582,toremifene,HT29,Estrogen receptor antagonist,ESR1,0.428607

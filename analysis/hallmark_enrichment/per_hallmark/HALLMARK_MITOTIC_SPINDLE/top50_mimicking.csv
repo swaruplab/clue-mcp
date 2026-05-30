@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+129685,tozasertib,HCC515,JAK inhibitor,FLT3,0.318378
+129691,tozasertib,HT29,JAK inhibitor,FLT3,0.310635
+83503,GSK-690693,HT29,Akt inhibitor,AKT3,0.297312
+82735,GDC-0068,HELA,Akt inhibitor,AKT3,0.293549
+110031,everolimus,HELA,MTOR inhibitor,MTOR,0.286972
+121005,paclitaxel,VCAP,Tubulin inhibitor,TUBB,0.286648
+119795,nitrendipine,HA1E,Calcium channel blocker,CACNA1C,0.281561
+125743,safinamide,HT29,Glutamate inhibitor,MAOB,0.281119
+116494,maprotiline,HT29,Tricyclic antidepressant,SLC6A2,0.277504
+93715,SB-203580,ASC,P38 MAPK inhibitor,MAPK14,0.275023
+89762,OSI-027,BT20,MTOR inhibitor,MTOR,0.273771
+128724,thioperamide,HA1E,Histamine receptor antagonist,HRH3,0.258598
+89976,PD-0325901,HA1E,MEK inhibitor,MAP2K1,0.258342
+82742,GDC-0068,MCF10A,Akt inhibitor,AKT3,0.257795
+131331,vinorelbine,VCAP,Tubulin inhibitor,TUBB,0.255254
+103229,calcitriol,A375,Vitamin D receptor agonist,VDR,0.254164
+130024,triamcinolone,PC3,Glucocorticoid receptor agonist,NR3C1,0.248763
+89768,OSI-027,HT29,MTOR inhibitor,MTOR,0.248629
+89772,OSI-027,MDAMB231,MTOR inhibitor,MTOR,0.245811
+126000,saxagliptin,A549,Dipeptidyl peptidase inhibitor,DPP4,0.244113
+104512,cilastatin,A375,Dehydropeptidase inhibitor,DPEP1,0.243451
+126722,sorafenib,ASC,KIT inhibitor,FGFR1,0.242817
+95823,SU-4312,A375,PDGFR inhibitor,KDR,0.241919
+131300,vincristine,HCC515,Tubulin inhibitor,TUBB,0.241736
+125960,saracatinib,THP1,Src inhibitor,ABL1,0.241516
+101552,beclomethasone-dipropionate,A375,Immunosuppressant,NR3C1,0.239710
+131252,vinblastine,HCC515,Tubulin inhibitor,TUBB,0.231345
+112406,griseofulvin,A549,,,0.229739
+2486,BH3I-1,VCAP,BCL inhibitor,BCL2L1,0.228301
+84099,HG-6-64-01,MCF10A,,,0.227058
+107863,docetaxel,VCAP,Tubulin inhibitor,TUBB,0.226001
+131309,vincristine,VCAP,Tubulin inhibitor,TUBB,0.224391
+102250,biperiden,HT29,Acetylcholine receptor antagonist,CHRM1,0.223391
+91397,QL-X-138,HT29,,,0.221050
+129818,tranylcypromine,A549,Monoamine oxidase inhibitor,KDM1A,0.219466
+107844,docetaxel,HT29,Tubulin inhibitor,TUBB,0.219311
+122923,pravastatin,A375,HMGCR inhibitor,HMGCR,0.218835
+80483,CGP-12177,A375,Adrenergic receptor agonist,ADRB1,0.218333
+100551,antimycin-a,HCC515,ATP synthase inhibitor,CYCS,0.217784
+123326,progesterone,VCAP,Progesterone receptor agonist,CYP17A1,0.213714
+124691,resveratrol,NPC,SIRT activator,SIRT1,0.212730
+118857,nalbuphine,A549,Opioid receptor agonist,OPRD1,0.212233
+103936,ceforanide,PC3,,,0.212058
+119848,nizatidine,A375,Histamine receptor antagonist,HRH2,0.211827
+105156,clomifene,NPC,Estrogen receptor antagonist,ESR1,0.211430
+129689,tozasertib,HEPG2,JAK inhibitor,FLT3,0.211193
+102656,brivanib,HA1E,FGFR inhibitor,FGFR1,0.211168
+99963,amiodarone,HA1E,Potassium channel blocker,KCNH2,0.210671
+127700,tanespimycin,VCAP,HSP inhibitor,HSP90AA1,0.210379
+130998,vecuronium,HCC515,Acetylcholine receptor antagonist,CHRNA2,0.210355

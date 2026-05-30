@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+120638,ouabain,PHH,ATPase inhibitor,ATP1A1,-0.441257
+107347,digoxin,PHH,ATPase inhibitor,ATP1A1,-0.388160
+108737,emetine,PHH,Protein synthesis inhibitor,RPS2,-0.349549
+125498,rottlerin,ASC,,,-0.344678
+91449,QL-XII-47,MCF7,,,-0.332106
+104015,celastrol,A549,,,-0.328408
+105828,cyclosporin-a,ASC,Calcineurin inhibitor,PPIA,-0.324514
+131250,vinblastine,ASC,Tubulin inhibitor,TUBB,-0.324005
+116447,manumycin-a,A375,NFKB pathway inhibitor,FNTA,-0.323003
+118005,mifepristone,ASC,Progesterone receptor antagonist,NR3C1,-0.317752
+108720,emetine,A549,Protein synthesis inhibitor,RPS2,-0.315720
+104028,celastrol,PC3,,,-0.312496
+106364,daunorubicin,ASC,RNA synthesis inhibitor,TOP2A,-0.312150
+108217,doxorubicin,ASC,Topoisomerase inhibitor,TOP2A,-0.312128
+102244,biperiden,ASC,Acetylcholine receptor antagonist,CHRM1,-0.311352
+108719,emetine,A375,Protein synthesis inhibitor,RPS2,-0.301746
+105158,clomifene,PHH,Estrogen receptor antagonist,ESR1,-0.299360
+1544,AT-CSC-07,PC3,,,-0.297665
+121280,parthenolide,ASC,,,-0.297506
+130763,ursolic-acid,A549,STAT inhibitor,HSD11B1,-0.296020
+107327,digoxigenin,PC3,,,-0.292507
+110967,flunarizine,SKB,Calcium channel blocker,CACNA1H,-0.292426
+122925,pravastatin,ASC,HMGCR inhibitor,HMGCR,-0.292054
+110851,fludarabine,ASC,DNA synthesis inhibitor,RRM1,-0.290668
+109558,estradiol,ASC,Estrogen receptor agonist,ESR1,-0.289091
+105848,cyclosporin-a,PHH,Calcineurin inhibitor,PPIA,-0.288772
+111224,fluticasone,ASC,Glucocorticoid receptor agonist,NR3C1,-0.288280
+88890,NCS-382,ASC,GABA receptor antagonist,GABBR1,-0.287380
+130083,triciribine,PHH,Akt inhibitor,AKT3,-0.286997
+119037,naringenin,PC3,TRPV antagonist,CYP19A1,-0.285208
+99649,alvespimycin,VCAP,HSP inhibitor,HSP90AA1,-0.285190
+107358,dihydrexidine,HT29,Dopamine receptor agonist,DRD1,-0.284844
+91404,QL-X-138,PC3,,,-0.283949
+105811,cyclopiazonic-acid,A549,ATPase inhibitor,ATP2A1,-0.281566
+120631,ouabain,HCC515,ATPase inhibitor,ATP1A1,-0.281313
+100549,antimycin-a,ASC,ATP synthase inhibitor,CYCS,-0.279116
+120630,ouabain,HA1E,ATPase inhibitor,ATP1A1,-0.278726
+127689,tanespimycin,PC3,HSP inhibitor,HSP90AA1,-0.278675
+131301,vincristine,HEPG2,Tubulin inhibitor,TUBB,-0.275589
+102457,bortezomib,A549,Proteasome inhibitor,PSMB1,-0.274247
+131307,vincristine,PC3,Tubulin inhibitor,TUBB,-0.273860
+129735,tramadol,A375,Opioid receptor agonist,OPRM1,-0.273433
+100202,amsacrine,HEPG2,Topoisomerase inhibitor,TOP2A,-0.272520
+120629,ouabain,ASC,ATPase inhibitor,ATP1A1,-0.272503
+89650,OBAA,HA1E,Phospholipase inhibitor,PLA2G1B,-0.271426
+83223,GSK-1059615,HUVEC,,,-0.269787
+91388,QL-X-138,A375,,,-0.269450
+107317,digitoxin,VCAP,ATPase inhibitor,ATP1A1,-0.269215
+103612,carbidopa,PC3,Aromatic L-amino acid decarboxylase inhibitor,DDC,-0.268219
+110143,ezetimibe,MCF7,Cholesterol inhibitor,NPC1L1,-0.267233

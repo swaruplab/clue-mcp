@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+119994,noretynodrel,MCF7,Progestogen hormone,PGR,0.323796
+128912,tibolone,MCF7,Androgen receptor agonist,ESR1,0.297992
+100996,atorvastatin,MCF7,HMGCR inhibitor,DPP4,0.290321
+124698,resveratrol,VCAP,SIRT activator,SIRT1,0.279802
+112047,gestrinone,MCF7,Progesterone receptor antagonist,ESR1,0.273858
+110803,floxuridine,VCAP,,,0.273313
+84100,HG-6-64-01,MCF7,,,0.272372
+110945,flumetasone,MCF7,Glucocorticoid receptor agonist,NR3C1,0.266343
+109567,estradiol,MCF7,Estrogen receptor agonist,ESR1,0.252515
+121270,paroxetine,MCF7,Selective serotonin reuptake inhibitor,SLC6A4,0.252138
+115375,levonorgestrel,MCF7,Estrogen receptor agonist,PGR,0.246243
+118044,miglitol,MCF7,Glucosidase inhibitor,GAA,0.245824
+117405,metergoline,MCF7,Dopamine receptor agonist,HTR1A,0.238011
+105897,cytarabine,A549,Ribonucleotide reductase inhibitor,POLA1,0.237382
+100881,asenapine,MCF7,Dopamine receptor antagonist,ADRB2,0.233851
+124894,rifampicin,MCF7,RNA polymerase inhibitor,NR1I2,0.233095
+130029,triamcinolone,VCAP,Glucocorticoid receptor agonist,NR3C1,0.232985
+124727,retinol,MCF7,Retinoid receptor ligand,RXRA,0.229838
+109140,epitiostanol,MCF7,Androgen receptor agonist,AR,0.228861
+109753,ethisterone,MCF7,,,0.227489
+106861,dexamethasone,VCAP,Glucocorticoid receptor agonist,NR3C1,0.226905
+116499,maprotiline,PC3,Tricyclic antidepressant,SLC6A2,0.225681
+102004,betamethasone,VCAP,Glucocorticoid receptor agonist,NR3C1,0.225422
+113182,ibrutinib,YAPC,BTK inhibitor,BTK,0.224555
+114617,ketoconazole,PC3,Sterol demethylase inhibitor,CYP19A1,0.224513
+122935,pravastatin,MCF7,HMGCR inhibitor,HMGCR,0.221901
+105752,cyclopamine,VCAP,Smoothened receptor antagonist,SMO,0.219072
+80483,CGP-12177,A375,Adrenergic receptor agonist,ADRB1,0.219030
+124686,resveratrol,MCF7,SIRT activator,SIRT1,0.218293
+116863,mefloquine,MCF7,,,0.218073
+127396,tacrolimus,YAPC,Calcineurin inhibitor,FKBP1A,0.218018
+126476,simvastatin,MCF7,HMGCR inhibitor,HMGCR,0.217842
+110859,fludarabine,PC3,DNA synthesis inhibitor,RRM1,0.217291
+95786,SU-11274,PC3,Tyrosine kinase inhibitor,MET,0.214510
+102670,brivanib,PC3,FGFR inhibitor,FGFR1,0.214218
+89654,OBAA,MCF7,Phospholipase inhibitor,PLA2G1B,0.214163
+106847,dexamethasone,MCF7,Glucocorticoid receptor agonist,NR3C1,0.214043
+107844,docetaxel,HT29,Tubulin inhibitor,TUBB,0.213913
+102656,brivanib,HA1E,FGFR inhibitor,FGFR1,0.212933
+130424,tropisetron,A375,Serotonin receptor antagonist,HTR3A,0.212888
+106843,dexamethasone,HT29,Glucocorticoid receptor agonist,NR3C1,0.212768
+95789,SU-11274,SKBR3,Tyrosine kinase inhibitor,MET,0.212703
+129810,tranilast,VCAP,,,0.211168
+89772,OSI-027,MDAMB231,MTOR inhibitor,MTOR,0.208942
+114330,isoxsuprine,MCF7,Adrenergic receptor agonist,ADRB2,0.208864
+99200,alclometasone,MCF7,Glucocorticoid receptor agonist,NR3C1,0.208702
+115911,lonidamine,PC3,,,0.208650
+99750,amcinonide,A549,Glucocorticoid receptor agonist,NR3C1,0.208582
+114616,ketoconazole,MCF7,Sterol demethylase inhibitor,CYP19A1,0.208481
+108253,doxycycline,MCF7,Metalloproteinase inhibitor,MMP8,0.208322

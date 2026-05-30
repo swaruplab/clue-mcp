@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+89971,PD-0325901,A375,MEK inhibitor,MAP2K1,-0.393411
+83220,GSK-1059615,HME1,,,-0.382877
+89413,NVP-AUY922,HA1E,HSP inhibitor,HSP90AA1,-0.372016
+106053,dactinomycin,HCC515,RNA polymerase inhibitor,POLR2A,-0.371063
+353,A-443654,HA1E,,,-0.369100
+117911,mibefradil,HA1E,T-type calcium channel blocker,CACNA1C,-0.364006
+106367,daunorubicin,HCC515,RNA synthesis inhibitor,TOP2A,-0.361499
+84105,HG-6-64-01,SKBR3,,,-0.360258
+89421,NVP-AUY922,MDAMB231,HSP inhibitor,HSP90AA1,-0.358462
+84471,ICI-162846,PC3,Histamine receptor antagonist,HRH2,-0.347198
+96550,U-0126,A375,MEK inhibitor,MAP2K1,-0.340280
+96557,U-0126,HEPG2,MEK inhibitor,MAP2K1,-0.337161
+106057,dactinomycin,PC3,RNA polymerase inhibitor,POLR2A,-0.331937
+130344,triptolide,A549,,,-0.330213
+129708,tozasertib,PC3,JAK inhibitor,FLT3,-0.330213
+96558,U-0126,HT29,MEK inhibitor,MAP2K1,-0.328989
+126724,sorafenib,HA1E,KIT inhibitor,FGFR1,-0.327808
+127681,tanespimycin,NCIH596,HSP inhibitor,HSP90AA1,-0.327521
+83499,GSK-690693,HA1E,Akt inhibitor,AKT3,-0.321793
+90729,PIK-75,PC3,PI3K inhibitor,PIK3CA,-0.320519
+111093,fluphenazine,HA1E,Dopamine receptor antagonist,DRD1,-0.317672
+114868,lapatinib,HCC515,EGFR inhibitor,EGFR,-0.315727
+106054,dactinomycin,HEPG2,RNA polymerase inhibitor,POLR2A,-0.304065
+124189,radicicol,HCC515,,,-0.302310
+90720,PIK-75,HEPG2,PI3K inhibitor,PIK3CA,-0.301713
+1997,AZD-7762,HME1,CHK inhibitor,CHEK1,-0.300622
+126923,staurosporine,HCC515,PKC inhibitor,CDK2,-0.297300
+116102,lovastatin,HEPG2,HMGCR inhibitor,HMGCR,-0.295593
+129676,tozasertib,A375,JAK inhibitor,FLT3,-0.291160
+130343,triptolide,A375,,,-0.290940
+106370,daunorubicin,HEPG2,RNA synthesis inhibitor,TOP2A,-0.290475
+112524,halcinonide,A549,Glucocorticoid receptor agonist,NR3C1,-0.290240
+117079,mephentermine,MCF7,,,-0.290125
+127579,tamoxifen,HA1E,Estrogen receptor antagonist,ESR1,-0.286690
+89414,NVP-AUY922,HCC515,HSP inhibitor,HSP90AA1,-0.282720
+120540,orteronel,HT29,Cytochrome P450 inhibitor,CYP17A1,-0.280023
+89656,OBAA,PC3,Phospholipase inhibitor,PLA2G1B,-0.278728
+106377,daunorubicin,PC3,RNA synthesis inhibitor,TOP2A,-0.276465
+106049,dactinomycin,A375,RNA polymerase inhibitor,POLR2A,-0.276072
+109113,epirubicin,HA1E,Topoisomerase inhibitor,TOP2A,-0.275009
+100748,argatroban,PC3,Thrombin inhibitor,F2,-0.273408
+127654,tanespimycin,A549,HSP inhibitor,HSP90AA1,-0.272649
+90721,PIK-75,HT29,PI3K inhibitor,PIK3CA,-0.271951
+101016,atovaquone,HT29,,,-0.271907
+115156,lestaurtinib,HA1E,JAK inhibitor,FLT3,-0.271250
+106055,dactinomycin,HT29,RNA polymerase inhibitor,POLR2A,-0.270373
+108216,doxorubicin,A549,Topoisomerase inhibitor,TOP2A,-0.270341
+126920,staurosporine,A549,PKC inhibitor,CDK2,-0.269643
+107911,dolasetron,A375,Serotonin receptor antagonist,HTR3A,-0.269136
+116063,losartan,PC3,Angiotensin receptor antagonist,AGTR1,-0.268731

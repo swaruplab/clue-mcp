@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+131825,zaprinast,PC3,Phosphodiesterase inhibitor,PDE5A,-0.313338
+91392,QL-X-138,HA1E,,,-0.273084
+115156,lestaurtinib,HA1E,JAK inhibitor,FLT3,-0.271907
+80322,CD-1530,HA1E,Retinoid receptor agonist,RARG,-0.271652
+119499,nifedipine,HA1E,Calcium channel blocker,CACNA1C,-0.266898
+353,A-443654,HA1E,,,-0.261454
+91441,QL-XII-47,HA1E,,,-0.259082
+122925,pravastatin,ASC,HMGCR inhibitor,HMGCR,-0.258930
+102244,biperiden,ASC,Acetylcholine receptor antagonist,CHRM1,-0.257045
+125640,rutin,SKB,Antioxidant,AKR1C3,-0.256718
+83211,GSK-1059615,ASC,,,-0.250300
+131251,vinblastine,HA1E,Tubulin inhibitor,TUBB,-0.244227
+83499,GSK-690693,HA1E,Akt inhibitor,AKT3,-0.242350
+105830,cyclosporin-a,HA1E,Calcineurin inhibitor,PPIA,-0.240535
+110851,fludarabine,ASC,DNA synthesis inhibitor,RRM1,-0.240374
+100871,ascorbic-acid,PC3,Antioxidant,SLC23A1,-0.239501
+105740,cyclopamine,ASC,Smoothened receptor antagonist,SMO,-0.236886
+105722,cycloheximide,HA1E,Protein synthesis inhibitor,RPL3,-0.235170
+103276,calpeptin,HA1E,,,-0.233508
+128582,thapsigargin,HA1E,ATPase inhibitor,ATP2A1,-0.232942
+118751,nadolol,ASC,Adrenergic receptor antagonist,ADRB1,-0.227638
+110861,fludarabine,SKB,DNA synthesis inhibitor,RRM1,-0.226595
+103128,cabergoline,HA1E,Dopamine receptor agonist,ADRA1A,-0.223694
+118473,montelukast,HT29,Leukotriene receptor antagonist,CYSLTR1,-0.223410
+89650,OBAA,HA1E,Phospholipase inhibitor,PLA2G1B,-0.222497
+80719,CGS-21680,NPC,Adenosine receptor agonist,ADORA1,-0.219477
+131602,wortmannin,ASC,PI3K inhibitor,PIK3CA,-0.218794
+83233,GSK-1059615,SHSY5Y,,,-0.218351
+117685,methylprednisolone,A375,Glucocorticoid receptor agonist,NR3C1,-0.217864
+82888,GDC-0980,HA1E,MTOR inhibitor,MTOR,-0.217823
+126380,siguazodan,HA1E,Phosphodiesterase inhibitor,PDE3A,-0.217490
+126878,spironolactone,A549,Mineralocorticoid receptor antagonist,NR3C2,-0.217439
+82321,EX-527,YAPC,SIRT inhibitor,SIRT1,-0.217388
+117911,mibefradil,HA1E,T-type calcium channel blocker,CACNA1C,-0.216869
+100868,ascorbic-acid,HA1E,Antioxidant,SLC23A1,-0.215197
+104091,ceramide,A375,,,-0.214315
+131190,vicriviroc,HA1E,CCK receptor antagonist,CCR5,-0.213982
+127660,tanespimycin,HA1E,HSP inhibitor,HSP90AA1,-0.213391
+348,A-443654,A375,,,-0.213078
+124297,ranitidine,ASC,Histamine receptor antagonist,HRH2,-0.210736
+129970,tretinoin,HEPG2,Retinoid receptor ligand,RARA,-0.210370
+1805,AZD-1480,MDAMB231,JAK inhibitor,JAK1,-0.209925
+115064,lenalidomide,HA1E,Anti-cancer agent,CRBN,-0.209550
+111224,fluticasone,ASC,Glucocorticoid receptor agonist,NR3C1,-0.208363
+110981,flunisolide,SKB,Cytochrome P450 inhibitor,NR3C1,-0.206862
+128732,thioperamide,PHH,Histamine receptor antagonist,HRH3,-0.206689
+365,A-443654,MDAMB231,,,-0.205310
+82301,EX-527,HELA,SIRT inhibitor,SIRT1,-0.205169
+619,AG-490,ASC,JAK inhibitor,JAK2,-0.204113
+110852,fludarabine,HA1E,DNA synthesis inhibitor,RRM1,-0.202969

@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+118892,naloxone,PHH,Opioid receptor antagonist,OPRD1,0.259773
+103225,calcipotriol,MCF7,Vitamin D receptor agonist,VDR,0.256034
+105897,cytarabine,A549,Ribonucleotide reductase inhibitor,POLA1,0.246540
+102823,bucladesine,PHH,CAMP stimulant,PRKACA,0.238561
+120453,orantinib,HEPG2,FGFR inhibitor,FGFR1,0.233344
+124698,resveratrol,VCAP,SIRT activator,SIRT1,0.228533
+80413,CG-930,ASC,JNK inhibitor,MAPK8,0.228359
+120998,paclitaxel,PHH,Tubulin inhibitor,TUBB,0.227312
+122094,piceatannol,A375,,,0.226736
+101720,benzamil,A549,Sodium channel blocker,SCNN1A,0.224532
+89406,NVP-AEW541,PC3,IGF-1 inhibitor,IGF1R,0.222345
+99430,aloisine,ASC,CDK inhibitor,CDK2,0.220867
+127243,sunitinib,HEPG2,KIT inhibitor,FLT1,0.219605
+129801,tranilast,HT29,,,0.218175
+114617,ketoconazole,PC3,Sterol demethylase inhibitor,CYP19A1,0.217714
+107471,diltiazem,PHH,Calcium channel blocker,CACNA1C,0.216841
+89995,PD-0325901,PHH,MEK inhibitor,MAP2K1,0.216369
+114610,ketoconazole,HA1E,Sterol demethylase inhibitor,CYP19A1,0.212774
+119840,nitrofural,PC3,,,0.212033
+112503,guggulsterone,A375,IKK inhibitor,NR3C1,0.207593
+119553,niguldipine,HA1E,Calcium channel blocker,ADRA1A,0.207375
+110940,flumetasone,ASC,Glucocorticoid receptor agonist,NR3C1,0.205944
+629,AG-490,U2OS,JAK inhibitor,JAK2,0.204533
+124676,resveratrol,ASC,SIRT activator,SIRT1,0.204444
+119550,niguldipine,A549,Calcium channel blocker,ADRA1A,0.202947
+124733,retinol,VCAP,Retinoid receptor ligand,RXRA,0.202697
+105731,cycloheximide,PHH,Protein synthesis inhibitor,RPL3,0.199519
+124725,retinol,HEPG2,Retinoid receptor ligand,RXRA,0.199275
+110859,fludarabine,PC3,DNA synthesis inhibitor,RRM1,0.199105
+103811,catechin,PC3,,,0.199087
+128355,testosterone,HEPG2,,,0.198054
+114892,lapatinib,PC3,EGFR inhibitor,EGFR,0.197923
+105142,clomifene,ASC,Estrogen receptor antagonist,ESR1,0.197808
+116825,medrysone,VCAP,Glucocorticoid receptor agonist,NR3C1,0.197232
+110097,exemestane,HA1E,Aromatase inhibitor,CYP19A1,0.196104
+110784,floxuridine,A549,,,0.196083
+127382,tacrolimus,HT29,Calcineurin inhibitor,FKBP1A,0.195989
+83496,GSK-690693,A375,Akt inhibitor,AKT3,0.195753
+105896,cytarabine,A375,Ribonucleotide reductase inhibitor,POLA1,0.195429
+130336,triprolidine,HT29,Histamine receptor antagonist,HRH1,0.194645
+105149,clomifene,HT29,Estrogen receptor antagonist,ESR1,0.194538
+116489,maprotiline,HCC515,Tricyclic antidepressant,SLC6A2,0.193519
+111442,forskolin,SKB,Adenylyl cyclase activator,ADCY2,0.193342
+123054,pregnenolone,A549,,,0.193170
+131611,wortmannin,HEPG2,PI3K inhibitor,PIK3CA,0.192918
+105910,cytarabine,PC3,Ribonucleotide reductase inhibitor,POLA1,0.191997
+118933,naltrindole,HT29,Opioid receptor antagonist,OPRD1,0.191738
+123326,progesterone,VCAP,Progesterone receptor agonist,CYP17A1,0.190253
+119414,nicergoline,MCF7,Adrenergic receptor antagonist,ADRA1A,0.188903
+130073,triciribine,ASC,Akt inhibitor,AKT3,0.188513

@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+103478,capsaicin,PC3,TRPV agonist,TRPV1,0.421056
+91411,QL-XI-92,ASC,,,0.397971
+113182,ibrutinib,YAPC,BTK inhibitor,BTK,0.383117
+83729,GW-5074,MCF7,RAF inhibitor,RAF1,0.366162
+84100,HG-6-64-01,MCF7,,,0.360028
+105832,cyclosporin-a,HCT116,Calcineurin inhibitor,PPIA,0.358725
+112510,guggulsterone,MCF7,IKK inhibitor,NR3C1,0.356166
+94083,SB-590885,HS578T,RAF inhibitor,BRAF,0.353407
+106856,dexamethasone,SKB,Glucocorticoid receptor agonist,NR3C1,0.350665
+104619,cimetidine,ASC,Histamine receptor antagonist,HRH2,0.348788
+105750,cyclopamine,SKB,Smoothened receptor antagonist,SMO,0.346992
+100881,asenapine,MCF7,Dopamine receptor antagonist,ADRB2,0.344937
+119994,noretynodrel,MCF7,Progestogen hormone,PGR,0.342934
+97925,XMD-1185H,BT20,,,0.342861
+118044,miglitol,MCF7,Glucosidase inhibitor,GAA,0.334207
+108155,doxepin,A549,Histamine receptor antagonist,HRH1,0.333872
+113159,ibrutinib,HEPG2,BTK inhibitor,BTK,0.326968
+128819,thiothixene,HCC515,Dopamine receptor antagonist,HTR2A,0.325648
+2507,BI-2536,MCF7,PLK inhibitor,PLK1,0.325504
+96283,THZ-2-98-01,SKBR3,,,0.324948
+102196,bimatoprost,HA1E,Prostanoid receptor agonist,PTGFR,0.324726
+1804,AZD-1480,MCF7,JAK inhibitor,JAK1,0.324125
+102656,brivanib,HA1E,FGFR inhibitor,FGFR1,0.324087
+97931,XMD-1185H,MCF10A,,,0.321952
+111412,formoterol,HT29,Adrenergic receptor agonist,ADRB2,0.321950
+95789,SU-11274,SKBR3,Tyrosine kinase inhibitor,MET,0.321549
+126138,selegiline,HUH7,Monoamine oxidase inhibitor,MAOA,0.320904
+114613,ketoconazole,HT29,Sterol demethylase inhibitor,CYP19A1,0.320540
+102004,betamethasone,VCAP,Glucocorticoid receptor agonist,NR3C1,0.320117
+129582,toremifene,HT29,Estrogen receptor antagonist,ESR1,0.316447
+84072,HG-5-88-01,HA1E,,,0.316437
+124679,resveratrol,HCC515,SIRT activator,SIRT1,0.316159
+121945,phentolamine,VCAP,Adrenergic receptor antagonist,ADRA1A,0.314535
+104512,cilastatin,A375,Dehydropeptidase inhibitor,DPEP1,0.314353
+100048,amlodipine,A549,Calcium channel blocker,CACNA1C,0.313857
+127586,tamoxifen,HT29,Estrogen receptor antagonist,ESR1,0.313461
+105836,cyclosporin-a,HT29,Calcineurin inhibitor,PPIA,0.310905
+117726,methysergide,ASC,Serotonin receptor antagonist,HTR1B,0.309665
+105429,cortisone-acetate,A549,Glucocorticoid receptor agonist,NR3C1,0.306356
+126033,scopolamine,SKB,Acetylcholine receptor antagonist,CHRM1,0.305227
+114892,lapatinib,PC3,EGFR inhibitor,EGFR,0.305020
+117922,mibefradil,VCAP,T-type calcium channel blocker,CACNA1C,0.304465
+106843,dexamethasone,HT29,Glucocorticoid receptor agonist,NR3C1,0.303406
+129810,tranilast,VCAP,,,0.303356
+109567,estradiol,MCF7,Estrogen receptor agonist,ESR1,0.303333
+102250,biperiden,HT29,Acetylcholine receptor antagonist,CHRM1,0.302100
+122935,pravastatin,MCF7,HMGCR inhibitor,HMGCR,0.301674
+121258,paroxetine,A549,Selective serotonin reuptake inhibitor,SLC6A4,0.301219
+126134,selegiline,HA1E,Monoamine oxidase inhibitor,MAOA,0.300772
+118883,naloxone,ASC,Opioid receptor antagonist,OPRD1,0.300107

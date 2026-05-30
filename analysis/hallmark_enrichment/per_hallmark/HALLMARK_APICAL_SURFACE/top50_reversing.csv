@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+82301,EX-527,HELA,SIRT inhibitor,SIRT1,-0.427811
+117296,mestranol,HCC515,Estrogen receptor agonist,ESR1,-0.338770
+119034,naringenin,MCF7,TRPV antagonist,CYP19A1,-0.333841
+100825,artesunate,A375,,,-0.321277
+119209,nelfinavir,HT29,HIV protease inhibitor,CYP1A2,-0.315599
+109560,estradiol,HCC515,Estrogen receptor agonist,ESR1,-0.312321
+110994,fluocinolone-acetonide,HA1E,Corticosteroid agonist,NR3C1,-0.299586
+106611,demeclocycline,PC3,,,-0.297825
+124877,rifabutin,MCF7,,,-0.297448
+123688,pterostilbene,HA1E,PPAR receptor agonist,PTGS2,-0.293617
+128732,thioperamide,PHH,Histamine receptor antagonist,HRH3,-0.291217
+1812,AZD-1480,PC3,JAK inhibitor,JAK1,-0.289337
+91388,QL-X-138,A375,,,-0.288163
+110648,finasteride,HA1E,5 alpha reductase inhibitor,SRD5A1,-0.285882
+127192,suloctidil,A375,,,-0.281936
+107361,dihydrexidine,VCAP,Dopamine receptor agonist,DRD1,-0.277594
+110101,exemestane,HEPG2,Aromatase inhibitor,CYP19A1,-0.277117
+109570,estradiol,NPC,Estrogen receptor agonist,ESR1,-0.275027
+123047,prednisone,PC3,Glucocorticoid receptor agonist,NR3C1,-0.274363
+107303,digitoxigenin,PC3,,,-0.270632
+102567,brefeldin-a,HT29,,,-0.268957
+102667,brivanib,MDAMB231,FGFR inhibitor,FGFR1,-0.268809
+104012,cefuroxime,U2OS,,,-0.268557
+85078,JW-7-24-1,A375,,,-0.266906
+123726,puromycin,HT29,,,-0.263981
+131190,vicriviroc,HA1E,CCK receptor antagonist,CCR5,-0.263852
+102239,biotin,PC3,,,-0.262382
+127389,tacrolimus,NPC,Calcineurin inhibitor,FKBP1A,-0.260979
+123720,puromycin,A375,,,-0.259495
+126738,sorafenib,PC3,KIT inhibitor,FGFR1,-0.258837
+112503,guggulsterone,A375,IKK inhibitor,NR3C1,-0.255635
+114350,isradipine,A549,Calcium channel blocker,CACNA1C,-0.255034
+121294,parthenolide,NCIH2073,,,-0.254958
+100166,ampicillin,MCF7,,,-0.254800
+126724,sorafenib,HA1E,KIT inhibitor,FGFR1,-0.254781
+108786,enalapril,HA1E,Angiotensin converting enzyme inhibitor,ACE,-0.254189
+129676,tozasertib,A375,JAK inhibitor,FLT3,-0.253588
+84069,HG-5-88-01,A549,,,-0.252968
+98399,ZD-7114,PC3,Adrenergic receptor agonist,ADRB3,-0.251532
+106117,danazol,HA1E,Estrogen receptor antagonist,ESR1,-0.251226
+126923,staurosporine,HCC515,PKC inhibitor,CDK2,-0.250334
+129742,tramadol,HT29,Opioid receptor agonist,OPRM1,-0.249833
+99103,afatinib,SKBR3,EGFR inhibitor,EGFR,-0.249671
+122852,potassium-canrenoate,NPC,Mineralocorticoid receptor antagonist,NR3C2,-0.249518
+114925,lasalocid,A549,,,-0.249442
+100609,apigenin,A375,,,-0.248726
+103878,cefdinir,PC3,,,-0.248669
+126926,staurosporine,MCF7,PKC inhibitor,CDK2,-0.248225
+108740,emetine,U2OS,Protein synthesis inhibitor,RPS2,-0.247920
+102857,budesonide,VCAP,Glucocorticoid receptor agonist,NR3C1,-0.247867

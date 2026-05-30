@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+129283,tofacitinib,HA1E,JAK inhibitor,JAK1,-0.493452
+127681,tanespimycin,NCIH596,HSP inhibitor,HSP90AA1,-0.460719
+896,AM-404,HA1E,FAAH inhibitor,TRPV1,-0.452608
+1543,AT-CSC-07,MCF7,,,-0.424265
+101297,azithromycin,A375,,,-0.421946
+80322,CD-1530,HA1E,Retinoid receptor agonist,RARG,-0.412127
+116452,manumycin-a,HA1E,NFKB pathway inhibitor,FNTA,-0.409626
+112487,guanethidine,PC3,,,-0.404955
+83499,GSK-690693,HA1E,Akt inhibitor,AKT3,-0.397392
+113690,indirubin,A375,CDK inhibitor,CDK5,-0.396247
+101095,austricine,HA1E,,,-0.393288
+117696,methylprednisolone,MCF7,Glucocorticoid receptor agonist,NR3C1,-0.392663
+112513,guggulsterone,PC3,IKK inhibitor,NR3C1,-0.390344
+108786,enalapril,HA1E,Angiotensin converting enzyme inhibitor,ACE,-0.385993
+84105,HG-6-64-01,SKBR3,,,-0.372160
+131578,withaferin-a,HA1E,IKK inhibitor,NAMPT,-0.360289
+124019,quinine,HT29,Hemozoin biocrystallization inhibitor,KCNN4,-0.359281
+127576,tamoxifen,ASC,Estrogen receptor antagonist,ESR1,-0.358408
+114939,lasalocid,PC3,,,-0.356432
+114927,lasalocid,HA1E,,,-0.353876
+102492,bortezomib,YAPC,Proteasome inhibitor,PSMB1,-0.353589
+109637,estrone,HA1E,Estrogen receptor agonist,ESR1,-0.352415
+131299,vincristine,HA1E,Tubulin inhibitor,TUBB,-0.351627
+118413,molsidomine,HA1E,Guanylyl cyclase activator,GUCY1A1,-0.350683
+113700,indirubin,VCAP,CDK inhibitor,CDK5,-0.350559
+125524,rottlerin,VCAP,,,-0.349252
+1546,AT-CSC-18,A375,,,-0.348703
+119976,norethindrone,HA1E,Progestogen hormone,PGR,-0.348659
+100374,anandamide,VCAP,Cannabinoid receptor agonist,CNR1,-0.346183
+100621,apigenin,SKB,,,-0.344040
+102558,brefeldin-a,A375,,,-0.339184
+91441,QL-XII-47,HA1E,,,-0.337351
+114401,itraconazole,HA1E,,,-0.334584
+123039,prednisone,HEPG2,Glucocorticoid receptor agonist,NR3C1,-0.332418
+126893,spironolactone,PC3,Mineralocorticoid receptor antagonist,NR3C2,-0.331763
+116879,megestrol-acetate,HA1E,DNA inhibitor,PGR,-0.330589
+99636,alvespimycin,HA1E,HSP inhibitor,HSP90AA1,-0.330094
+131298,vincristine,ASC,Tubulin inhibitor,TUBB,-0.326310
+123033,prednisone,A549,Glucocorticoid receptor agonist,NR3C1,-0.324687
+80944,CNQX,U2OS,Glutamate receptor antagonist,GRIA1,-0.323723
+96573,U-0126,SKB,MEK inhibitor,MAP2K1,-0.323647
+131330,vinorelbine,SKB,Tubulin inhibitor,TUBB,-0.323285
+125517,rottlerin,NPC,,,-0.322898
+98296,YM-298198,A375,Glutamate receptor antagonist,GRM1,-0.321804
+98100,Y-27632,HT29,Rho associated kinase inhibitor,ROCK1,-0.313627
+126723,sorafenib,BT20,KIT inhibitor,FGFR1,-0.313025
+90717,PIK-75,HA1E,PI3K inhibitor,PIK3CA,-0.309047
+112939,hydrocortisone,MCF7,Glucocorticoid receptor agonist,NR3C1,-0.308565
+99525,alprostadil,PC3,Prostanoid receptor agonist,PTGER1,-0.308059
+102583,brefeldin-a,VCAP,,,-0.304713

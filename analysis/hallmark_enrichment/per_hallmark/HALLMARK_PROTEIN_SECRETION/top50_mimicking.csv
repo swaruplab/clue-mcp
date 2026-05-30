@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+102735,bromocriptine,U2OS,Dopamine receptor agonist,ADRA2A,0.375358
+102196,bimatoprost,HA1E,Prostanoid receptor agonist,PTGFR,0.363739
+110512,fenretinide,HCC515,Apoptosis stimulant,RARA,0.359478
+128601,thapsigargin,VCAP,ATPase inhibitor,ATP2A1,0.350255
+104512,cilastatin,A375,Dehydropeptidase inhibitor,DPEP1,0.349974
+126138,selegiline,HUH7,Monoamine oxidase inhibitor,MAOA,0.348464
+106135,danazol,VCAP,Estrogen receptor antagonist,ESR1,0.347517
+102718,bromocriptine,HCC515,Dopamine receptor agonist,ADRA2A,0.344259
+123326,progesterone,VCAP,Progesterone receptor agonist,CYP17A1,0.343298
+127253,sunitinib,PC3,KIT inhibitor,FLT1,0.334170
+128904,tibolone,HA1E,Androgen receptor agonist,ESR1,0.334163
+1786,AZD-1480,A375,JAK inhibitor,JAK1,0.332141
+114939,lasalocid,PC3,,,0.330413
+2502,BI-2536,HT29,PLK inhibitor,PLK1,0.330370
+102250,biperiden,HT29,Acetylcholine receptor antagonist,CHRM1,0.329770
+100551,antimycin-a,HCC515,ATP synthase inhibitor,CYCS,0.327231
+89420,NVP-AUY922,MCF7,HSP inhibitor,HSP90AA1,0.326220
+127833,taxifolin,VCAP,Opioid receptor antagonist,ADIPOR2,0.326002
+102004,betamethasone,VCAP,Glucocorticoid receptor agonist,NR3C1,0.324335
+110510,fenretinide,ASC,Apoptosis stimulant,RARA,0.322782
+109857,etodolac,HCC515,Cyclooxygenase inhibitor,PTGS2,0.321040
+105835,cyclosporin-a,HEPG2,Calcineurin inhibitor,PPIA,0.320012
+126742,sorafenib,VCAP,KIT inhibitor,FGFR1,0.319743
+119840,nitrofural,PC3,,,0.317415
+2515,BI-2536,PC3,PLK inhibitor,PLK1,0.315345
+115485,limonin,A375,,,0.312936
+89978,PD-0325901,HCC515,MEK inhibitor,MAP2K1,0.311987
+130502,tubocurarine,HT29,Acetylcholine receptor antagonist,CHRNA2,0.311763
+107472,diltiazem,SKB,Calcium channel blocker,CACNA1C,0.311507
+129000,timolol,HEPG2,Adrenergic receptor antagonist,ADRB1,0.308673
+102574,brefeldin-a,NEU,,,0.307388
+102564,brefeldin-a,HCC515,,,0.306110
+122935,pravastatin,MCF7,HMGCR inhibitor,HMGCR,0.305659
+129829,tranylcypromine,MCF7,Monoamine oxidase inhibitor,KDM1A,0.303688
+119214,nelfinavir,PC3,HIV protease inhibitor,CYP1A2,0.303552
+116489,maprotiline,HCC515,Tricyclic antidepressant,SLC6A2,0.303514
+106856,dexamethasone,SKB,Glucocorticoid receptor agonist,NR3C1,0.303457
+116825,medrysone,VCAP,Glucocorticoid receptor agonist,NR3C1,0.301417
+126739,sorafenib,SKB,KIT inhibitor,FGFR1,0.299246
+131814,zaprinast,A375,Phosphodiesterase inhibitor,PDE5A,0.299083
+123068,pregnenolone,SKB,,,0.298622
+117922,mibefradil,VCAP,T-type calcium channel blocker,CACNA1C,0.298460
+127586,tamoxifen,HT29,Estrogen receptor antagonist,ESR1,0.297911
+102558,brefeldin-a,A375,,,0.296477
+103805,catechin,HA1E,,,0.293780
+94086,SB-590885,MCF7,RAF inhibitor,BRAF,0.293187
+118213,mirtazapine,VCAP,Serotonin receptor antagonist,ADRA2A,0.292851
+91411,QL-XI-92,ASC,,,0.292463
+102570,brefeldin-a,MCF7,,,0.292121
+102559,brefeldin-a,A549,,,0.290286

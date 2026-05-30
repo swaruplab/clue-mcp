@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+84105,HG-6-64-01,SKBR3,,,-0.341282
+896,AM-404,HA1E,FAAH inhibitor,TRPV1,-0.316842
+101297,azithromycin,A375,,,-0.312027
+129283,tofacitinib,HA1E,JAK inhibitor,JAK1,-0.310404
+106496,deforolimus,HA1E,MTOR inhibitor,MTOR,-0.295880
+127681,tanespimycin,NCIH596,HSP inhibitor,HSP90AA1,-0.294322
+91441,QL-XII-47,HA1E,,,-0.277776
+98100,Y-27632,HT29,Rho associated kinase inhibitor,ROCK1,-0.268589
+83499,GSK-690693,HA1E,Akt inhibitor,AKT3,-0.260472
+127576,tamoxifen,ASC,Estrogen receptor antagonist,ESR1,-0.259064
+98296,YM-298198,A375,Glutamate receptor antagonist,GRM1,-0.256142
+116879,megestrol-acetate,HA1E,DNA inhibitor,PGR,-0.256134
+125524,rottlerin,VCAP,,,-0.255727
+112513,guggulsterone,PC3,IKK inhibitor,NR3C1,-0.254702
+80322,CD-1530,HA1E,Retinoid receptor agonist,RARG,-0.250543
+126893,spironolactone,PC3,Mineralocorticoid receptor antagonist,NR3C2,-0.249782
+122388,pinacidil,NPC,ATP channel activator,ABCC9,-0.248801
+96573,U-0126,SKB,MEK inhibitor,MAP2K1,-0.248524
+130499,tubocurarine,HA1E,Acetylcholine receptor antagonist,CHRNA2,-0.246426
+114927,lasalocid,HA1E,,,-0.246270
+127662,tanespimycin,HCC515,HSP inhibitor,HSP90AA1,-0.245903
+89971,PD-0325901,A375,MEK inhibitor,MAP2K1,-0.244814
+93758,SB-205607,MCF7,Delta 1 opioid receptor agonist,OPRD1,-0.244795
+353,A-443654,HA1E,,,-0.242538
+114401,itraconazole,HA1E,,,-0.239774
+113690,indirubin,A375,CDK inhibitor,CDK5,-0.238633
+116452,manumycin-a,HA1E,NFKB pathway inhibitor,FNTA,-0.237968
+102567,brefeldin-a,HT29,,,-0.237060
+104681,cinanserin,HCC515,,,-0.237050
+82888,GDC-0980,HA1E,MTOR inhibitor,MTOR,-0.236303
+100621,apigenin,SKB,,,-0.235483
+112487,guanethidine,PC3,,,-0.235008
+117696,methylprednisolone,MCF7,Glucocorticoid receptor agonist,NR3C1,-0.232831
+80944,CNQX,U2OS,Glutamate receptor antagonist,GRIA1,-0.231847
+108786,enalapril,HA1E,Angiotensin converting enzyme inhibitor,ACE,-0.231815
+126546,sirolimus,NPC,MTOR inhibitor,FKBP1A,-0.229953
+131550,warfarin,PC3,Vitamin K antagonist,VKORC1,-0.229796
+109637,estrone,HA1E,Estrogen receptor agonist,ESR1,-0.229136
+118413,molsidomine,HA1E,Guanylyl cyclase activator,GUCY1A1,-0.225960
+109864,etodolac,NEU,Cyclooxygenase inhibitor,PTGS2,-0.225558
+118473,montelukast,HT29,Leukotriene receptor antagonist,CYSLTR1,-0.225354
+101095,austricine,HA1E,,,-0.223683
+117548,methotrexate,HA1E,Dihydrofolate reductase inhibitor,DHFR,-0.223136
+99525,alprostadil,PC3,Prostanoid receptor agonist,PTGER1,-0.220802
+126518,sirolimus,HA1E,MTOR inhibitor,FKBP1A,-0.218596
+111997,genistein,HEPG2,Tyrosine kinase inhibitor,CFTR,-0.218564
+124913,rifaximin,HA1E,RNA synthesis inhibitor,NR1I2,-0.218090
+108784,enalapril,A549,Angiotensin converting enzyme inhibitor,ACE,-0.217022
+93938,SB-239063,VCAP,P38 MAPK inhibitor,MAPK14,-0.216354
+120680,oxantel,MCF7,,,-0.215885

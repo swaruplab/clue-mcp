@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+1544,AT-CSC-07,PC3,,,0.328502
+99429,aloisine,A549,CDK inhibitor,CDK2,0.311305
+110040,everolimus,MDAMB231,MTOR inhibitor,MTOR,0.295309
+83505,GSK-690693,MCF7,Akt inhibitor,AKT3,0.294472
+131307,vincristine,PC3,Tubulin inhibitor,TUBB,0.293840
+117912,mibefradil,HCC515,T-type calcium channel blocker,CACNA1C,0.293141
+111912,geldanamycin,PC3,HSP inhibitor,HSP90AA1,0.291488
+110027,everolimus,HA1E,MTOR inhibitor,MTOR,0.289922
+127832,taxifolin,PC3,Opioid receptor antagonist,ADIPOR2,0.289015
+2925,BMS-509744,MCF10A,,,0.284058
+110979,flunisolide,PC3,Cytochrome P450 inhibitor,NR3C1,0.276854
+82892,GDC-0980,HT29,MTOR inhibitor,MTOR,0.273651
+623,AG-490,HT29,JAK inhibitor,JAK2,0.271608
+131606,wortmannin,HA1E,PI3K inhibitor,PIK3CA,0.267712
+126546,sirolimus,NPC,MTOR inhibitor,FKBP1A,0.267332
+101205,azacitidine,YAPC,DNA methyltransferase inhibitor,DNMT1,0.264736
+121304,parthenolide,PC3,,,0.263478
+98300,YM-298198,HCC515,Glutamate receptor antagonist,GRM1,0.261986
+126721,sorafenib,A549,KIT inhibitor,FGFR1,0.261587
+80417,CG-930,HCC515,JNK inhibitor,MAPK8,0.260857
+112198,glimepiride,HCC515,Insulin secretagogue,KCNJ11,0.260630
+103889,cefepime,MCF7,,,0.258199
+128127,temsirolimus,YAPC,MTOR inhibitor,MTOR,0.255497
+108727,emetine,HEPG2,Protein synthesis inhibitor,RPS2,0.246720
+110510,fenretinide,ASC,Apoptosis stimulant,RARA,0.244351
+119563,niguldipine,MCF7,Calcium channel blocker,ADRA1A,0.243257
+94003,SB-366791,PC3,TRPV antagonist,TRPV1,0.241870
+130074,triciribine,HA1E,Akt inhibitor,AKT3,0.241163
+111396,formestane,PC3,Aromatase inhibitor,CYP19A1,0.240796
+126541,sirolimus,NCIH2073,MTOR inhibitor,FKBP1A,0.240068
+110960,flunarizine,HEPG2,Calcium channel blocker,CACNA1H,0.239940
+89208,NSC-632839,A549,Ubiquitin specific protease inhibitor,SENP2,0.239507
+131166,verteporfin,MCF7,,,0.239372
+99103,afatinib,SKBR3,EGFR inhibitor,EGFR,0.238488
+106852,dexamethasone,NOMO1,Glucocorticoid receptor agonist,NR3C1,0.237196
+108224,doxorubicin,HEPG2,Topoisomerase inhibitor,TOP2A,0.237163
+124686,resveratrol,MCF7,SIRT activator,SIRT1,0.236855
+122927,pravastatin,HCC515,HMGCR inhibitor,HMGCR,0.235258
+131259,vinblastine,PC3,Tubulin inhibitor,TUBB,0.234854
+131249,vinblastine,A549,Tubulin inhibitor,TUBB,0.233157
+103583,carbenoxolone,SKB,11-beta-HSD1 inhibitor,HSD11B1,0.233059
+100615,apigenin,HT29,,,0.231884
+112811,homatropine,PC3,Acetylcholine receptor antagonist,CHRM1,0.230975
+126469,simvastatin,HCC515,HMGCR inhibitor,HMGCR,0.230965
+105153,clomifene,MCF10A,Estrogen receptor antagonist,ESR1,0.230285
+110024,everolimus,ASC,MTOR inhibitor,MTOR,0.230251
+101633,benazepril,HA1E,Angiotensin converting enzyme inhibitor,ACE,0.230181
+110031,everolimus,HELA,MTOR inhibitor,MTOR,0.230072
+83222,GSK-1059615,HT29,,,0.230058
+128105,temsirolimus,HA1E,MTOR inhibitor,MTOR,0.229912

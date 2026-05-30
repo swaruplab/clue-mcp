@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+118240,mitomycin-c,PC3,,,-0.336670
+94928,SN-38,HA1E,Topoisomerase inhibitor,TOP1,-0.333783
+129530,topotecan,HCC515,Topoisomerase inhibitor,TOP1,-0.330914
+102461,bortezomib,HA1E,Proteasome inhibitor,PSMB1,-0.322179
+103335,camptothecin,HA1E,Topoisomerase inhibitor,TOP1,-0.302340
+94942,SN-38,PC3,Topoisomerase inhibitor,TOP1,-0.296198
+103348,camptothecin,PC3,Topoisomerase inhibitor,TOP1,-0.291837
+100547,antimycin-a,A375,ATP synthase inhibitor,CYCS,-0.289202
+106366,daunorubicin,HA1E,RNA synthesis inhibitor,TOP2A,-0.276696
+110786,floxuridine,HA1E,,,-0.275255
+100210,amsacrine,PC3,Topoisomerase inhibitor,TOP2A,-0.266030
+103336,camptothecin,HCC515,Topoisomerase inhibitor,TOP1,-0.260099
+110511,fenretinide,HA1E,Apoptosis stimulant,RARA,-0.256800
+110861,fludarabine,SKB,DNA synthesis inhibitor,RRM1,-0.253998
+105600,curcumin,HCC515,Lipoxygenase inhibitor,PTGS1,-0.253883
+105008,clobetasol,SKB,Glucocorticoid receptor agonist,NR3C1,-0.248550
+119034,naringenin,MCF7,TRPV antagonist,CYP19A1,-0.247621
+1805,AZD-1480,MDAMB231,JAK inhibitor,JAK1,-0.247599
+118234,mitomycin-c,HT29,,,-0.245627
+112505,guggulsterone,ASC,IKK inhibitor,NR3C1,-0.244068
+108219,doxorubicin,HA1E,Topoisomerase inhibitor,TOP2A,-0.242898
+125520,rottlerin,SKB,,,-0.242519
+89649,OBAA,ASC,Phospholipase inhibitor,PLA2G1B,-0.242395
+105740,cyclopamine,ASC,Smoothened receptor antagonist,SMO,-0.241737
+96281,THZ-2-98-01,MDAMB231,,,-0.241426
+106379,daunorubicin,SKB,RNA synthesis inhibitor,TOP2A,-0.239440
+84096,HG-6-64-01,HS578T,,,-0.238395
+129529,topotecan,HA1E,Topoisomerase inhibitor,TOP1,-0.235374
+118159,minoxidil,PC3,Vasodilator,ABCC9,-0.234818
+115153,lestaurtinib,A375,JAK inhibitor,FLT3,-0.234309
+102244,biperiden,ASC,Acetylcholine receptor antagonist,CHRM1,-0.233946
+116486,maprotiline,A549,Tricyclic antidepressant,SLC6A2,-0.233941
+80322,CD-1530,HA1E,Retinoid receptor agonist,RARG,-0.231718
+100198,amsacrine,HA1E,Topoisomerase inhibitor,TOP2A,-0.231121
+108239,doxorubicin,SKB,Topoisomerase inhibitor,TOP2A,-0.230359
+124913,rifaximin,HA1E,RNA synthesis inhibitor,NR1I2,-0.230199
+100203,amsacrine,HT29,Topoisomerase inhibitor,TOP2A,-0.228563
+349,A-443654,A549,,,-0.228139
+127200,suloctidil,NPC,,,-0.227901
+99076,afatinib,HA1E,EGFR inhibitor,EGFR,-0.227203
+126408,sildenafil,HEPG2,Phosphodiesterase inhibitor,PDE5A,-0.226024
+108237,doxorubicin,PC3,Topoisomerase inhibitor,TOP2A,-0.225169
+1992,AZD-7762,HA1E,CHK inhibitor,CHEK1,-0.224780
+115156,lestaurtinib,HA1E,JAK inhibitor,FLT3,-0.222843
+130347,triptolide,HA1E,,,-0.221809
+122925,pravastatin,ASC,HMGCR inhibitor,HMGCR,-0.220819
+104018,celastrol,HA1E,,,-0.219963
+129532,topotecan,HT29,Topoisomerase inhibitor,TOP1,-0.219645
+129527,topotecan,A549,Topoisomerase inhibitor,TOP1,-0.219328
+102470,bortezomib,HUVEC,Proteasome inhibitor,PSMB1,-0.219251

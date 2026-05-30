@@ -1,0 +1,151 @@
+MSigDB Hallmark Enrichment Analysis
+=================================================================
+
+Date: 2026-04-05 20:57
+Total runtime: 11.8 minutes
+
+Database: 132,072 total signatures, 3,493 pass quality filter (n_reps>=2)
+Permutations: 10,000
+
+Hallmark Gene Sets Analyzed: 50
+-----------------------------------------------------------------
+  Adipogenesis                                   genes=176/200  cat=Metabolic
+  Allograft Rejection                            genes=196/200  cat=Immune
+  Androgen Response                              genes= 98/100  cat=Other
+  Angiogenesis                                   genes= 36/ 36  cat=Development
+  Apical Junction                                genes=182/200  cat=Development
+  Apical Surface                                 genes= 34/ 44  cat=Development
+  Apoptosis                                      genes=158/161  cat=Stress & DNA Damage
+  Bile Acid Metabolism                           genes=101/112  cat=Metabolic
+  Cholesterol Homeostasis                        genes= 60/ 74  cat=Metabolic
+  Coagulation                                    genes=134/138  cat=Immune
+  Complement                                     genes=187/200  cat=Immune
+  DNA Repair                                     genes=139/150  cat=Stress & DNA Damage
+  E2F Targets                                    genes=186/200  cat=Proliferation
+  Epithelial Mesenchymal Transition              genes=196/200  cat=Development
+  Estrogen Response Early                        genes=200/200  cat=Other
+  Estrogen Response Late                         genes=200/200  cat=Other
+  Fatty Acid Metabolism                          genes=143/158  cat=Metabolic
+  G2/M Checkpoint                                genes=194/200  cat=Proliferation
+  Glycolysis                                     genes=187/200  cat=Metabolic
+  Hedgehog Signaling                             genes= 36/ 36  cat=Signaling
+  Heme Metabolism                                genes=195/200  cat=Metabolic
+  Hypoxia                                        genes=193/200  cat=Stress & DNA Damage
+  IL-2 STAT5 Signaling                           genes=177/199  cat=Immune
+  IL-6 JAK STAT3 Signaling                       genes= 87/ 87  cat=Immune
+  Inflammatory Response                          genes=194/200  cat=Immune
+  Interferon Alpha Response                      genes= 83/ 97  cat=Immune
+  Interferon Gamma Response                      genes=179/200  cat=Immune
+  KRAS Signaling Dn                              genes=192/200  cat=Signaling
+  KRAS Signaling Up                              genes=195/200  cat=Signaling
+  Mitotic Spindle                                genes=179/199  cat=Proliferation
+  mTORc1 Signaling                               genes=196/200  cat=Signaling
+  MYC Targets V1                                 genes=195/200  cat=Proliferation
+  MYC Targets V2                                 genes= 57/ 58  cat=Proliferation
+  Myogenesis                                     genes=194/200  cat=Development
+  Notch Signaling                                genes= 28/ 32  cat=Signaling
+  Oxidative Phosphorylation                      genes=199/200  cat=Metabolic
+  p53 Pathway                                    genes=196/200  cat=Stress & DNA Damage
+  Pancreas Beta Cells                            genes= 40/ 40  cat=Development
+  Peroxisome                                     genes= 98/104  cat=Metabolic
+  PI3K AKT mTOR Signaling                        genes=102/105  cat=Signaling
+  Protein Secretion                              genes= 95/ 96  cat=Other
+  Reactive Oxygen Species Pathway                genes= 46/ 49  cat=Metabolic
+  Spermatogenesis                                genes=123/135  cat=Development
+  TGF Beta Signaling                             genes= 52/ 54  cat=Signaling
+  TNFa Signaling Via NFkB                        genes=199/200  cat=Immune
+  Unfolded Protein Response                      genes=110/113  cat=Stress & DNA Damage
+  UV Response Dn                                 genes=143/144  cat=Stress & DNA Damage
+  UV Response Up                                 genes=156/158  cat=Stress & DNA Damage
+  WNT Beta Catenin Signaling                     genes= 39/ 42  cat=Signaling
+  Xenobiotic Metabolism                          genes=189/200  cat=Metabolic
+
+
+Top 5 Reversing Drugs (Composite Score)
+=================================================================
+
+  1. staurosporine
+     Mean median score: -0.1179
+     Significant hallmarks (FDR<0.05): 18
+     MOA: PKC inhibitor
+     Target: CDK2
+     Top 5 reversed hallmarks:
+       MYC Targets V2                            score=-0.4699  FDR=0.0197
+       MYC Targets V1                            score=-0.4421  FDR=0.0128
+       E2F Targets                               score=-0.3997  FDR=0.0102
+       G2/M Checkpoint                           score=-0.3761  FDR=0.0037
+       Unfolded Protein Response                 score=-0.3303  FDR=0.0064
+
+  2. A-443654
+     Mean median score: -0.1247
+     Significant hallmarks (FDR<0.05): 12
+     MOA: Unknown
+     Target: Unknown
+     Top 5 reversed hallmarks:
+       MYC Targets V1                            score=-0.3404  FDR=0.1163
+       MYC Targets V2                            score=-0.3152  FDR=0.1669
+       Cholesterol Homeostasis                   score=-0.2976  FDR=0.0170
+       Reactive Oxygen Species Pathway           score=-0.2975  FDR=0.0256
+       mTORc1 Signaling                          score=-0.2765  FDR=0.0073
+
+  3. dactinomycin
+     Mean median score: -0.0931
+     Significant hallmarks (FDR<0.05): 14
+     MOA: RNA polymerase inhibitor
+     Target: POLR2A
+     Top 5 reversed hallmarks:
+       MYC Targets V2                            score=-0.4921  FDR=0.0186
+       MYC Targets V1                            score=-0.4182  FDR=0.0139
+       E2F Targets                               score=-0.3914  FDR=0.0222
+       G2/M Checkpoint                           score=-0.3813  FDR=0.0037
+       Unfolded Protein Response                 score=-0.2719  FDR=0.0064
+
+  4. emetine
+     Mean median score: -0.1070
+     Significant hallmarks (FDR<0.05): 11
+     MOA: Protein synthesis inhibitor
+     Target: RPS2
+     Top 5 reversed hallmarks:
+       Angiogenesis                              score=-0.2973  FDR=0.0511
+       Reactive Oxygen Species Pathway           score=-0.2601  FDR=0.1022
+       Oxidative Phosphorylation                 score=-0.2504  FDR=0.1936
+       Notch Signaling                           score=-0.2422  FDR=0.0128
+       mTORc1 Signaling                          score=-0.2370  FDR=0.0562
+
+  5. PIK-75
+     Mean median score: -0.0985
+     Significant hallmarks (FDR<0.05): 11
+     MOA: PI3K inhibitor
+     Target: PIK3CA
+     Top 5 reversed hallmarks:
+       G2/M Checkpoint                           score=-0.4070  FDR=0.0037
+       MYC Targets V2                            score=-0.3907  FDR=0.0767
+       E2F Targets                               score=-0.3538  FDR=0.0399
+       MYC Targets V1                            score=-0.3028  FDR=0.2957
+       Unfolded Protein Response                 score=-0.2817  FDR=0.0064
+
+
+Biological Interpretation
+=================================================================
+The top reversing drugs were identified by a composite score that
+combines the mean enrichment score across all hallmark pathways
+with the breadth of significant reversals (FDR<0.05). Drugs that
+strongly and broadly reverse hallmark pathway signatures are
+prioritized as potential therapeutic candidates.
+
+Pathway Category Summary:
+-----------------------------------------------------------------
+  Immune                   : 9 hallmarks, avg score for top5 drugs = -0.0317
+  Proliferation            : 5 hallmarks, avg score for top5 drugs = -0.2779
+  Signaling                : 8 hallmarks, avg score for top5 drugs = -0.0658
+  Metabolic                : 10 hallmarks, avg score for top5 drugs = -0.1486
+  Stress & DNA Damage      : 7 hallmarks, avg score for top5 drugs = -0.1525
+  Development              : 7 hallmarks, avg score for top5 drugs = 0.0046
+
+
+Output Files
+=================================================================
+  Per-hallmark results: /dfs7/swaruplab/shared_lab/Clue_database/analysis/hallmark_enrichment/per_hallmark/
+  Aggregated data:      /dfs7/swaruplab/shared_lab/Clue_database/analysis/hallmark_enrichment/aggregated/
+  Plots:                /dfs7/swaruplab/shared_lab/Clue_database/analysis/hallmark_enrichment/plots/
+  This summary:         /dfs7/swaruplab/shared_lab/Clue_database/analysis/hallmark_enrichment/summary.txt

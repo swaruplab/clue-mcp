@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+110940,flumetasone,ASC,Glucocorticoid receptor agonist,NR3C1,0.316100
+118892,naloxone,PHH,Opioid receptor antagonist,OPRD1,0.313550
+80413,CG-930,ASC,JNK inhibitor,MAPK8,0.308903
+124676,resveratrol,ASC,SIRT activator,SIRT1,0.296900
+97734,WZ-4-145,A549,,,0.293216
+99430,aloisine,ASC,CDK inhibitor,CDK2,0.286374
+89995,PD-0325901,PHH,MEK inhibitor,MAP2K1,0.279102
+127253,sunitinib,PC3,KIT inhibitor,FLT1,0.273612
+113149,ibrutinib,A375,BTK inhibitor,BTK,0.269275
+114610,ketoconazole,HA1E,Sterol demethylase inhibitor,CYP19A1,0.264557
+2486,BH3I-1,VCAP,BCL inhibitor,BCL2L1,0.264513
+107457,diltiazem,ASC,Calcium channel blocker,CACNA1C,0.264065
+109629,estriol,PHH,Estrogen receptor agonist,ESR1,0.262752
+122391,pinacidil,SKB,ATP channel activator,ABCC9,0.261093
+121928,phentolamine,A375,Adrenergic receptor antagonist,ADRA1A,0.261056
+105154,clomifene,MCF7,Estrogen receptor antagonist,ESR1,0.255562
+110859,fludarabine,PC3,DNA synthesis inhibitor,RRM1,0.254105
+103225,calcipotriol,MCF7,Vitamin D receptor agonist,VDR,0.251083
+105750,cyclopamine,SKB,Smoothened receptor antagonist,SMO,0.248962
+113182,ibrutinib,YAPC,BTK inhibitor,BTK,0.247048
+89976,PD-0325901,HA1E,MEK inhibitor,MAP2K1,0.246369
+120453,orantinib,HEPG2,FGFR inhibitor,FGFR1,0.245463
+111440,forskolin,PC3,Adenylyl cyclase activator,ADCY2,0.245389
+100676,aprepitant,MCF7,Tachykinin antagonist,TACR1,0.244863
+128723,thioperamide,ASC,Histamine receptor antagonist,HRH3,0.244781
+122935,pravastatin,MCF7,HMGCR inhibitor,HMGCR,0.244162
+102735,bromocriptine,U2OS,Dopamine receptor agonist,ADRA2A,0.243962
+129582,toremifene,HT29,Estrogen receptor antagonist,ESR1,0.243941
+118883,naloxone,ASC,Opioid receptor antagonist,OPRD1,0.242468
+130073,triciribine,ASC,Akt inhibitor,AKT3,0.242199
+114862,lapatinib,A549,EGFR inhibitor,EGFR,0.242169
+109669,estropipate,VCAP,,,0.240397
+89972,PD-0325901,A549,MEK inhibitor,MAP2K1,0.239907
+100881,asenapine,MCF7,Dopamine receptor antagonist,ADRB2,0.239045
+110938,flumetasone,A375,Glucocorticoid receptor agonist,NR3C1,0.238339
+102656,brivanib,HA1E,FGFR inhibitor,FGFR1,0.237400
+124682,resveratrol,HEPG2,SIRT activator,SIRT1,0.237008
+118760,nadolol,VCAP,Adrenergic receptor antagonist,ADRB1,0.235705
+129810,tranilast,VCAP,,,0.235564
+130336,triprolidine,HT29,Histamine receptor antagonist,HRH1,0.235458
+100553,antimycin-a,HT29,ATP synthase inhibitor,CYCS,0.234556
+102813,bucladesine,HEPG2,CAMP stimulant,PRKACA,0.233040
+102243,biperiden,A549,Acetylcholine receptor antagonist,CHRM1,0.232807
+119855,nizatidine,MCF7,Histamine receptor antagonist,HRH2,0.232396
+124910,rifapentine,VCAP,RNA polymerase inhibitor,CYP2C8,0.231654
+112524,halcinonide,A549,Glucocorticoid receptor agonist,NR3C1,0.229392
+100996,atorvastatin,MCF7,HMGCR inhibitor,DPP4,0.228525
+117737,methysergide,U2OS,Serotonin receptor antagonist,HTR1B,0.227563
+129000,timolol,HEPG2,Adrenergic receptor antagonist,ADRB1,0.227099
+130343,triptolide,A375,,,0.226962

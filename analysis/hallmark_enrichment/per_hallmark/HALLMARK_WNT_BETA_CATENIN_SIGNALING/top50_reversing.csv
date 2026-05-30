@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+124909,rifapentine,PC3,RNA polymerase inhibitor,CYP2C8,-0.336476
+116811,medrysone,A549,Glucocorticoid receptor agonist,NR3C1,-0.325688
+120540,orteronel,HT29,Cytochrome P450 inhibitor,CYP17A1,-0.312083
+111225,fluticasone,HA1E,Glucocorticoid receptor agonist,NR3C1,-0.297619
+82263,EPZ-5676,PC3,DOT1L inhibitor,DOT1L,-0.295851
+100604,apicidin,NEU,HDAC inhibitor,HDAC6,-0.294458
+91437,QL-XII-47,A375,,,-0.285298
+111442,forskolin,SKB,Adenylyl cyclase activator,ADCY2,-0.285167
+108724,emetine,HA1E,Protein synthesis inhibitor,RPS2,-0.284855
+93920,SB-239063,HEPG2,P38 MAPK inhibitor,MAPK14,-0.283921
+109943,etoposide,HCC515,Topoisomerase inhibitor,TOP2A,-0.282330
+122073,physostigmine,HA1E,Cholinesterase inhibitor,ACHE,-0.280920
+125144,ritodrine,MCF7,Adrenergic receptor agonist,ADRB2,-0.279726
+109914,etomidate,PC3,GABA receptor modulator,GABRA1,-0.275273
+106834,dexamethasone,A549,Glucocorticoid receptor agonist,NR3C1,-0.273950
+125500,rottlerin,HA1E,,,-0.272727
+130425,tropisetron,A549,Serotonin receptor antagonist,HTR3A,-0.268559
+100369,anandamide,PC3,Cannabinoid receptor agonist,CNR1,-0.268353
+119227,nemonapride,HT29,Dopamine receptor antagonist,DRD2,-0.265757
+104554,cilomilast,A549,Phosphodiesterase inhibitor,PDE4A,-0.263553
+98390,ZD-7114,A549,Adrenergic receptor agonist,ADRB3,-0.259667
+113693,indirubin,HCC515,CDK inhibitor,CDK5,-0.259310
+111561,fulvestrant,HCC515,Estrogen receptor antagonist,ESR1,-0.256050
+103907,cefixime,VCAP,,,-0.255901
+105740,cyclopamine,ASC,Smoothened receptor antagonist,SMO,-0.255530
+119073,nateglinide,MCF7,Insulin secretagogue,KCNJ11,-0.255198
+126475,simvastatin,HUH7,HMGCR inhibitor,HMGCR,-0.254540
+127390,tacrolimus,PC3,Calcineurin inhibitor,FKBP1A,-0.254370
+130054,tribenoside,MCF7,,,-0.253891
+105574,crotamiton,MCF7,,,-0.252034
+108740,emetine,U2OS,Protein synthesis inhibitor,RPS2,-0.250905
+119222,nemonapride,HA1E,Dopamine receptor antagonist,DRD2,-0.249780
+109922,etomoxir,HA1E,Carnitine palmitoyltransferase inhibitor,CPT1A,-0.248222
+104633,cimetidine,PC3,Histamine receptor antagonist,HRH2,-0.248076
+114765,lacidipine,A375,Calcium channel blocker,CACNA1C,-0.247635
+110098,exemestane,HCC515,Aromatase inhibitor,CYP19A1,-0.247207
+112037,gestrinone,A375,Progesterone receptor antagonist,ESR1,-0.246787
+105899,cytarabine,HCC515,Ribonucleotide reductase inhibitor,POLA1,-0.245156
+122843,potassium-canrenoate,A375,Mineralocorticoid receptor antagonist,NR3C2,-0.243792
+123066,pregnenolone,PC3,,,-0.243760
+113698,indirubin,PC3,CDK inhibitor,CDK5,-0.242851
+131453,voriconazole,MCF7,Cytochrome P450 inhibitor,CYP2C19,-0.242633
+131326,vinorelbine,NEU,Tubulin inhibitor,TUBB,-0.241352
+101549,beclometasone,MCF7,Glucocorticoid receptor agonist,NR3C1,-0.239923
+1997,AZD-7762,HME1,CHK inhibitor,CHEK1,-0.239623
+117911,mibefradil,HA1E,T-type calcium channel blocker,CACNA1C,-0.239509
+101552,beclomethasone-dipropionate,A375,Immunosuppressant,NR3C1,-0.237885
+131002,vecuronium,MCF7,Acetylcholine receptor antagonist,CHRNA2,-0.237741
+130427,tropisetron,HCC515,Serotonin receptor antagonist,HTR3A,-0.236603
+102578,brefeldin-a,PC3,,,-0.236360

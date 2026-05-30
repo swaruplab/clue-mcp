@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+119516,nifedipine,VCAP,Calcium channel blocker,CACNA1C,0.724776
+90733,PIK-75,VCAP,PI3K inhibitor,PIK3CA,0.667881
+82262,EPZ-5676,MCF10A,DOT1L inhibitor,DOT1L,0.635214
+114336,isoxsuprine,VCAP,Adrenergic receptor agonist,ADRB2,0.628656
+98900,acitretin,MCF7,Retinoid receptor agonist,RARA,0.605629
+96283,THZ-2-98-01,SKBR3,,,0.598967
+111447,forskolin,VCAP,Adenylyl cyclase activator,ADCY2,0.587401
+99441,aloisine,VCAP,CDK inhibitor,CDK2,0.585269
+80795,CHIR-99021,NPC,,,0.577277
+94078,SB-590885,BT20,RAF inhibitor,BRAF,0.564169
+104567,cilomilast,PC3,Phosphodiesterase inhibitor,PDE4A,0.561167
+82301,EX-527,HELA,SIRT inhibitor,SIRT1,0.560739
+116814,medrysone,HCC515,Glucocorticoid receptor agonist,NR3C1,0.556638
+94083,SB-590885,HS578T,RAF inhibitor,BRAF,0.551142
+106854,dexamethasone,PC3,Glucocorticoid receptor agonist,NR3C1,0.546112
+96279,THZ-2-98-01,MCF10A,,,0.541512
+114763,labetalol,VCAP,Adrenergic receptor antagonist,ADRA1D,0.539139
+91411,QL-XI-92,ASC,,,0.537096
+126723,sorafenib,BT20,KIT inhibitor,FGFR1,0.536670
+101189,azacitidine,HELA,DNA methyltransferase inhibitor,DNMT1,0.534564
+110956,flunarizine,A549,Calcium channel blocker,CACNA1H,0.530295
+79948,BW-B70C,VCAP,Lipoxygenase inhibitor,ALOX5,0.523134
+125149,ritodrine,VCAP,Adrenergic receptor agonist,ADRB2,0.509136
+119848,nizatidine,A375,Histamine receptor antagonist,HRH2,0.506469
+129310,tofacitinib,YAPC,JAK inhibitor,JAK1,0.500739
+105832,cyclosporin-a,HCT116,Calcineurin inhibitor,PPIA,0.492680
+101183,azacitidine,A549,DNA methyltransferase inhibitor,DNMT1,0.491933
+112200,glimepiride,HT29,Insulin secretagogue,KCNJ11,0.490652
+97931,XMD-1185H,MCF10A,,,0.490074
+113096,hyoscyamine,HCC515,,,0.489273
+108736,emetine,PC3,Protein synthesis inhibitor,RPS2,0.489071
+112205,glimepiride,PC3,Insulin secretagogue,KCNJ11,0.488140
+117737,methysergide,U2OS,Serotonin receptor antagonist,HTR1B,0.483630
+130434,tropisetron,PC3,Serotonin receptor antagonist,HTR3A,0.481745
+105721,cycloheximide,ASC,Protein synthesis inhibitor,RPL3,0.477539
+124948,rilmenidine,A549,Adrenergic receptor agonist,NISCH,0.477235
+119994,noretynodrel,MCF7,Progestogen hormone,PGR,0.477060
+126297,sericetin,PC3,,,0.474655
+120955,ozagrel,VCAP,Thromboxane synthase inhibitor,TBXAS1,0.474201
+110974,flunisolide,HCC515,Cytochrome P450 inhibitor,NR3C1,0.473990
+125506,rottlerin,HT29,,,0.473549
+116987,memantine,MCF7,Glutamate receptor antagonist,GRIN1,0.472588
+98112,Y-27632,PC3,Rho associated kinase inhibitor,ROCK1,0.472543
+107361,dihydrexidine,VCAP,Dopamine receptor agonist,DRD1,0.471339
+98903,acitretin,PC3,Retinoid receptor agonist,RARA,0.470629
+124730,retinol,PC3,Retinoid receptor ligand,RXRA,0.470431
+112504,guggulsterone,A549,IKK inhibitor,NR3C1,0.469909
+128356,testosterone,HT29,,,0.469889
+131578,withaferin-a,HA1E,IKK inhibitor,NAMPT,0.468639
+82726,GBR-13069,VCAP,Dopamine uptake inhibitor,SLC6A3,0.468185

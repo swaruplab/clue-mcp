@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+110522,fenretinide,SKB,Apoptosis stimulant,RARA,-0.434896
+126739,sorafenib,SKB,KIT inhibitor,FGFR1,-0.351647
+120639,ouabain,SKB,ATPase inhibitor,ATP1A1,-0.347431
+124912,rifaximin,A549,RNA synthesis inhibitor,NR1I2,-0.332112
+101189,azacitidine,HELA,DNA methyltransferase inhibitor,DNMT1,-0.315242
+125520,rottlerin,SKB,,,-0.308112
+83946,H-9,A375,PKA inhibitor,PRKACA,-0.296384
+123732,puromycin,SKB,,,-0.296076
+99436,aloisine,NPC,CDK inhibitor,CDK2,-0.291420
+105722,cycloheximide,HA1E,Protein synthesis inhibitor,RPL3,-0.283342
+83959,H-9,SKB,PKA inhibitor,PRKACA,-0.280710
+112515,guggulsterone,SKB,IKK inhibitor,NR3C1,-0.277766
+91392,QL-X-138,HA1E,,,-0.273262
+119998,noretynodrel,SKB,Progestogen hormone,PGR,-0.273114
+110981,flunisolide,SKB,Cytochrome P450 inhibitor,NR3C1,-0.270548
+124907,rifapentine,HT29,RNA polymerase inhibitor,CYP2C8,-0.268111
+122394,pinacidil,VCAP,ATP channel activator,ABCC9,-0.265662
+125735,safinamide,A375,Glutamate inhibitor,MAOB,-0.262632
+124967,rilmenidine,NPC,Adrenergic receptor agonist,NISCH,-0.261578
+93934,SB-239063,SKB,P38 MAPK inhibitor,MAPK14,-0.261399
+98750,acarbose,SKB,Glucosidase inhibitor,GAA,-0.260562
+113092,hyoscyamine,A375,,,-0.254645
+120454,orantinib,HT29,FGFR inhibitor,FGFR1,-0.253716
+120025,norgestrel,HA1E,,,-0.253584
+86706,L-689560,HT29,,,-0.251954
+107275,diflorasone,MCF7,Glucocorticoid receptor agonist,NR3C1,-0.250069
+110819,flucloxacillin,MCF7,,,-0.249042
+93733,SB-203580,PHH,P38 MAPK inhibitor,MAPK14,-0.247961
+108720,emetine,A549,Protein synthesis inhibitor,RPS2,-0.247547
+112203,glimepiride,MCF7,Insulin secretagogue,KCNJ11,-0.246135
+101995,betamethasone,HCC515,Glucocorticoid receptor agonist,NR3C1,-0.244395
+124911,rifaximin,A375,RNA synthesis inhibitor,NR1I2,-0.242781
+91404,QL-X-138,PC3,,,-0.242540
+89245,NSC-693868,A375,CDK inhibitor,CDK5,-0.242347
+115904,lonidamine,MCF7,,,-0.241839
+86704,L-689560,HCC515,,,-0.240164
+125553,roxithromycin,MCF7,,,-0.239245
+120629,ouabain,ASC,ATPase inhibitor,ATP1A1,-0.238706
+108737,emetine,PHH,Protein synthesis inhibitor,RPS2,-0.237628
+114349,isradipine,A375,Calcium channel blocker,CACNA1C,-0.237504
+89247,NSC-693868,ASC,CDK inhibitor,CDK5,-0.236898
+91441,QL-XII-47,HA1E,,,-0.236221
+103255,calcitriol,U2OS,Vitamin D receptor agonist,VDR,-0.234110
+131553,warfarin,VCAP,Vitamin K antagonist,VKORC1,-0.233253
+107335,digoxin,HA1E,ATPase inhibitor,ATP1A1,-0.232910
+82293,EX-527,A549,SIRT inhibitor,SIRT1,-0.232533
+123053,pregnenolone,A375,,,-0.232362
+93714,SB-203580,A549,P38 MAPK inhibitor,MAPK14,-0.231771
+83690,GW-441756,PC3,Growth factor receptor inhibitor,NTRK1,-0.231137
+88892,NCS-382,HCC515,GABA receptor antagonist,GABBR1,-0.230989

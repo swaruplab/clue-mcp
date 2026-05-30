@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+91441,QL-XII-47,HA1E,,,-0.294441
+89245,NSC-693868,A375,CDK inhibitor,CDK5,-0.283360
+101999,betamethasone,NPC,Glucocorticoid receptor agonist,NR3C1,-0.281113
+114925,lasalocid,A549,,,-0.279953
+82888,GDC-0980,HA1E,MTOR inhibitor,MTOR,-0.262936
+97373,VX-222,A549,,,-0.262904
+117548,methotrexate,HA1E,Dihydrofolate reductase inhibitor,DHFR,-0.250524
+86709,L-689560,NPC,,,-0.250354
+103248,calcitriol,NEU,Vitamin D receptor agonist,VDR,-0.246915
+131542,warfarin,HA1E,Vitamin K antagonist,VKORC1,-0.246551
+89413,NVP-AUY922,HA1E,HSP inhibitor,HSP90AA1,-0.245642
+116057,losartan,MCF7,Angiotensin receptor antagonist,AGTR1,-0.244140
+109864,etodolac,NEU,Cyclooxygenase inhibitor,PTGS2,-0.243469
+101991,betamethasone,A375,Glucocorticoid receptor agonist,NR3C1,-0.243004
+82726,GBR-13069,VCAP,Dopamine uptake inhibitor,SLC6A3,-0.242859
+84105,HG-6-64-01,SKBR3,,,-0.242574
+124000,quinidine,NEU,Sodium channel blocker,SCN5A,-0.238536
+126422,sildenafil,THP1,Phosphodiesterase inhibitor,PDE5A,-0.237530
+100612,apigenin,HA1E,,,-0.237344
+128389,tetrabenazine,NEU,Vesicular monoamine transporter inhibitor,SLC18A2,-0.237107
+94087,SB-590885,MDAMB231,RAF inhibitor,BRAF,-0.235939
+103438,capecitabine,HA1E,DNA synthesis inhibitor,TYMS,-0.232330
+113968,ipratropium,HT29,Acetylcholine receptor antagonist,CHRM1,-0.231876
+101016,atovaquone,HT29,,,-0.231794
+126893,spironolactone,PC3,Mineralocorticoid receptor antagonist,NR3C2,-0.231487
+122388,pinacidil,NPC,ATP channel activator,ABCC9,-0.231412
+110938,flumetasone,A375,Glucocorticoid receptor agonist,NR3C1,-0.230017
+100528,anisomycin,NEU,,,-0.228825
+110660,finasteride,NPC,5 alpha reductase inhibitor,SRD5A1,-0.227908
+118983,naproxen,HA1E,Cyclooxygenase inhibitor,PTGS1,-0.227812
+117733,methysergide,NPC,Serotonin receptor antagonist,HTR1B,-0.226424
+101013,atovaquone,HA1E,,,-0.225719
+114927,lasalocid,HA1E,,,-0.225673
+89655,OBAA,NPC,Phospholipase inhibitor,PLA2G1B,-0.225549
+129742,tramadol,HT29,Opioid receptor agonist,OPRM1,-0.225222
+98706,acadesine,NPC,,,-0.223748
+124661,resorcinol,HT29,,,-0.223327
+100621,apigenin,SKB,,,-0.222425
+119233,nemonapride,NEU,Dopamine receptor antagonist,DRD2,-0.222118
+88894,NCS-382,HT29,GABA receptor antagonist,GABBR1,-0.222054
+120941,ozagrel,HCC515,Thromboxane synthase inhibitor,TBXAS1,-0.220066
+129810,tranilast,VCAP,,,-0.219677
+102067,betulinic-acid,MCF7,Caspase activator,GPBAR1,-0.219375
+112439,guanaben-acetate,HT29,Adrenergic receptor agonist,ADRA2A,-0.218904
+127681,tanespimycin,NCIH596,HSP inhibitor,HSP90AA1,-0.218507
+126027,scopolamine,MCF7,Acetylcholine receptor antagonist,CHRM1,-0.217924
+100868,ascorbic-acid,HA1E,Antioxidant,SLC23A1,-0.216230
+98748,acarbose,PC3,Glucosidase inhibitor,GAA,-0.215264
+102802,brucine,VCAP,,,-0.215085
+103946,cefotaxime,MCF7,,,-0.215059

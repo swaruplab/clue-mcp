@@ -1,0 +1,71 @@
+/* clue-mcp — small visual tweaks on top of Material */
+
+:root {
+  --md-primary-fg-color:        #3f51b5;
+  --md-primary-fg-color--dark:  #303f9f;
+  --md-accent-fg-color:         #009688;
+}
+
+/* Hero banner on the landing page */
+.clue-hero {
+  text-align: center;
+  padding: 2.4rem 1rem 1.6rem;
+}
+.clue-hero h1 {
+  font-size: 2.6rem;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  margin-bottom: 0.3rem;
+}
+.clue-hero p.tagline {
+  font-size: 1.05rem;
+  color: var(--md-default-fg-color--light);
+  max-width: 46rem;
+  margin: 0.2rem auto 1.2rem;
+}
+.clue-badges img { margin: 0 0.15rem; }
+
+/* Stat strip */
+.clue-stats {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.4rem;
+  margin: 1.6rem 0;
+}
+.clue-stats .stat {
+  text-align: center;
+  min-width: 7rem;
+}
+.clue-stats .stat .num {
+  display: block;
+  font-size: 1.7rem;
+  font-weight: 800;
+  color: var(--md-primary-fg-color);
+}
+.clue-stats .stat .label {
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--md-default-fg-color--light);
+}
+
+/* Feature cards */
+.clue-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+  gap: 1rem;
+  margin: 1.4rem 0;
+}
+.clue-card {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.5rem;
+  padding: 1rem 1.1rem;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+.clue-card:hover {
+  border-color: var(--md-accent-fg-color);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
+}
+.clue-card h3 { margin: 0.1rem 0 0.4rem; font-size: 1.05rem; }
+.clue-card p { font-size: 0.85rem; margin: 0.2rem 0; }

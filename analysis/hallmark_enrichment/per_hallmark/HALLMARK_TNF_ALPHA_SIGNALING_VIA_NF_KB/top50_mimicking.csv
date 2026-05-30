@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+123723,puromycin,HA1E,,,0.623151
+103259,calmidazolium,A549,Calmodulin antagonist,ATP2B1,0.514156
+123724,puromycin,HCC515,,,0.505493
+130076,triciribine,HEPG2,Akt inhibitor,AKT3,0.493783
+98263,YM-155,HCC515,Survivin inhibitor,BIRC5,0.492015
+103263,calmidazolium,HT29,Calmodulin antagonist,ATP2B1,0.491756
+131255,vinblastine,HUH7,Tubulin inhibitor,TUBB,0.485704
+91446,QL-XII-47,HT29,,,0.481900
+105339,colchicine,U2OS,Microtubule inhibitor,TUBB,0.481604
+98268,YM-155,HT29,Survivin inhibitor,BIRC5,0.473744
+127199,suloctidil,MCF7,,,0.461913
+130082,triciribine,PC3,Akt inhibitor,AKT3,0.461568
+100886,asiatic-acid,A375,,,0.461110
+120637,ouabain,PC3,ATPase inhibitor,ATP1A1,0.460007
+105036,clofarabine,HCC515,Ribonucleoside reductase inhibitor,POLA1,0.458385
+110510,fenretinide,ASC,Apoptosis stimulant,RARA,0.453140
+127192,suloctidil,A375,,,0.452836
+103264,calmidazolium,MCF7,Calmodulin antagonist,ATP2B1,0.451543
+105733,cycloheximide,U2OS,Protein synthesis inhibitor,RPL3,0.448760
+101191,azacitidine,HT29,DNA methyltransferase inhibitor,DNMT1,0.445775
+105725,cycloheximide,HT29,Protein synthesis inhibitor,RPL3,0.443220
+105032,clofarabine,A375,Ribonucleoside reductase inhibitor,POLA1,0.439384
+113291,idarubicin,A375,Topoisomerase inhibitor,TOP2A,0.437027
+127201,suloctidil,PC3,,,0.433373
+120633,ouabain,HT29,ATPase inhibitor,ATP1A1,0.431677
+119211,nelfinavir,MCF7,HIV protease inhibitor,CYP1A2,0.425885
+107339,digoxin,HEPG2,ATPase inhibitor,ATP1A1,0.418321
+97733,WZ-4-145,A375,,,0.417465
+123721,puromycin,A549,,,0.410542
+123725,puromycin,HEPG2,,,0.407067
+83503,GSK-690693,HT29,Akt inhibitor,AKT3,0.402881
+110516,fenretinide,MCF7,Apoptosis stimulant,RARA,0.402265
+131299,vincristine,HA1E,Tubulin inhibitor,TUBB,0.399000
+120297,oligomycin-a,HEPG2,ATPase inhibitor,ATP5F1A,0.392815
+123726,puromycin,HT29,,,0.389740
+100198,amsacrine,HA1E,Topoisomerase inhibitor,TOP2A,0.389704
+98257,YM-155,A375,Survivin inhibitor,BIRC5,0.389461
+108725,emetine,HCC515,Protein synthesis inhibitor,RPS2,0.389059
+124203,radicicol,U2OS,,,0.386841
+131302,vincristine,HT29,Tubulin inhibitor,TUBB,0.386541
+89216,NSC-632839,HT29,Ubiquitin specific protease inhibitor,SENP2,0.385806
+131322,vinorelbine,HEPG2,Tubulin inhibitor,TUBB,0.384772
+98267,YM-155,HEPG2,Survivin inhibitor,BIRC5,0.382688
+109940,etoposide,A375,Topoisomerase inhibitor,TOP2A,0.381685
+120640,ouabain,U2OS,ATPase inhibitor,ATP1A1,0.381645
+130078,triciribine,MCF7,Akt inhibitor,AKT3,0.379759
+125510,rottlerin,MCF7,,,0.379118
+107340,digoxin,HT29,ATPase inhibitor,ATP1A1,0.378628
+91437,QL-XII-47,A375,,,0.377658
+100195,amsacrine,A375,Topoisomerase inhibitor,TOP2A,0.376527

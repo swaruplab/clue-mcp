@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+119037,naringenin,PC3,TRPV antagonist,CYP19A1,-0.297619
+103280,calpeptin,HEPG2,,,-0.261356
+84105,HG-6-64-01,SKBR3,,,-0.259426
+118473,montelukast,HT29,Leukotriene receptor antagonist,CYSLTR1,-0.258663
+82894,GDC-0980,MCF7,MTOR inhibitor,MTOR,-0.246283
+104513,cilastatin,A549,Dehydropeptidase inhibitor,DPEP1,-0.244613
+118889,naloxone,MCF7,Opioid receptor antagonist,OPRD1,-0.243367
+89656,OBAA,PC3,Phospholipase inhibitor,PLA2G1B,-0.242708
+104091,ceramide,A375,,,-0.241726
+107473,diltiazem,U2OS,Calcium channel blocker,CACNA1C,-0.239815
+120977,paclitaxel,HCC515,Tubulin inhibitor,TUBB,-0.235233
+127389,tacrolimus,NPC,Calcineurin inhibitor,FKBP1A,-0.232866
+100834,artesunate,HT29,,,-0.232729
+99103,afatinib,SKBR3,EGFR inhibitor,EGFR,-0.229195
+103282,calpeptin,MCF7,,,-0.228877
+131339,vinpocetine,HEPG2,Sodium channel blocker,PDE1A,-0.228787
+84471,ICI-162846,PC3,Histamine receptor antagonist,HRH2,-0.228371
+122511,piperacillin,PC3,,,-0.227342
+128105,temsirolimus,HA1E,MTOR inhibitor,MTOR,-0.226491
+129797,tranilast,HA1E,,,-0.225921
+99649,alvespimycin,VCAP,HSP inhibitor,HSP90AA1,-0.225576
+110143,ezetimibe,MCF7,Cholesterol inhibitor,NPC1L1,-0.225122
+120118,nutlin-3,HCC515,MDM inhibitor,MDM2,-0.223213
+95825,SU-4312,ASC,PDGFR inhibitor,KDR,-0.220420
+110145,ezetimibe,PC3,Cholesterol inhibitor,NPC1L1,-0.220339
+108248,doxycycline,HA1E,Metalloproteinase inhibitor,MMP8,-0.219197
+98396,ZD-7114,HT29,Adrenergic receptor agonist,ADRB3,-0.218868
+118411,molsidomine,A375,Guanylyl cyclase activator,GUCY1A1,-0.218658
+122173,picrotoxin,HT29,GABA receptor antagonist,GABRA1,-0.218535
+111724,galantamine,VCAP,Acetylcholinesterase inhibitor,ACHE,-0.217576
+130994,vecuronium,A375,Acetylcholine receptor antagonist,CHRNA2,-0.215130
+119494,nifedipine,A375,Calcium channel blocker,CACNA1C,-0.214662
+1805,AZD-1480,MDAMB231,JAK inhibitor,JAK1,-0.214660
+103270,calmidazolium,VCAP,Calmodulin antagonist,ATP2B1,-0.212431
+112859,huperzine-a,A375,Glutamate receptor antagonist,ACHE,-0.211940
+100748,argatroban,PC3,Thrombin inhibitor,F2,-0.211875
+122925,pravastatin,ASC,HMGCR inhibitor,HMGCR,-0.211609
+118015,mifepristone,NPC,Progesterone receptor antagonist,NR3C1,-0.210788
+119849,nizatidine,A549,Histamine receptor antagonist,HRH2,-0.209924
+131262,vinblastine,VCAP,Tubulin inhibitor,TUBB,-0.208369
+121295,parthenolide,NCIH508,,,-0.207549
+105811,cyclopiazonic-acid,A549,ATPase inhibitor,ATP2A1,-0.207329
+115904,lonidamine,MCF7,,,-0.206877
+131195,vicriviroc,HT29,CCK receptor antagonist,CCR5,-0.206748
+131285,vincamine,HT29,,,-0.206056
+363,A-443654,MCF10A,,,-0.206023
+104096,ceramide,MCF7,,,-0.205432
+125628,rutin,HCC515,Antioxidant,AKR1C3,-0.205326
+110967,flunarizine,SKB,Calcium channel blocker,CACNA1H,-0.204402
+118914,naltriben,A375,Opioid receptor antagonist,OPRD1,-0.204346

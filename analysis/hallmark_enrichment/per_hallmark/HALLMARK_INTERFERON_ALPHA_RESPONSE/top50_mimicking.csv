@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+127393,tacrolimus,THP1,Calcineurin inhibitor,FKBP1A,0.606462
+97737,WZ-4-145,HA1E,,,0.513412
+128818,thiothixene,HA1E,Dopamine receptor antagonist,HTR2A,0.501530
+102733,bromocriptine,SKB,Dopamine receptor agonist,ADRA2A,0.493996
+109957,etoposide,VCAP,Topoisomerase inhibitor,TOP2A,0.492556
+124678,resveratrol,HA1E,SIRT activator,SIRT1,0.489162
+101502,batimastat,HA1E,,,0.457441
+102652,brivanib,A375,FGFR inhibitor,FGFR1,0.451911
+130074,triciribine,HA1E,Akt inhibitor,AKT3,0.439361
+110139,ezetimibe,HA1E,Cholesterol inhibitor,NPC1L1,0.438106
+131606,wortmannin,HA1E,PI3K inhibitor,PIK3CA,0.437553
+100198,amsacrine,HA1E,Topoisomerase inhibitor,TOP2A,0.436474
+105896,cytarabine,A375,Ribonucleotide reductase inhibitor,POLA1,0.435530
+100361,anandamide,HT29,Cannabinoid receptor agonist,CNR1,0.428549
+105897,cytarabine,A549,Ribonucleotide reductase inhibitor,POLA1,0.427157
+105903,cytarabine,HT29,Ribonucleotide reductase inhibitor,POLA1,0.426770
+105910,cytarabine,PC3,Ribonucleotide reductase inhibitor,POLA1,0.421063
+79939,BW-B70C,HA1E,Lipoxygenase inhibitor,ALOX5,0.417714
+102196,bimatoprost,HA1E,Prostanoid receptor agonist,PTGFR,0.415042
+130073,triciribine,ASC,Akt inhibitor,AKT3,0.414112
+83222,GSK-1059615,HT29,,,0.413381
+83503,GSK-690693,HT29,Akt inhibitor,AKT3,0.413095
+107918,dolasetron,HT29,Serotonin receptor antagonist,HTR3A,0.412665
+100210,amsacrine,PC3,Topoisomerase inhibitor,TOP2A,0.407979
+118885,naloxone,HCC515,Opioid receptor antagonist,OPRD1,0.402349
+119553,niguldipine,HA1E,Calcium channel blocker,ADRA1A,0.398326
+128590,thapsigargin,MCF7,ATPase inhibitor,ATP2A1,0.390936
+131817,zaprinast,HA1E,Phosphodiesterase inhibitor,PDE5A,0.388960
+131613,wortmannin,HT29,PI3K inhibitor,PIK3CA,0.384236
+103335,camptothecin,HA1E,Topoisomerase inhibitor,TOP1,0.379756
+82261,EPZ-5676,A375,DOT1L inhibitor,DOT1L,0.379198
+84088,HG-6-64-01,A375,,,0.378592
+110859,fludarabine,PC3,DNA synthesis inhibitor,RRM1,0.378224
+115633,linsitinib,HT29,IGF-1 inhibitor,IGF1R,0.375470
+127198,suloctidil,HT29,,,0.374855
+101498,batimastat,A375,,,0.373448
+123721,puromycin,A549,,,0.371663
+102670,brivanib,PC3,FGFR inhibitor,FGFR1,0.370494
+100203,amsacrine,HT29,Topoisomerase inhibitor,TOP2A,0.365603
+130183,trifluridine,PC3,Thymidylate synthase inhibitor,TYMS,0.365378
+109940,etoposide,A375,Topoisomerase inhibitor,TOP2A,0.363580
+105902,cytarabine,HEPG2,Ribonucleotide reductase inhibitor,POLA1,0.362382
+101186,azacitidine,HA1E,DNA methyltransferase inhibitor,DNMT1,0.362230
+131600,wortmannin,A549,PI3K inhibitor,PIK3CA,0.361490
+110647,finasteride,ASC,5 alpha reductase inhibitor,SRD5A1,0.361324
+102239,biotin,PC3,,,0.358536
+101630,benazepril,A375,Angiotensin converting enzyme inhibitor,ACE,0.358327
+128997,timolol,HA1E,Adrenergic receptor antagonist,ADRB1,0.357386
+104515,cilastatin,HA1E,Dehydropeptidase inhibitor,DPEP1,0.356813
+126529,sirolimus,HT29,MTOR inhibitor,FKBP1A,0.354070

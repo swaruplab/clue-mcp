@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+619,AG-490,ASC,JAK inhibitor,JAK2,-0.313587
+99433,aloisine,HEPG2,CDK inhibitor,CDK2,-0.305411
+108794,enalapril,MCF7,Angiotensin converting enzyme inhibitor,ACE,-0.294433
+131578,withaferin-a,HA1E,IKK inhibitor,NAMPT,-0.281735
+93920,SB-239063,HEPG2,P38 MAPK inhibitor,MAPK14,-0.278696
+80944,CNQX,U2OS,Glutamate receptor antagonist,GRIA1,-0.276175
+110976,flunisolide,HT29,Cytochrome P450 inhibitor,NR3C1,-0.271821
+124960,rilmenidine,MCF7,Adrenergic receptor agonist,NISCH,-0.266484
+115379,levonorgestrel,PC3,Estrogen receptor agonist,PGR,-0.264133
+131825,zaprinast,PC3,Phosphodiesterase inhibitor,PDE5A,-0.263852
+118202,mirtazapine,HT29,Serotonin receptor antagonist,ADRA2A,-0.260412
+127188,sulmazole,PC3,,,-0.257852
+124027,quinine,PC3,Hemozoin biocrystallization inhibitor,KCNN4,-0.256598
+101644,benazepril,PC3,Angiotensin converting enzyme inhibitor,ACE,-0.255330
+130338,triprolidine,MCF7,Histamine receptor antagonist,HRH1,-0.254130
+110863,fludarabine,VCAP,DNA synthesis inhibitor,RRM1,-0.250478
+102239,biotin,PC3,,,-0.249356
+115900,lonidamine,HEPG2,,,-0.247069
+83500,GSK-690693,HCC515,Akt inhibitor,AKT3,-0.246743
+93718,SB-203580,HCC515,P38 MAPK inhibitor,MAPK14,-0.243799
+106611,demeclocycline,PC3,,,-0.242968
+94516,SDZ-NKT-343,HA1E,Tachykinin antagonist,TACR1,-0.242619
+93911,SB-239063,A549,P38 MAPK inhibitor,MAPK14,-0.242491
+111227,fluticasone,HEPG2,Glucocorticoid receptor agonist,NR3C1,-0.237250
+82262,EPZ-5676,MCF10A,DOT1L inhibitor,DOT1L,-0.237197
+118980,naproxen,A375,Cyclooxygenase inhibitor,PTGS1,-0.236745
+110819,flucloxacillin,MCF7,,,-0.234825
+97387,VX-222,PC3,,,-0.234726
+100748,argatroban,PC3,Thrombin inhibitor,F2,-0.232046
+110856,fludarabine,MCF7,DNA synthesis inhibitor,RRM1,-0.229662
+122849,potassium-canrenoate,HEPG2,Mineralocorticoid receptor antagonist,NR3C2,-0.229433
+84068,HG-5-88-01,A375,,,-0.228121
+131574,withaferin-a,A375,IKK inhibitor,NAMPT,-0.226917
+115363,levonorgestrel,A549,Estrogen receptor agonist,PGR,-0.224520
+112037,gestrinone,A375,Progesterone receptor antagonist,ESR1,-0.223737
+113458,iloprost,U937,Prostanoid receptor agonist,PTGER1,-0.221995
+622,AG-490,HEPG2,JAK inhibitor,JAK2,-0.220243
+116818,medrysone,HT29,Glucocorticoid receptor agonist,NR3C1,-0.220008
+109663,estropipate,HT29,,,-0.219896
+112883,hydralazine,MCF7,,,-0.219087
+124921,rifaximin,PC3,RNA synthesis inhibitor,NR1I2,-0.218963
+119850,nizatidine,ASC,Histamine receptor antagonist,HRH2,-0.218626
+107573,dinoprost,PC3,Prostacyclin analog,PTGDR,-0.218625
+84468,ICI-162846,HT29,Histamine receptor antagonist,HRH2,-0.217658
+90714,PIK-75,A549,PI3K inhibitor,PIK3CA,-0.217658
+128115,temsirolimus,MCF7,MTOR inhibitor,MTOR,-0.216758
+112513,guggulsterone,PC3,IKK inhibitor,NR3C1,-0.216597
+100374,anandamide,VCAP,Cannabinoid receptor agonist,CNR1,-0.215103
+104560,cilomilast,HT29,Phosphodiesterase inhibitor,PDE4A,-0.214665
+101998,betamethasone,MCF7,Glucocorticoid receptor agonist,NR3C1,-0.214474

@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+119037,naringenin,PC3,TRPV antagonist,CYP19A1,-0.448248
+100619,apigenin,PC3,,,-0.445490
+83223,GSK-1059615,HUVEC,,,-0.438595
+106364,daunorubicin,ASC,RNA synthesis inhibitor,TOP2A,-0.428131
+110967,flunarizine,SKB,Calcium channel blocker,CACNA1H,-0.426914
+122850,potassium-canrenoate,HT29,Mineralocorticoid receptor antagonist,NR3C2,-0.426265
+109900,etomidate,A375,GABA receptor modulator,GABRA1,-0.420182
+108217,doxorubicin,ASC,Topoisomerase inhibitor,TOP2A,-0.417586
+110851,fludarabine,ASC,DNA synthesis inhibitor,RRM1,-0.416450
+125031,rimcazole,MCF7,Sigma receptor antagonist,SIGMAR1,-0.413936
+99277,alfaxalone,MCF7,GABA receptor agonist,GABBR1,-0.412557
+110861,fludarabine,SKB,DNA synthesis inhibitor,RRM1,-0.412476
+120638,ouabain,PHH,ATPase inhibitor,ATP1A1,-0.405094
+121306,parthenolide,SKB,,,-0.399254
+83219,GSK-1059615,HEPG2,,,-0.395522
+101298,azithromycin,A549,,,-0.387086
+108737,emetine,PHH,Protein synthesis inhibitor,RPS2,-0.386762
+125628,rutin,HCC515,Antioxidant,AKR1C3,-0.384166
+104092,ceramide,A549,,,-0.382300
+84060,HG-5-113-01,MCF7,,,-0.382057
+111094,fluphenazine,HCC515,Dopamine receptor antagonist,DRD1,-0.381814
+94516,SDZ-NKT-343,HA1E,Tachykinin antagonist,TACR1,-0.380678
+131547,warfarin,MCF7,Vitamin K antagonist,VKORC1,-0.378488
+120973,paclitaxel,ASC,Tubulin inhibitor,TUBB,-0.378326
+118015,mifepristone,NPC,Progesterone receptor antagonist,NR3C1,-0.378164
+131339,vinpocetine,HEPG2,Sodium channel blocker,PDE1A,-0.375568
+84054,HG-5-113-01,HA1E,,,-0.375324
+105811,cyclopiazonic-acid,A549,ATPase inhibitor,ATP2A1,-0.373783
+83209,GSK-1059615,A375,,,-0.373621
+110970,flunisolide,A375,Cytochrome P450 inhibitor,NR3C1,-0.373540
+114354,isradipine,HT29,Calcium channel blocker,CACNA1C,-0.371918
+90721,PIK-75,HT29,PI3K inhibitor,PIK3CA,-0.371918
+103900,cefixime,HT29,,,-0.371188
+107469,diltiazem,NPC,Calcium channel blocker,CACNA1C,-0.370782
+104091,ceramide,A375,,,-0.368835
+110860,fludarabine,PHH,DNA synthesis inhibitor,RRM1,-0.367862
+119209,nelfinavir,HT29,HIV protease inhibitor,CYP1A2,-0.364049
+110981,flunisolide,SKB,Cytochrome P450 inhibitor,NR3C1,-0.363644
+349,A-443654,A549,,,-0.362346
+131330,vinorelbine,SKB,Tubulin inhibitor,TUBB,-0.359912
+108724,emetine,HA1E,Protein synthesis inhibitor,RPS2,-0.359263
+102249,biperiden,HEPG2,Acetylcholine receptor antagonist,CHRM1,-0.358533
+123727,puromycin,MCF7,,,-0.357317
+130995,vecuronium,A549,Acetylcholine receptor antagonist,CHRNA2,-0.356668
+102244,biperiden,ASC,Acetylcholine receptor antagonist,CHRM1,-0.356668
+122173,picrotoxin,HT29,GABA receptor antagonist,GABRA1,-0.356668
+99202,alclometasone,PC3,Glucocorticoid receptor agonist,NR3C1,-0.356181
+127825,taxifolin,A375,Opioid receptor antagonist,ADIPOR2,-0.356100
+102457,bortezomib,A549,Proteasome inhibitor,PSMB1,-0.355775
+114350,isradipine,A549,Calcium channel blocker,CACNA1C,-0.355289

@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+119994,noretynodrel,MCF7,Progestogen hormone,PGR,0.352372
+100996,atorvastatin,MCF7,HMGCR inhibitor,DPP4,0.326353
+114881,lapatinib,MCF7,EGFR inhibitor,EGFR,0.299361
+109567,estradiol,MCF7,Estrogen receptor agonist,ESR1,0.293105
+112047,gestrinone,MCF7,Progesterone receptor antagonist,ESR1,0.291924
+124894,rifampicin,MCF7,RNA polymerase inhibitor,NR1I2,0.284377
+114330,isoxsuprine,MCF7,Adrenergic receptor agonist,ADRB2,0.283864
+118044,miglitol,MCF7,Glucosidase inhibitor,GAA,0.271074
+128912,tibolone,MCF7,Androgen receptor agonist,ESR1,0.269487
+112405,griseofulvin,A375,,,0.267550
+120088,noscapine,MCF7,Tubulin inhibitor,SIGMAR1,0.267369
+127396,tacrolimus,YAPC,Calcineurin inhibitor,FKBP1A,0.264150
+117405,metergoline,MCF7,Dopamine receptor agonist,HTR1A,0.263494
+126476,simvastatin,MCF7,HMGCR inhibitor,HMGCR,0.260967
+119550,niguldipine,A549,Calcium channel blocker,ADRA1A,0.259186
+114616,ketoconazole,MCF7,Sterol demethylase inhibitor,CYP19A1,0.255785
+130029,triamcinolone,VCAP,Glucocorticoid receptor agonist,NR3C1,0.255448
+124727,retinol,MCF7,Retinoid receptor ligand,RXRA,0.254306
+104553,cilomilast,A375,Phosphodiesterase inhibitor,PDE4A,0.253832
+121270,paroxetine,MCF7,Selective serotonin reuptake inhibitor,SLC6A4,0.253313
+2515,BI-2536,PC3,PLK inhibitor,PLK1,0.252570
+95789,SU-11274,SKBR3,Tyrosine kinase inhibitor,MET,0.251324
+84100,HG-6-64-01,MCF7,,,0.250279
+125944,saracatinib,MCF7,Src inhibitor,ABL1,0.248105
+120294,oligomycin-a,HA1E,ATPase inhibitor,ATP5F1A,0.245470
+108253,doxycycline,MCF7,Metalloproteinase inhibitor,MMP8,0.243806
+124686,resveratrol,MCF7,SIRT activator,SIRT1,0.243044
+116503,maprotiline,VCAP,Tricyclic antidepressant,SLC6A2,0.241470
+109140,epitiostanol,MCF7,Androgen receptor agonist,AR,0.240623
+128816,thiothixene,A549,Dopamine receptor antagonist,HTR2A,0.240045
+89772,OSI-027,MDAMB231,MTOR inhibitor,MTOR,0.234393
+89868,PAC-1,A549,Caspase activator,CASP3,0.234212
+89654,OBAA,MCF7,Phospholipase inhibitor,PLA2G1B,0.234163
+96396,TTNPB,HA1E,Retinoid receptor agonist,RARB,0.234091
+95786,SU-11274,PC3,Tyrosine kinase inhibitor,MET,0.231045
+122935,pravastatin,MCF7,HMGCR inhibitor,HMGCR,0.230977
+116863,mefloquine,MCF7,,,0.228874
+109753,ethisterone,MCF7,,,0.228446
+114617,ketoconazole,PC3,Sterol demethylase inhibitor,CYP19A1,0.227521
+109916,etomidate,VCAP,GABA receptor modulator,GABRA1,0.227492
+119840,nitrofural,PC3,,,0.227398
+117922,mibefradil,VCAP,T-type calcium channel blocker,CACNA1C,0.226879
+115082,lenalidomide,PC3,Anti-cancer agent,CRBN,0.226476
+120998,paclitaxel,PHH,Tubulin inhibitor,TUBB,0.226360
+97737,WZ-4-145,HA1E,,,0.226233
+100048,amlodipine,A549,Calcium channel blocker,CACNA1C,0.225201
+116095,lovastatin,A549,HMGCR inhibitor,HMGCR,0.224860
+105817,cyclopiazonic-acid,MCF7,ATPase inhibitor,ATP2A1,0.224727
+130078,triciribine,MCF7,Akt inhibitor,AKT3,0.224581
+111447,forskolin,VCAP,Adenylyl cyclase activator,ADCY2,0.223660

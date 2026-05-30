@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+82262,EPZ-5676,MCF10A,DOT1L inhibitor,DOT1L,0.453982
+113182,ibrutinib,YAPC,BTK inhibitor,BTK,0.417649
+94083,SB-590885,HS578T,RAF inhibitor,BRAF,0.415127
+129685,tozasertib,HCC515,JAK inhibitor,FLT3,0.414121
+91411,QL-XI-92,ASC,,,0.404575
+105721,cycloheximide,ASC,Protein synthesis inhibitor,RPL3,0.401852
+115058,lenalidomide,A375,Anti-cancer agent,CRBN,0.398230
+1804,AZD-1480,MCF7,JAK inhibitor,JAK1,0.383949
+127679,tanespimycin,NCIH2073,HSP inhibitor,HSP90AA1,0.383254
+120955,ozagrel,VCAP,Thromboxane synthase inhibitor,TBXAS1,0.377165
+121945,phentolamine,VCAP,Adrenergic receptor antagonist,ADRA1A,0.371243
+106118,danazol,HCC515,Estrogen receptor antagonist,ESR1,0.363240
+119848,nizatidine,A375,Histamine receptor antagonist,HRH2,0.357836
+110031,everolimus,HELA,MTOR inhibitor,MTOR,0.356368
+124730,retinol,PC3,Retinoid receptor ligand,RXRA,0.353543
+80431,CG-930,PC3,JNK inhibitor,MAPK8,0.352587
+90733,PIK-75,VCAP,PI3K inhibitor,PIK3CA,0.351405
+117728,methysergide,HCC515,Serotonin receptor antagonist,HTR1B,0.351008
+119795,nitrendipine,HA1E,Calcium channel blocker,CACNA1C,0.348096
+102803,bucladesine,A375,CAMP stimulant,PRKACA,0.347650
+101018,atovaquone,MCF7,,,0.347084
+119994,noretynodrel,MCF7,Progestogen hormone,PGR,0.345675
+129000,timolol,HEPG2,Adrenergic receptor antagonist,ADRB1,0.342239
+122070,physostigmine,A375,Cholinesterase inhibitor,ACHE,0.340919
+100167,ampicillin,PC3,,,0.340853
+131023,veliparib,MCF10A,PARP inhibitor,PARP2,0.339762
+96413,TTNPB,VCAP,Retinoid receptor agonist,RARB,0.339673
+120444,orantinib,A549,FGFR inhibitor,FGFR1,0.339311
+117698,methylprednisolone,PC3,Glucocorticoid receptor agonist,NR3C1,0.338714
+100881,asenapine,MCF7,Dopamine receptor antagonist,ADRB2,0.338051
+106843,dexamethasone,HT29,Glucocorticoid receptor agonist,NR3C1,0.337579
+131457,voriconazole,PC3,Cytochrome P450 inhibitor,CYP2C19,0.337534
+2500,BI-2536,HME1,PLK inhibitor,PLK1,0.337056
+124948,rilmenidine,A549,Adrenergic receptor agonist,NISCH,0.335714
+102656,brivanib,HA1E,FGFR inhibitor,FGFR1,0.334209
+112504,guggulsterone,A549,IKK inhibitor,NR3C1,0.333774
+115375,levonorgestrel,MCF7,Estrogen receptor agonist,PGR,0.333617
+89994,PD-0325901,PC3,MEK inhibitor,MAP2K1,0.332926
+906,AM-404,VCAP,FAAH inhibitor,TRPV1,0.332474
+1803,AZD-1480,MCF10A,JAK inhibitor,JAK1,0.332041
+94085,SB-590885,MCF10A,RAF inhibitor,BRAF,0.331678
+80412,CG-930,A549,JNK inhibitor,MAPK8,0.331480
+113235,icariin,A375,,,0.330788
+118760,nadolol,VCAP,Adrenergic receptor antagonist,ADRB1,0.328236
+88888,NCS-382,A375,GABA receptor antagonist,GABBR1,0.327475
+102829,bucladesine,VCAP,CAMP stimulant,PRKACA,0.326135
+130336,triprolidine,HT29,Histamine receptor antagonist,HRH1,0.325757
+112510,guggulsterone,MCF7,IKK inhibitor,NR3C1,0.325744
+96283,THZ-2-98-01,SKBR3,,,0.325351
+123066,pregnenolone,PC3,,,0.323745

@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+111678,gabazine,A549,GABA receptor antagonist,GABRA1,-0.321051
+105832,cyclosporin-a,HCT116,Calcineurin inhibitor,PPIA,-0.310574
+124405,reboxetine,HT29,Adrenergic receptor antagonist,SLC6A2,-0.305436
+112510,guggulsterone,MCF7,IKK inhibitor,NR3C1,-0.302259
+102250,biperiden,HT29,Acetylcholine receptor antagonist,CHRM1,-0.300302
+93931,SB-239063,PC3,P38 MAPK inhibitor,MAPK14,-0.295537
+94083,SB-590885,HS578T,RAF inhibitor,BRAF,-0.294482
+120467,orantinib,VCAP,FGFR inhibitor,FGFR1,-0.293228
+90733,PIK-75,VCAP,PI3K inhibitor,PIK3CA,-0.290588
+86714,L-689560,VCAP,,,-0.287749
+110957,flunarizine,ASC,Calcium channel blocker,CACNA1H,-0.287046
+117725,methysergide,A549,Serotonin receptor antagonist,HTR1B,-0.286191
+110645,finasteride,A375,5 alpha reductase inhibitor,SRD5A1,-0.284532
+2486,BH3I-1,VCAP,BCL inhibitor,BCL2L1,-0.283312
+129000,timolol,HEPG2,Adrenergic receptor antagonist,ADRB1,-0.283281
+110956,flunarizine,A549,Calcium channel blocker,CACNA1H,-0.283197
+102829,bucladesine,VCAP,CAMP stimulant,PRKACA,-0.280557
+110652,finasteride,HEPG2,5 alpha reductase inhibitor,SRD5A1,-0.279198
+125626,rutin,ASC,Antioxidant,AKR1C3,-0.278925
+128360,testosterone,NPC,,,-0.275545
+1804,AZD-1480,MCF7,JAK inhibitor,JAK1,-0.274930
+116985,memantine,HT29,Glutamate receptor antagonist,GRIN1,-0.272642
+124293,ramipril,VCAP,Angiotensin converting enzyme inhibitor,ACE,-0.272540
+101723,benzamil,HCC515,Sodium channel blocker,SCNN1A,-0.272141
+129829,tranylcypromine,MCF7,Monoamine oxidase inhibitor,KDM1A,-0.271367
+119848,nizatidine,A375,Histamine receptor antagonist,HRH2,-0.270228
+109234,equilin,A375,Estrogen receptor agonist,HSD17B1,-0.269448
+124948,rilmenidine,A549,Adrenergic receptor agonist,NISCH,-0.269248
+104512,cilastatin,A375,Dehydropeptidase inhibitor,DPEP1,-0.267998
+104619,cimetidine,ASC,Histamine receptor antagonist,HRH2,-0.267494
+95789,SU-11274,SKBR3,Tyrosine kinase inhibitor,MET,-0.267163
+124730,retinol,PC3,Retinoid receptor ligand,RXRA,-0.266582
+120444,orantinib,A549,FGFR inhibitor,FGFR1,-0.265781
+102242,biperiden,A375,Acetylcholine receptor antagonist,CHRM1,-0.265057
+1554,AT-CSC-18,HT29,,,-0.264817
+102196,bimatoprost,HA1E,Prostanoid receptor agonist,PTGFR,-0.264327
+118883,naloxone,ASC,Opioid receptor antagonist,OPRD1,-0.263949
+109658,estropipate,A549,,,-0.263864
+126739,sorafenib,SKB,KIT inhibitor,FGFR1,-0.263482
+109755,ethisterone,PC3,,,-0.263415
+130336,triprolidine,HT29,Histamine receptor antagonist,HRH1,-0.263127
+122167,picrotoxin,A375,GABA receptor antagonist,GABRA1,-0.260900
+112504,guggulsterone,A549,IKK inhibitor,NR3C1,-0.260856
+96276,THZ-2-98-01,HS578T,,,-0.260829
+131457,voriconazole,PC3,Cytochrome P450 inhibitor,CYP2C19,-0.260498
+125135,ritodrine,A549,Adrenergic receptor agonist,ADRB2,-0.260359
+110510,fenretinide,ASC,Apoptosis stimulant,RARA,-0.259237
+105425,cortisone,PC3,,,-0.259065
+100746,argatroban,HT29,Thrombin inhibitor,F2,-0.258274
+112872,huperzine-a,VCAP,Glutamate receptor antagonist,ACHE,-0.257253

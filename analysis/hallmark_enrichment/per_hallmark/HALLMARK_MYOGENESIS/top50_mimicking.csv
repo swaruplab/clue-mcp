@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+95786,SU-11274,PC3,Tyrosine kinase inhibitor,MET,0.347179
+105890,cyproterone,MCF7,Androgen receptor antagonist,AR,0.341339
+88899,NCS-382,SKB,GABA receptor antagonist,GABBR1,0.332961
+125019,rimcazole,A375,Sigma receptor antagonist,SIGMAR1,0.309859
+130878,valsartan,MCF7,Angiotensin receptor antagonist,AGTR1,0.309459
+126734,sorafenib,MCF7,KIT inhibitor,FGFR1,0.301827
+124664,resorcinol,MCF7,,,0.294312
+123317,progesterone,MCF10A,Progesterone receptor agonist,CYP17A1,0.294146
+94075,SB-590885,A375,RAF inhibitor,BRAF,0.292542
+100196,amsacrine,A549,Topoisomerase inhibitor,TOP2A,0.290234
+95780,SU-11274,HS578T,Tyrosine kinase inhibitor,MET,0.282459
+99975,amiodarone,PC3,Potassium channel blocker,KCNH2,0.280531
+126482,simvastatin,PC3,HMGCR inhibitor,HMGCR,0.279837
+105897,cytarabine,A549,Ribonucleotide reductase inhibitor,POLA1,0.279759
+110040,everolimus,MDAMB231,MTOR inhibitor,MTOR,0.278646
+128730,thioperamide,NPC,Histamine receptor antagonist,HRH3,0.278597
+96573,U-0126,SKB,MEK inhibitor,MAP2K1,0.278500
+124313,ranitidine,SKB,Histamine receptor antagonist,HRH2,0.277279
+103251,calcitriol,PC3,Vitamin D receptor agonist,VDR,0.274108
+103226,calcipotriol,PC3,Vitamin D receptor agonist,VDR,0.272425
+111227,fluticasone,HEPG2,Glucocorticoid receptor agonist,NR3C1,0.272412
+116112,lovastatin,PC3,HMGCR inhibitor,HMGCR,0.270254
+96571,U-0126,PC3,MEK inhibitor,MAP2K1,0.270159
+126742,sorafenib,VCAP,KIT inhibitor,FGFR1,0.267835
+110856,fludarabine,MCF7,DNA synthesis inhibitor,RRM1,0.265086
+110946,flumetasone,NPC,Glucocorticoid receptor agonist,NR3C1,0.262928
+117394,metergoline,A375,Dopamine receptor agonist,HTR1A,0.261591
+114407,itraconazole,MCF7,,,0.257234
+105002,clobetasol,HEPG2,Glucocorticoid receptor agonist,NR3C1,0.256542
+106381,daunorubicin,U2OS,RNA synthesis inhibitor,TOP2A,0.256381
+100996,atorvastatin,MCF7,HMGCR inhibitor,DPP4,0.256356
+130084,triciribine,SKB,Akt inhibitor,AKT3,0.256013
+100614,apigenin,HEPG2,,,0.255707
+99640,alvespimycin,HT29,HSP inhibitor,HSP90AA1,0.254294
+83975,HA-14-1,A375,BCL inhibitor,BCL2,0.252966
+131613,wortmannin,HT29,PI3K inhibitor,PIK3CA,0.252501
+97748,WZ-4-145,PC3,,,0.251116
+364,A-443654,MCF7,,,0.250930
+84088,HG-6-64-01,A375,,,0.248828
+84101,HG-6-64-01,MDAMB231,,,0.248115
+89418,NVP-AUY922,HT29,HSP inhibitor,HSP90AA1,0.247125
+111998,genistein,HT29,Tyrosine kinase inhibitor,CFTR,0.246492
+105902,cytarabine,HEPG2,Ribonucleotide reductase inhibitor,POLA1,0.245998
+103216,calcifediol,PC3,Vitamin D receptor agonist,VDR,0.244617
+126464,simvastatin,A375,HMGCR inhibitor,HMGCR,0.243883
+124957,rilmenidine,HT29,Adrenergic receptor agonist,NISCH,0.242398
+119206,nelfinavir,HA1E,HIV protease inhibitor,CYP1A2,0.241941
+106372,daunorubicin,HT29,RNA synthesis inhibitor,TOP2A,0.241136
+97741,WZ-4-145,HS578T,,,0.240304
+120989,paclitaxel,MCF7,Tubulin inhibitor,TUBB,0.240113

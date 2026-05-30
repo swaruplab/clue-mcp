@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+110040,everolimus,MDAMB231,MTOR inhibitor,MTOR,0.334419
+82689,GBR-12783,HA1E,,,0.297971
+99297,alimemazine,MCF7,Histamine receptor ligand,HRH1,0.295852
+83503,GSK-690693,HT29,Akt inhibitor,AKT3,0.293551
+111680,gabazine,HA1E,GABA receptor antagonist,GABRA1,0.289381
+122107,piceatannol,VCAP,,,0.286347
+79939,BW-B70C,HA1E,Lipoxygenase inhibitor,ALOX5,0.280210
+131255,vinblastine,HUH7,Tubulin inhibitor,TUBB,0.279895
+128601,thapsigargin,VCAP,ATPase inhibitor,ATP2A1,0.275780
+112512,guggulsterone,NPC,IKK inhibitor,NR3C1,0.273265
+118017,mifepristone,SKB,Progesterone receptor antagonist,NR3C1,0.271718
+89770,OSI-027,MCF10A,MTOR inhibitor,MTOR,0.271102
+623,AG-490,HT29,JAK inhibitor,JAK2,0.269279
+131346,vinpocetine,NPC,Sodium channel blocker,PDE1A,0.267096
+125873,salubrinal,PC3,Eukaryotic translation initiation factor inhibitor,EIF2S1,0.263614
+126033,scopolamine,SKB,Acetylcholine receptor antagonist,CHRM1,0.263015
+126134,selegiline,HA1E,Monoamine oxidase inhibitor,MAOA,0.262484
+106496,deforolimus,HA1E,MTOR inhibitor,MTOR,0.259926
+83975,HA-14-1,A375,BCL inhibitor,BCL2,0.251106
+125496,rottlerin,A549,,,0.250468
+101722,benzamil,HA1E,Sodium channel blocker,SCNN1A,0.249843
+110940,flumetasone,ASC,Glucocorticoid receptor agonist,NR3C1,0.249492
+105836,cyclosporin-a,HT29,Calcineurin inhibitor,PPIA,0.249230
+123056,pregnenolone,HA1E,,,0.247562
+89401,NVP-AEW541,HS578T,IGF-1 inhibitor,IGF1R,0.246850
+104619,cimetidine,ASC,Histamine receptor antagonist,HRH2,0.246421
+106493,deforolimus,A375,MTOR inhibitor,MTOR,0.246216
+130183,trifluridine,PC3,Thymidylate synthase inhibitor,TYMS,0.246072
+110516,fenretinide,MCF7,Apoptosis stimulant,RARA,0.243787
+118883,naloxone,ASC,Opioid receptor antagonist,OPRD1,0.239821
+119214,nelfinavir,PC3,HIV protease inhibitor,CYP1A2,0.239788
+119795,nitrendipine,HA1E,Calcium channel blocker,CACNA1C,0.239164
+116499,maprotiline,PC3,Tricyclic antidepressant,SLC6A2,0.237142
+106856,dexamethasone,SKB,Glucocorticoid receptor agonist,NR3C1,0.236171
+102670,brivanib,PC3,FGFR inhibitor,FGFR1,0.236073
+115896,lonidamine,HCC515,,,0.235085
+124204,radicicol,VCAP,,,0.234666
+102260,biperiden,SKB,Acetylcholine receptor antagonist,CHRM1,0.234654
+110859,fludarabine,PC3,DNA synthesis inhibitor,RRM1,0.232651
+102665,brivanib,MCF10A,FGFR inhibitor,FGFR1,0.232206
+83985,HA-14-1,PC3,BCL inhibitor,BCL2,0.231722
+98747,acarbose,NPC,Glucosidase inhibitor,GAA,0.231396
+94528,SDZ-NKT-343,PC3,Tachykinin antagonist,TACR1,0.230264
+124724,retinol,HCC515,Retinoid receptor ligand,RXRA,0.229426
+130179,trifluridine,MCF7,Thymidylate synthase inhibitor,TYMS,0.229344
+123725,puromycin,HEPG2,,,0.228433
+119686,nimodipine,HA1E,Calcium channel blocker,NR3C2,0.227172
+101723,benzamil,HCC515,Sodium channel blocker,SCNN1A,0.226470
+893,AM-404,A375,FAAH inhibitor,TRPV1,0.224890
+82313,EX-527,NPC,SIRT inhibitor,SIRT1,0.224195

@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+118229,mitomycin-c,HA1E,,,0.335409
+93931,SB-239063,PC3,P38 MAPK inhibitor,MAPK14,0.328487
+1787,AZD-1480,A549,JAK inhibitor,JAK1,0.314245
+104512,cilastatin,A375,Dehydropeptidase inhibitor,DPEP1,0.311673
+84423,IB-MECA,VCAP,Adenosine receptor agonist,ADORA3,0.305185
+118044,miglitol,MCF7,Glucosidase inhibitor,GAA,0.300357
+104619,cimetidine,ASC,Histamine receptor antagonist,HRH2,0.298238
+90733,PIK-75,VCAP,PI3K inhibitor,PIK3CA,0.291469
+129000,timolol,HEPG2,Adrenergic receptor antagonist,ADRB1,0.283448
+116042,losartan,A375,Angiotensin receptor antagonist,AGTR1,0.283357
+120444,orantinib,A549,FGFR inhibitor,FGFR1,0.283214
+129829,tranylcypromine,MCF7,Monoamine oxidase inhibitor,KDM1A,0.280414
+94083,SB-590885,HS578T,RAF inhibitor,BRAF,0.279298
+95789,SU-11274,SKBR3,Tyrosine kinase inhibitor,MET,0.276918
+102242,biperiden,A375,Acetylcholine receptor antagonist,CHRM1,0.275976
+125750,safinamide,PC3,Glutamate inhibitor,MAOB,0.275864
+110956,flunarizine,A549,Calcium channel blocker,CACNA1H,0.275196
+114888,lapatinib,NPC,EGFR inhibitor,EGFR,0.274774
+112196,glimepiride,ASC,Insulin secretagogue,KCNJ11,0.273935
+1554,AT-CSC-18,HT29,,,0.273100
+112510,guggulsterone,MCF7,IKK inhibitor,NR3C1,0.272776
+119495,nifedipine,A549,Calcium channel blocker,CACNA1C,0.271219
+106837,dexamethasone,HA1E,Glucocorticoid receptor agonist,NR3C1,0.268618
+112872,huperzine-a,VCAP,Glutamate receptor antagonist,ACHE,0.268540
+109559,estradiol,HA1E,Estrogen receptor agonist,ESR1,0.267853
+102250,biperiden,HT29,Acetylcholine receptor antagonist,CHRM1,0.266852
+101720,benzamil,A549,Sodium channel blocker,SCNN1A,0.266742
+102004,betamethasone,VCAP,Glucocorticoid receptor agonist,NR3C1,0.266395
+116813,medrysone,HA1E,Glucocorticoid receptor agonist,NR3C1,0.266313
+79948,BW-B70C,VCAP,Lipoxygenase inhibitor,ALOX5,0.266221
+125626,rutin,ASC,Antioxidant,AKR1C3,0.265875
+112864,huperzine-a,HT29,Glutamate receptor antagonist,ACHE,0.265683
+96279,THZ-2-98-01,MCF10A,,,0.265400
+103904,cefixime,PC3,,,0.265384
+94085,SB-590885,MCF10A,RAF inhibitor,BRAF,0.265311
+131546,warfarin,HT29,Vitamin K antagonist,VKORC1,0.264983
+122388,pinacidil,NPC,ATP channel activator,ABCC9,0.264115
+119516,nifedipine,VCAP,Calcium channel blocker,CACNA1C,0.261825
+103805,catechin,HA1E,,,0.261431
+124948,rilmenidine,A549,Adrenergic receptor agonist,NISCH,0.261172
+1564,AT-CSC-18,VCAP,,,0.260064
+120955,ozagrel,VCAP,Thromboxane synthase inhibitor,TBXAS1,0.259013
+104519,cilastatin,MCF7,Dehydropeptidase inhibitor,DPEP1,0.257414
+114900,lapatinib,VCAP,EGFR inhibitor,EGFR,0.256288
+2486,BH3I-1,VCAP,BCL inhibitor,BCL2L1,0.256097
+111440,forskolin,PC3,Adenylyl cyclase activator,ADCY2,0.255496
+101202,azacitidine,THP1,DNA methyltransferase inhibitor,DNMT1,0.255305
+112504,guggulsterone,A549,IKK inhibitor,NR3C1,0.255233
+124679,resveratrol,HCC515,SIRT activator,SIRT1,0.255042
+113182,ibrutinib,YAPC,BTK inhibitor,BTK,0.254376

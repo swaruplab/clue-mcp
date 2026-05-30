@@ -1,0 +1,90 @@
+site_name: clue-mcp
+site_description: >-
+  Connectivity Map (LINCS 2020) perturbation-enrichment engine — find drugs,
+  gene knockdowns, and overexpression that reverse a disease gene signature,
+  from Python, a REST API, or directly inside Claude via MCP.
+site_url: https://swaruplab.github.io/clue-mcp/
+site_author: Swarup Lab, UC Irvine
+
+repo_name: swaruplab/clue-mcp
+repo_url: https://github.com/swaruplab/clue-mcp
+edit_uri: edit/main/docs/
+
+copyright: Copyright &copy; 2026 Swarup Lab, University of California, Irvine
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - content.code.copy
+    - content.code.annotate
+    - search.suggest
+    - search.highlight
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: teal
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  icon:
+    repo: fontawesome/brands/github
+  font:
+    text: Inter
+    code: JetBrains Mono
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+  - toc:
+      permalink: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/swaruplab/clue-mcp
+    - icon: fontawesome/solid/flask
+      link: https://swaruplab.bio.uci.edu/
+
+nav:
+  - Home: index.md
+  - Quickstart: quickstart.md
+  - Running an analysis: usage.md
+  - Showcase — 50 Hallmarks: showcase.md
+  - Interfaces:
+    - MCP server (Claude): mcp-setup.md
+    - Python library: python-tutorial.md
+    - REST API: api-tutorial.md
+  - Method & data: method.md
+  - Building the database: pipeline.md
+  - Releasing the data: data-release.md

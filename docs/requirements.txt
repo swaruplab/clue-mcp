@@ -1,0 +1,5 @@
+# Dependencies for building the documentation website (MkDocs Material).
+# Used by .github/workflows/deploy-docs.yml and for local previews:
+#   pip install -r docs/requirements.txt
+#   mkdocs serve
+mkdocs-material>=9.5

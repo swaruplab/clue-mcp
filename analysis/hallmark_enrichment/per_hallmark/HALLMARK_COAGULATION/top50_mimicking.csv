@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+105140,clomifene,A375,Estrogen receptor antagonist,ESR1,0.310269
+110030,everolimus,HEK293,MTOR inhibitor,MTOR,0.289666
+125508,rottlerin,JURKAT,,,0.271334
+127393,tacrolimus,THP1,Calcineurin inhibitor,FKBP1A,0.266791
+124280,ramipril,A549,Angiotensin converting enzyme inhibitor,ACE,0.263060
+105896,cytarabine,A375,Ribonucleotide reductase inhibitor,POLA1,0.258517
+93730,SB-203580,NEU,P38 MAPK inhibitor,MAPK14,0.247404
+112447,guanaben-acetate,PC3,Adrenergic receptor agonist,ADRA2A,0.245295
+98258,YM-155,A549,Survivin inhibitor,BIRC5,0.243673
+105854,cyclosporin-a,VCAP,Calcineurin inhibitor,PPIA,0.243592
+112209,glimepiride,VCAP,Insulin secretagogue,KCNJ11,0.238319
+125931,saracatinib,HCC515,Src inhibitor,ABL1,0.237184
+117397,metergoline,HA1E,Dopamine receptor agonist,HTR1A,0.236616
+131602,wortmannin,ASC,PI3K inhibitor,PIK3CA,0.235318
+123067,pregnenolone,PHH,,,0.232154
+131609,wortmannin,HCC515,PI3K inhibitor,PIK3CA,0.231992
+124698,resveratrol,VCAP,SIRT activator,SIRT1,0.231343
+100744,argatroban,HA1E,Thrombin inhibitor,F2,0.231181
+105897,cytarabine,A549,Ribonucleotide reductase inhibitor,POLA1,0.231181
+128121,temsirolimus,PC3,MTOR inhibitor,MTOR,0.228423
+105745,cyclopamine,MCF7,Smoothened receptor antagonist,SMO,0.228261
+123317,progesterone,MCF10A,Progesterone receptor agonist,CYP17A1,0.228099
+108231,doxorubicin,MCF7,Topoisomerase inhibitor,TOP2A,0.227125
+106056,dactinomycin,MCF7,RNA polymerase inhibitor,POLR2A,0.226557
+119575,niguldipine,VCAP,Calcium channel blocker,ADRA1A,0.226395
+105439,cortisone-acetate,VCAP,Glucocorticoid receptor agonist,NR3C1,0.226152
+110859,fludarabine,PC3,DNA synthesis inhibitor,RRM1,0.223556
+103341,camptothecin,HT29,Topoisomerase inhibitor,TOP1,0.219987
+115161,lestaurtinib,MCF7,JAK inhibitor,FLT3,0.219581
+93728,SB-203580,MCF7,P38 MAPK inhibitor,MAPK14,0.215931
+98268,YM-155,HT29,Survivin inhibitor,BIRC5,0.215039
+2001,AZD-7762,JURKAT,CHK inhibitor,CHEK1,0.214471
+116499,maprotiline,PC3,Tricyclic antidepressant,SLC6A2,0.213984
+105601,curcumin,HCT116,Lipoxygenase inhibitor,PTGS1,0.212281
+105903,cytarabine,HT29,Ribonucleotide reductase inhibitor,POLA1,0.211713
+122104,piceatannol,PC3,,,0.211308
+122852,potassium-canrenoate,NPC,Mineralocorticoid receptor antagonist,NR3C2,0.210902
+89880,PAC-1,PC3,Caspase activator,CASP3,0.210415
+127738,targinine,HT29,,,0.210172
+129535,topotecan,MCF7,Topoisomerase inhibitor,TOP1,0.209523
+116818,medrysone,HT29,Glucocorticoid receptor agonist,NR3C1,0.208712
+105142,clomifene,ASC,Estrogen receptor antagonist,ESR1,0.208225
+84103,HG-6-64-01,PC3,,,0.208144
+131611,wortmannin,HEPG2,PI3K inhibitor,PIK3CA,0.207901
+128819,thiothixene,HCC515,Dopamine receptor antagonist,HTR2A,0.207008
+109524,esculin,PC3,,,0.207008
+89397,NVP-AEW541,A375,IGF-1 inhibitor,IGF1R,0.206116
+120122,nutlin-3,HEPG2,MDM inhibitor,MDM2,0.205143
+83224,GSK-1059615,JURKAT,,,0.204494
+118933,naltrindole,HT29,Opioid receptor antagonist,OPRD1,0.204169

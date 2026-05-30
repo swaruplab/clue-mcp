@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+113291,idarubicin,A375,Topoisomerase inhibitor,TOP2A,0.276246
+126738,sorafenib,PC3,KIT inhibitor,FGFR1,0.273076
+127393,tacrolimus,THP1,Calcineurin inhibitor,FKBP1A,0.272722
+130438,tropisetron,VCAP,Serotonin receptor antagonist,HTR3A,0.258800
+105896,cytarabine,A375,Ribonucleotide reductase inhibitor,POLA1,0.255747
+98257,YM-155,A375,Survivin inhibitor,BIRC5,0.255409
+127199,suloctidil,MCF7,,,0.246652
+105733,cycloheximide,U2OS,Protein synthesis inhibitor,RPL3,0.245562
+107335,digoxin,HA1E,ATPase inhibitor,ATP1A1,0.243322
+102071,betulinic-acid,PC3,Caspase activator,GPBAR1,0.241102
+120640,ouabain,U2OS,ATPase inhibitor,ATP1A1,0.232923
+98268,YM-155,HT29,Survivin inhibitor,BIRC5,0.232179
+114357,isradipine,MCF7,Calcium channel blocker,CACNA1C,0.230509
+102469,bortezomib,HT29,Proteasome inhibitor,PSMB1,0.226995
+130766,ursolic-acid,HA1E,STAT inhibitor,HSD11B1,0.226307
+120113,nutlin-3,A549,MDM inhibitor,MDM2,0.223382
+112523,halcinonide,A375,Glucocorticoid receptor agonist,NR3C1,0.223336
+1967,AZD-7545,PC3,,,0.222232
+103270,calmidazolium,VCAP,Calmodulin antagonist,ATP2B1,0.220717
+100195,amsacrine,A375,Topoisomerase inhibitor,TOP2A,0.220424
+120637,ouabain,PC3,ATPase inhibitor,ATP1A1,0.219443
+114460,ivermectin,MCF7,,,0.217009
+124188,radicicol,HA1E,,,0.214530
+625,AG-490,NPC,JAK inhibitor,JAK2,0.214023
+105157,clomifene,PC3,Estrogen receptor antagonist,ESR1,0.213940
+118226,mitomycin-c,A375,,,0.212438
+122510,piperacillin,MCF7,,,0.211345
+103263,calmidazolium,HT29,Calmodulin antagonist,ATP2B1,0.210951
+89216,NSC-632839,HT29,Ubiquitin specific protease inhibitor,SENP2,0.210844
+107339,digoxin,HEPG2,ATPase inhibitor,ATP1A1,0.210568
+124024,quinine,MCF7,Hemozoin biocrystallization inhibitor,KCNN4,0.210293
+98258,YM-155,A549,Survivin inhibitor,BIRC5,0.210052
+97733,WZ-4-145,A375,,,0.207755
+131255,vinblastine,HUH7,Tubulin inhibitor,TUBB,0.207282
+120634,ouabain,MCF7,ATPase inhibitor,ATP1A1,0.206686
+120630,ouabain,HA1E,ATPase inhibitor,ATP1A1,0.206666
+107850,docetaxel,MCF7,Tubulin inhibitor,TUBB,0.206478
+120116,nutlin-3,HA1E,MDM inhibitor,MDM2,0.204521
+100886,asiatic-acid,A375,,,0.203815
+128580,thapsigargin,A549,ATPase inhibitor,ATP2A1,0.202849
+112411,griseofulvin,MCF10A,,,0.202791
+123723,puromycin,HA1E,,,0.202114
+103264,calmidazolium,MCF7,Calmodulin antagonist,ATP2B1,0.201615
+111999,genistein,MCF7,Tyrosine kinase inhibitor,CFTR,0.200887
+128590,thapsigargin,MCF7,ATPase inhibitor,ATP2A1,0.200587
+109942,etoposide,HA1E,Topoisomerase inhibitor,TOP2A,0.199414
+110510,fenretinide,ASC,Apoptosis stimulant,RARA,0.198034
+103900,cefixime,HT29,,,0.197849
+103241,calcitriol,HT29,Vitamin D receptor agonist,VDR,0.197668
+104097,ceramide,PC3,,,0.196656

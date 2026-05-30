@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+124723,retinol,HA1E,Retinoid receptor ligand,RXRA,0.366540
+105908,cytarabine,MCF7,Ribonucleotide reductase inhibitor,POLA1,0.337190
+110031,everolimus,HELA,MTOR inhibitor,MTOR,0.335425
+95789,SU-11274,SKBR3,Tyrosine kinase inhibitor,MET,0.318729
+126343,sertraline,HA1E,Serotonin receptor antagonist,SLC6A4,0.314172
+114609,ketoconazole,A549,Sterol demethylase inhibitor,CYP19A1,0.307244
+111428,forskolin,HA1E,Adenylyl cyclase activator,ADCY2,0.302768
+99975,amiodarone,PC3,Potassium channel blocker,KCNH2,0.302702
+111432,forskolin,HT29,Adenylyl cyclase activator,ADCY2,0.301137
+105149,clomifene,HT29,Estrogen receptor antagonist,ESR1,0.299166
+128415,tetracycline,HA1E,,,0.298579
+84080,HG-5-88-01,MCF7,,,0.295029
+114863,lapatinib,ASC,EGFR inhibitor,EGFR,0.285672
+100371,anandamide,SKB,Cannabinoid receptor agonist,CNR1,0.284861
+105902,cytarabine,HEPG2,Ribonucleotide reductase inhibitor,POLA1,0.278720
+108075,dorzolamide,MCF7,Carbonic anhydrase inhibitor,CA1,0.278276
+79936,BW-B70C,A375,Lipoxygenase inhibitor,ALOX5,0.278200
+119231,nemonapride,MCF7,Dopamine receptor antagonist,DRD2,0.277594
+131606,wortmannin,HA1E,PI3K inhibitor,PIK3CA,0.274268
+128816,thiothixene,A549,Dopamine receptor antagonist,HTR2A,0.271081
+80427,CG-930,MCF7,JNK inhibitor,MAPK8,0.270885
+121425,pemetrexed,MCF7,Thymidylate synthase inhibitor,DHFR,0.270861
+131287,vincamine,MCF7,,,0.269721
+82750,GDC-0068,PC3,Akt inhibitor,AKT3,0.269339
+131331,vinorelbine,VCAP,Tubulin inhibitor,TUBB,0.267349
+124686,resveratrol,MCF7,SIRT activator,SIRT1,0.266767
+131290,vincamine,PC3,,,0.265880
+118077,milnacipran,A549,Serotonin reuptake inhibitor,SLC6A2,0.265049
+109421,erythromycin,HCC515,NFKB pathway inhibitor,MLNR,0.262797
+101299,azithromycin,HA1E,,,0.262086
+114861,lapatinib,A375,EGFR inhibitor,EGFR,0.260307
+114616,ketoconazole,MCF7,Sterol demethylase inhibitor,CYP19A1,0.260221
+130084,triciribine,SKB,Akt inhibitor,AKT3,0.260178
+102851,budesonide,MCF7,Glucocorticoid receptor agonist,NR3C1,0.259658
+123053,pregnenolone,A375,,,0.258322
+111412,formoterol,HT29,Adrenergic receptor agonist,ADRB2,0.257654
+120951,ozagrel,PC3,Thromboxane synthase inhibitor,TBXAS1,0.257601
+116485,maprotiline,A375,Tricyclic antidepressant,SLC6A2,0.255115
+127599,tamoxifen,SKB,Estrogen receptor antagonist,ESR1,0.254538
+125151,ritonavir,A375,HIV protease inhibitor,CYP1A2,0.253722
+113979,ipratropium,VCAP,Acetylcholine receptor antagonist,CHRM1,0.252472
+101644,benazepril,PC3,Angiotensin converting enzyme inhibitor,ACE,0.252424
+93633,SANT-1,PC3,Smoothened receptor antagonist,SHH,0.251947
+83956,H-9,NPC,PKA inhibitor,PRKACA,0.251651
+630,AG-490,VCAP,JAK inhibitor,JAK2,0.251417
+127590,tamoxifen,MCF7,Estrogen receptor antagonist,ESR1,0.250892
+119686,nimodipine,HA1E,Calcium channel blocker,NR3C2,0.250444
+102196,bimatoprost,HA1E,Prostanoid receptor agonist,PTGFR,0.250315
+99764,amcinonide,VCAP,Glucocorticoid receptor agonist,NR3C1,0.250301
+85089,JW-7-24-1,MCF7,,,0.250272

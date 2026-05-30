@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+89770,OSI-027,MCF10A,MTOR inhibitor,MTOR,0.285378
+106856,dexamethasone,SKB,Glucocorticoid receptor agonist,NR3C1,0.281321
+82742,GDC-0068,MCF10A,Akt inhibitor,AKT3,0.275624
+124313,ranitidine,SKB,Histamine receptor antagonist,HRH2,0.264616
+110510,fenretinide,ASC,Apoptosis stimulant,RARA,0.260919
+102260,biperiden,SKB,Acetylcholine receptor antagonist,CHRM1,0.245750
+83503,GSK-690693,HT29,Akt inhibitor,AKT3,0.245678
+1951,AZD-7545,A549,,,0.243361
+83213,GSK-1059615,CD34,,,0.242434
+116863,mefloquine,MCF7,,,0.242207
+625,AG-490,NPC,JAK inhibitor,JAK2,0.241498
+128816,thiothixene,A549,Dopamine receptor antagonist,HTR2A,0.240107
+130969,varenicline,HT29,Acetylcholine receptor agonist,CHRNA4,0.238558
+110040,everolimus,MDAMB231,MTOR inhibitor,MTOR,0.234111
+126134,selegiline,HA1E,Monoamine oxidase inhibitor,MAOA,0.232840
+105849,cyclosporin-a,SKB,Calcineurin inhibitor,PPIA,0.229736
+118883,naloxone,ASC,Opioid receptor antagonist,OPRD1,0.227615
+112665,hesperidin,HA1E,,,0.227614
+126033,scopolamine,SKB,Acetylcholine receptor antagonist,CHRM1,0.227286
+112405,griseofulvin,A375,,,0.226467
+102735,bromocriptine,U2OS,Dopamine receptor agonist,ADRA2A,0.226073
+110645,finasteride,A375,5 alpha reductase inhibitor,SRD5A1,0.225726
+117918,mibefradil,PC3,T-type calcium channel blocker,CACNA1C,0.224317
+89762,OSI-027,BT20,MTOR inhibitor,MTOR,0.221053
+82735,GDC-0068,HELA,Akt inhibitor,AKT3,0.219938
+84072,HG-5-88-01,HA1E,,,0.216900
+102196,bimatoprost,HA1E,Prostanoid receptor agonist,PTGFR,0.216280
+91389,QL-X-138,A549,,,0.214472
+110031,everolimus,HELA,MTOR inhibitor,MTOR,0.213661
+123725,puromycin,HEPG2,,,0.213379
+101723,benzamil,HCC515,Sodium channel blocker,SCNN1A,0.212668
+114881,lapatinib,MCF7,EGFR inhibitor,EGFR,0.210985
+110940,flumetasone,ASC,Glucocorticoid receptor agonist,NR3C1,0.208753
+95830,SU-4312,MCF7,PDGFR inhibitor,KDR,0.208313
+123056,pregnenolone,HA1E,,,0.208125
+122855,potassium-canrenoate,SKB,Mineralocorticoid receptor antagonist,NR3C2,0.208057
+111678,gabazine,A549,GABA receptor antagonist,GABRA1,0.207797
+124400,reboxetine,HA1E,Adrenergic receptor antagonist,SLC6A2,0.207698
+103230,calcitriol,A549,Vitamin D receptor agonist,VDR,0.207399
+128819,thiothixene,HCC515,Dopamine receptor antagonist,HTR2A,0.207050
+82313,EX-527,NPC,SIRT inhibitor,SIRT1,0.207021
+105750,cyclopamine,SKB,Smoothened receptor antagonist,SMO,0.206448
+103177,caffeic-acid,HEPG2,Lipoxygenase inhibitor,ALOX5,0.205773
+99959,amiodarone,A549,Potassium channel blocker,KCNH2,0.205578
+104621,cimetidine,HCC515,Histamine receptor antagonist,HRH2,0.205514
+117726,methysergide,ASC,Serotonin receptor antagonist,HTR1B,0.205329
+82738,GDC-0068,HUVEC,Akt inhibitor,AKT3,0.204439
+101310,azithromycin,PC3,,,0.203708
+107472,diltiazem,SKB,Calcium channel blocker,CACNA1C,0.203404
+125626,rutin,ASC,Antioxidant,AKR1C3,0.200872

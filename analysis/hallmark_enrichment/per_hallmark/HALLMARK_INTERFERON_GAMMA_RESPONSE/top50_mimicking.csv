@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+127393,tacrolimus,THP1,Calcineurin inhibitor,FKBP1A,0.432268
+109957,etoposide,VCAP,Topoisomerase inhibitor,TOP2A,0.357765
+105896,cytarabine,A375,Ribonucleotide reductase inhibitor,POLA1,0.356241
+102652,brivanib,A375,FGFR inhibitor,FGFR1,0.349138
+97737,WZ-4-145,HA1E,,,0.330132
+105903,cytarabine,HT29,Ribonucleotide reductase inhibitor,POLA1,0.321505
+100198,amsacrine,HA1E,Topoisomerase inhibitor,TOP2A,0.320981
+101502,batimastat,HA1E,,,0.315920
+113291,idarubicin,A375,Topoisomerase inhibitor,TOP2A,0.312155
+102670,brivanib,PC3,FGFR inhibitor,FGFR1,0.306331
+130074,triciribine,HA1E,Akt inhibitor,AKT3,0.304496
+130183,trifluridine,PC3,Thymidylate synthase inhibitor,TYMS,0.297195
+101063,auranofin,MCF7,,,0.294813
+105897,cytarabine,A549,Ribonucleotide reductase inhibitor,POLA1,0.293793
+106381,daunorubicin,U2OS,RNA synthesis inhibitor,TOP2A,0.290917
+110803,floxuridine,VCAP,,,0.290651
+100361,anandamide,HT29,Cannabinoid receptor agonist,CNR1,0.290217
+131606,wortmannin,HA1E,PI3K inhibitor,PIK3CA,0.290190
+83503,GSK-690693,HT29,Akt inhibitor,AKT3,0.289781
+124678,resveratrol,HA1E,SIRT activator,SIRT1,0.289410
+101630,benazepril,A375,Angiotensin converting enzyme inhibitor,ACE,0.283987
+83684,GW-441756,HA1E,Growth factor receptor inhibitor,NTRK1,0.281127
+107918,dolasetron,HT29,Serotonin receptor antagonist,HTR3A,0.281077
+105733,cycloheximide,U2OS,Protein synthesis inhibitor,RPL3,0.280541
+102196,bimatoprost,HA1E,Prostanoid receptor agonist,PTGFR,0.280291
+129739,tramadol,HCC515,Opioid receptor agonist,OPRM1,0.276336
+105902,cytarabine,HEPG2,Ribonucleotide reductase inhibitor,POLA1,0.276335
+110859,fludarabine,PC3,DNA synthesis inhibitor,RRM1,0.275185
+100210,amsacrine,PC3,Topoisomerase inhibitor,TOP2A,0.273093
+128997,timolol,HA1E,Adrenergic receptor antagonist,ADRB1,0.272234
+109111,epirubicin,A549,Topoisomerase inhibitor,TOP2A,0.272028
+123721,puromycin,A549,,,0.271422
+129529,topotecan,HA1E,Topoisomerase inhibitor,TOP1,0.270463
+103333,camptothecin,A549,Topoisomerase inhibitor,TOP1,0.270239
+96410,TTNPB,SKB,Retinoid receptor agonist,RARB,0.269156
+105910,cytarabine,PC3,Ribonucleotide reductase inhibitor,POLA1,0.267671
+103341,camptothecin,HT29,Topoisomerase inhibitor,TOP1,0.266828
+127198,suloctidil,HT29,,,0.263024
+128590,thapsigargin,MCF7,ATPase inhibitor,ATP2A1,0.262534
+103335,camptothecin,HA1E,Topoisomerase inhibitor,TOP1,0.259879
+118244,mitomycin-c,VCAP,,,0.258695
+100057,amlodipine,MCF7,Calcium channel blocker,CACNA1C,0.258319
+83226,GSK-1059615,MCF10A,,,0.257138
+109955,etoposide,PC3,Topoisomerase inhibitor,TOP2A,0.256604
+128818,thiothixene,HA1E,Dopamine receptor antagonist,HTR2A,0.253448
+109940,etoposide,A375,Topoisomerase inhibitor,TOP2A,0.253132
+118885,naloxone,HCC515,Opioid receptor antagonist,OPRD1,0.252822
+126137,selegiline,HT29,Monoamine oxidase inhibitor,MAOA,0.251399
+131817,zaprinast,HA1E,Phosphodiesterase inhibitor,PDE5A,0.248662
+106382,daunorubicin,U937,RNA synthesis inhibitor,TOP2A,0.247356

@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+113292,idarubicin,A549,Topoisomerase inhibitor,TOP2A,-0.647994
+89984,PD-0325901,HT29,MEK inhibitor,MAP2K1,-0.642569
+103352,camptothecin,VCAP,Topoisomerase inhibitor,TOP1,-0.621903
+119559,niguldipine,HT29,Calcium channel blocker,ADRA1A,-0.617551
+127235,sunitinib,A375,KIT inhibitor,FLT1,-0.617524
+109951,etoposide,MCF7,Topoisomerase inhibitor,TOP2A,-0.616379
+114462,ivermectin,PC3,,,-0.616092
+116112,lovastatin,PC3,HMGCR inhibitor,HMGCR,-0.613297
+119037,naringenin,PC3,TRPV antagonist,CYP19A1,-0.608185
+123317,progesterone,MCF10A,Progesterone receptor agonist,CYP17A1,-0.606825
+89419,NVP-AUY922,MCF10A,HSP inhibitor,HSP90AA1,-0.606464
+130522,tunicamycin,NPC,GLCNAC phosphotransferase inhibitor,GNPTAB,-0.601139
+122734,pitavastatin,A375,HMGCR inhibitor,HMGCR,-0.599506
+1988,AZD-7762,A549,CHK inhibitor,CHEK1,-0.595604
+127245,sunitinib,HT29,KIT inhibitor,FLT1,-0.593008
+97746,WZ-4-145,MDAMB231,,,-0.592369
+99103,afatinib,SKBR3,EGFR inhibitor,EGFR,-0.592340
+94936,SN-38,MCF7,Topoisomerase inhibitor,TOP1,-0.590576
+1544,AT-CSC-07,PC3,,,-0.588611
+82892,GDC-0980,HT29,MTOR inhibitor,MTOR,-0.587152
+1036,AMG-9810,PC3,TRPV antagonist,TRPV1,-0.586175
+110145,ezetimibe,PC3,Cholesterol inhibitor,NPC1L1,-0.585598
+120122,nutlin-3,HEPG2,MDM inhibitor,MDM2,-0.577749
+131631,wortmannin,PC3,PI3K inhibitor,PIK3CA,-0.575641
+122103,piceatannol,NPC,,,-0.574544
+120636,ouabain,NPC,ATPase inhibitor,ATP1A1,-0.572425
+94075,SB-590885,A375,RAF inhibitor,BRAF,-0.570656
+111280,fluvastatin,PC3,HMGCR inhibitor,HMGCR,-0.569442
+117402,metergoline,HT29,Dopamine receptor agonist,HTR1A,-0.567618
+118003,mifepristone,A375,Progesterone receptor antagonist,NR3C1,-0.566302
+126545,sirolimus,NOMO1,MTOR inhibitor,FKBP1A,-0.562291
+110033,everolimus,HT29,MTOR inhibitor,MTOR,-0.560156
+101193,azacitidine,JURKAT,DNA methyltransferase inhibitor,DNMT1,-0.559905
+107345,digoxin,NPC,ATPase inhibitor,ATP1A1,-0.559302
+125027,rimcazole,HT29,Sigma receptor antagonist,SIGMAR1,-0.556415
+103332,camptothecin,A375,Topoisomerase inhibitor,TOP1,-0.555948
+129537,topotecan,NPC,Topoisomerase inhibitor,TOP1,-0.555434
+83709,GW-5074,A375,RAF inhibitor,RAF1,-0.553855
+105003,clobetasol,HT29,Glucocorticoid receptor agonist,NR3C1,-0.553758
+125031,rimcazole,MCF7,Sigma receptor antagonist,SIGMAR1,-0.552376
+106059,dactinomycin,VCAP,RNA polymerase inhibitor,POLR2A,-0.550434
+130352,triptolide,HT29,,,-0.550396
+126348,sertraline,HT29,Serotonin receptor antagonist,SLC6A4,-0.550190
+127252,sunitinib,NPC,KIT inhibitor,FLT1,-0.549287
+82896,GDC-0980,PC3,MTOR inhibitor,MTOR,-0.547856
+128815,thiothixene,A375,Dopamine receptor antagonist,HTR2A,-0.547495
+104091,ceramide,A375,,,-0.546907
+130994,vecuronium,A375,Acetylcholine receptor antagonist,CHRNA2,-0.544688
+111571,fulvestrant,MCF7,Estrogen receptor antagonist,ESR1,-0.544204
+109111,epirubicin,A549,Topoisomerase inhibitor,TOP2A,-0.543455

@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+128601,thapsigargin,VCAP,ATPase inhibitor,ATP2A1,0.359146
+79945,BW-B70C,PC3,Lipoxygenase inhibitor,ALOX5,0.323203
+107343,digoxin,MCF7,ATPase inhibitor,ATP1A1,0.309278
+111433,forskolin,MCF7,Adenylyl cyclase activator,ADCY2,0.306403
+107302,digitoxigenin,MCF7,,,0.306186
+82735,GDC-0068,HELA,Akt inhibitor,AKT3,0.300770
+108231,doxorubicin,MCF7,Topoisomerase inhibitor,TOP2A,0.291757
+124686,resveratrol,MCF7,SIRT activator,SIRT1,0.290270
+128816,thiothixene,A549,Dopamine receptor antagonist,HTR2A,0.284393
+106375,daunorubicin,MCF7,RNA synthesis inhibitor,TOP2A,0.281779
+120989,paclitaxel,MCF7,Tubulin inhibitor,TUBB,0.281563
+118885,naloxone,HCC515,Opioid receptor antagonist,OPRD1,0.280482
+79939,BW-B70C,HA1E,Lipoxygenase inhibitor,ALOX5,0.278940
+101299,azithromycin,HA1E,,,0.278562
+105897,cytarabine,A549,Ribonucleotide reductase inhibitor,POLA1,0.277697
+116818,medrysone,HT29,Glucocorticoid receptor agonist,NR3C1,0.277147
+103241,calcitriol,HT29,Vitamin D receptor agonist,VDR,0.276525
+126419,sildenafil,PC3,Phosphodiesterase inhibitor,PDE5A,0.275344
+112412,griseofulvin,MCF7,,,0.274209
+94936,SN-38,MCF7,Topoisomerase inhibitor,TOP1,0.271766
+130766,ursolic-acid,HA1E,STAT inhibitor,HSD11B1,0.269387
+102262,biperiden,VCAP,Acetylcholine receptor antagonist,CHRM1,0.268368
+120768,oxiconazole,HT29,,,0.268125
+90722,PIK-75,MCF7,PI3K inhibitor,PIK3CA,0.267963
+118209,mirtazapine,PC3,Serotonin receptor antagonist,ADRA2A,0.265782
+95830,SU-4312,MCF7,PDGFR inhibitor,KDR,0.265746
+110030,everolimus,HEK293,MTOR inhibitor,MTOR,0.265709
+115262,levcromakalim,MCF7,Potassium channel activator,KCNJ8,0.264466
+108157,doxepin,HA1E,Histamine receptor antagonist,HRH1,0.261825
+128352,testosterone,HCC515,,,0.261663
+110027,everolimus,HA1E,MTOR inhibitor,MTOR,0.261338
+109574,estradiol,U2OS,Estrogen receptor agonist,ESR1,0.260401
+109121,epirubicin,MCF7,Topoisomerase inhibitor,TOP2A,0.259635
+113300,idarubicin,MCF7,Topoisomerase inhibitor,TOP2A,0.258715
+120997,paclitaxel,PC3,Tubulin inhibitor,TUBB,0.258463
+125923,saracatinib,A549,Src inhibitor,ABL1,0.258436
+2001,AZD-7762,JURKAT,CHK inhibitor,CHEK1,0.257273
+110105,exemestane,MCF7,Aromatase inhibitor,CYP19A1,0.256913
+106056,dactinomycin,MCF7,RNA polymerase inhibitor,POLR2A,0.255218
+126020,scopolamine,HCC515,Acetylcholine receptor antagonist,CHRM1,0.254660
+102730,bromocriptine,NPC,Dopamine receptor agonist,ADRA2A,0.254470
+110856,fludarabine,MCF7,DNA synthesis inhibitor,RRM1,0.253037
+101193,azacitidine,JURKAT,DNA methyltransferase inhibitor,DNMT1,0.252947
+125932,saracatinib,HEK293,Src inhibitor,ABL1,0.252695
+93728,SB-203580,MCF7,P38 MAPK inhibitor,MAPK14,0.252307
+95827,SU-4312,HCC515,PDGFR inhibitor,KDR,0.246755
+105902,cytarabine,HEPG2,Ribonucleotide reductase inhibitor,POLA1,0.245133
+118904,naltrexone,HT29,Opioid receptor antagonist,OPRD1,0.245079
+89880,PAC-1,PC3,Caspase activator,CASP3,0.244944
+117912,mibefradil,HCC515,T-type calcium channel blocker,CACNA1C,0.244583

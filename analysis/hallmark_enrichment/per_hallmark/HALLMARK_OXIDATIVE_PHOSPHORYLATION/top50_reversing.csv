@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+107358,dihydrexidine,HT29,Dopamine receptor agonist,DRD1,-0.523265
+119037,naringenin,PC3,TRPV antagonist,CYP19A1,-0.511949
+116456,manumycin-a,HCT116,NFKB pathway inhibitor,FNTA,-0.506758
+120638,ouabain,PHH,ATPase inhibitor,ATP1A1,-0.501757
+84060,HG-5-113-01,MCF7,,,-0.500366
+110145,ezetimibe,PC3,Cholesterol inhibitor,NPC1L1,-0.489468
+103264,calmidazolium,MCF7,Calmodulin antagonist,ATP2B1,-0.489176
+93757,SB-205607,HT29,Delta 1 opioid receptor agonist,OPRD1,-0.484520
+119558,niguldipine,HEPG2,Calcium channel blocker,ADRA1A,-0.478826
+105811,cyclopiazonic-acid,A549,ATPase inhibitor,ATP2A1,-0.469574
+123734,puromycin,VCAP,,,-0.465247
+99649,alvespimycin,VCAP,HSP inhibitor,HSP90AA1,-0.465190
+105158,clomifene,PHH,Estrogen receptor antagonist,ESR1,-0.464257
+113292,idarubicin,A549,Topoisomerase inhibitor,TOP2A,-0.461345
+106364,daunorubicin,ASC,RNA synthesis inhibitor,TOP2A,-0.459244
+131262,vinblastine,VCAP,Tubulin inhibitor,TUBB,-0.458315
+83218,GSK-1059615,HELA,,,-0.454783
+83217,GSK-1059615,HEK293,,,-0.453919
+104091,ceramide,A375,,,-0.450261
+131583,withaferin-a,HT29,IKK inhibitor,NAMPT,-0.448293
+126517,sirolimus,H1299,MTOR inhibitor,FKBP1A,-0.446201
+119575,niguldipine,VCAP,Calcium channel blocker,ADRA1A,-0.441752
+128902,tibolone,A375,Androgen receptor agonist,ESR1,-0.441480
+108217,doxorubicin,ASC,Topoisomerase inhibitor,TOP2A,-0.441025
+89656,OBAA,PC3,Phospholipase inhibitor,PLA2G1B,-0.439639
+98396,ZD-7114,HT29,Adrenergic receptor agonist,ADRB3,-0.438430
+102244,biperiden,ASC,Acetylcholine receptor antagonist,CHRM1,-0.438316
+1036,AMG-9810,PC3,TRPV antagonist,TRPV1,-0.437091
+85089,JW-7-24-1,MCF7,,,-0.435936
+112505,guggulsterone,ASC,IKK inhibitor,NR3C1,-0.433835
+121295,parthenolide,NCIH508,,,-0.433181
+99103,afatinib,SKBR3,EGFR inhibitor,EGFR,-0.432460
+131575,withaferin-a,A549,IKK inhibitor,NAMPT,-0.432354
+118003,mifepristone,A375,Progesterone receptor antagonist,NR3C1,-0.431280
+127738,targinine,HT29,,,-0.431000
+96554,U-0126,HA1E,MEK inhibitor,MAP2K1,-0.429406
+104028,celastrol,PC3,,,-0.427763
+120639,ouabain,SKB,ATPase inhibitor,ATP1A1,-0.427439
+130775,ursolic-acid,MCF7,STAT inhibitor,HSD11B1,-0.424989
+103457,capsaicin,A375,TRPV agonist,TRPV1,-0.423192
+107347,digoxin,PHH,ATPase inhibitor,ATP1A1,-0.422296
+110032,everolimus,HEPG2,MTOR inhibitor,MTOR,-0.421740
+102456,bortezomib,A375,Proteasome inhibitor,PSMB1,-0.421363
+114767,lacidipine,HA1E,Calcium channel blocker,CACNA1C,-0.421331
+104998,clobetasol,ASC,Glucocorticoid receptor agonist,NR3C1,-0.419351
+104096,ceramide,MCF7,,,-0.419165
+120973,paclitaxel,ASC,Tubulin inhibitor,TUBB,-0.417952
+104015,celastrol,A549,,,-0.416706
+110970,flunisolide,A375,Cytochrome P450 inhibitor,NR3C1,-0.416687
+126554,sirolimus,SKB,MTOR inhibitor,FKBP1A,-0.414699

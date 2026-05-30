@@ -1,0 +1,18 @@
+# Core pipeline
+numpy
+pandas
+scipy
+pyarrow
+duckdb
+cmapPy
+
+# Analysis & visualization
+matplotlib
+networkx
+
+# API server
+fastapi
+uvicorn
+
+# MCP server
+mcp

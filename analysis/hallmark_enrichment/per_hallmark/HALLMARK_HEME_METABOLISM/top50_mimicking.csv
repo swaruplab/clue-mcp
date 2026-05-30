@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+95833,SU-4312,PC3,PDGFR inhibitor,KDR,0.309070
+102559,brefeldin-a,A549,,,0.306684
+128904,tibolone,HA1E,Androgen receptor agonist,ESR1,0.290654
+128422,tetracycline,PC3,,,0.290362
+103174,caffeic-acid,HA1E,Lipoxygenase inhibitor,ALOX5,0.283889
+126341,sertraline,A549,Serotonin receptor antagonist,SLC6A4,0.283584
+112373,granisetron,HA1E,Serotonin receptor antagonist,HTR3A,0.283559
+88888,NCS-382,A375,GABA receptor antagonist,GABBR1,0.281489
+131166,verteporfin,MCF7,,,0.281023
+95786,SU-11274,PC3,Tyrosine kinase inhibitor,MET,0.273231
+82698,GBR-12783,SKB,,,0.272993
+114939,lasalocid,PC3,,,0.271642
+629,AG-490,U2OS,JAK inhibitor,JAK2,0.270386
+102570,brefeldin-a,MCF7,,,0.268994
+102574,brefeldin-a,NEU,,,0.268816
+126469,simvastatin,HCC515,HMGCR inhibitor,HMGCR,0.266666
+109574,estradiol,U2OS,Estrogen receptor agonist,ESR1,0.262334
+84058,HG-5-113-01,HT29,,,0.262169
+89404,NVP-AEW541,MCF7,IGF-1 inhibitor,IGF1R,0.261178
+93754,SB-205607,HA1E,Delta 1 opioid receptor agonist,OPRD1,0.259759
+96400,TTNPB,HEPG2,Retinoid receptor agonist,RARB,0.257290
+103478,capsaicin,PC3,TRPV agonist,TRPV1,0.255175
+119744,nisoldipine,PC3,Calcium channel blocker,CACNA1C,0.251271
+107918,dolasetron,HT29,Serotonin receptor antagonist,HTR3A,0.249449
+100610,apigenin,A549,,,0.245450
+102558,brefeldin-a,A375,,,0.244513
+111903,geldanamycin,MCF7,HSP inhibitor,HSP90AA1,0.242761
+116483,manumycin-a,VCAP,NFKB pathway inhibitor,FNTA,0.239731
+103259,calmidazolium,A549,Calmodulin antagonist,ATP2B1,0.236584
+128723,thioperamide,ASC,Histamine receptor antagonist,HRH3,0.236410
+117295,mestranol,HA1E,Estrogen receptor agonist,ESR1,0.235921
+99090,afatinib,MCF10A,EGFR inhibitor,EGFR,0.235159
+117411,metergoline,VCAP,Dopamine receptor agonist,HTR1A,0.234297
+127240,sunitinib,HCC515,KIT inhibitor,FLT1,0.233490
+102854,budesonide,PC3,Glucocorticoid receptor agonist,NR3C1,0.233275
+91421,QL-XI-92,HT29,,,0.232795
+109630,estriol,SKB,Estrogen receptor agonist,ESR1,0.231698
+114928,lasalocid,HCC515,,,0.231045
+97734,WZ-4-145,A549,,,0.230901
+99594,altrenogest,PC3,Progestogen hormone,PGR,0.230058
+83673,GW-4064,HT29,FXR agonist,NR1H4,0.229758
+118142,minoxidil,HA1E,Vasodilator,ABCC9,0.229495
+125949,saracatinib,NPC,Src inhibitor,ABL1,0.229034
+102194,bimatoprost,A375,Prostanoid receptor agonist,PTGFR,0.228908
+120632,ouabain,HEPG2,ATPase inhibitor,ATP1A1,0.227506
+131609,wortmannin,HCC515,PI3K inhibitor,PIK3CA,0.226859
+2507,BI-2536,MCF7,PLK inhibitor,PLK1,0.226672
+119214,nelfinavir,PC3,HIV protease inhibitor,CYP1A2,0.224208
+97977,XMD-16144,MDAMB231,,,0.223870
+97737,WZ-4-145,HA1E,,,0.223530

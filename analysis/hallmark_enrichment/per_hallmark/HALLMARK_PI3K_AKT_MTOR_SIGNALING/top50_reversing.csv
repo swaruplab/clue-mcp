@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+106053,dactinomycin,HCC515,RNA polymerase inhibitor,POLR2A,-0.255500
+82896,GDC-0980,PC3,MTOR inhibitor,MTOR,-0.254848
+126408,sildenafil,HEPG2,Phosphodiesterase inhibitor,PDE5A,-0.252317
+127653,tanespimycin,A375,HSP inhibitor,HSP90AA1,-0.247810
+101193,azacitidine,JURKAT,DNA methyltransferase inhibitor,DNMT1,-0.246051
+106362,daunorubicin,A375,RNA synthesis inhibitor,TOP2A,-0.245729
+84060,HG-5-113-01,MCF7,,,-0.242504
+103348,camptothecin,PC3,Topoisomerase inhibitor,TOP1,-0.242311
+103336,camptothecin,HCC515,Topoisomerase inhibitor,TOP1,-0.239568
+131281,vincamine,HA1E,,,-0.239342
+83227,GSK-1059615,MCF7,,,-0.238090
+97751,WZ-4-145,SKBR3,,,-0.237961
+115156,lestaurtinib,HA1E,JAK inhibitor,FLT3,-0.236504
+1988,AZD-7762,A549,CHK inhibitor,CHEK1,-0.234200
+89767,OSI-027,HS578T,MTOR inhibitor,MTOR,-0.234197
+126520,sirolimus,HCC515,MTOR inhibitor,FKBP1A,-0.233056
+89774,OSI-027,PC3,MTOR inhibitor,MTOR,-0.232242
+128115,temsirolimus,MCF7,MTOR inhibitor,MTOR,-0.231615
+103894,cefixime,A375,,,-0.231453
+119027,naringenin,A549,TRPV antagonist,CYP19A1,-0.231313
+93757,SB-205607,HT29,Delta 1 opioid receptor agonist,OPRD1,-0.229215
+129527,topotecan,A549,Topoisomerase inhibitor,TOP1,-0.229153
+102246,biperiden,HCC515,Acetylcholine receptor antagonist,CHRM1,-0.228832
+131285,vincamine,HT29,,,-0.227246
+130480,tubaic-acid,HCC515,,,-0.226642
+83219,GSK-1059615,HEPG2,,,-0.225816
+109524,esculin,PC3,,,-0.224768
+89984,PD-0325901,HT29,MEK inhibitor,MAP2K1,-0.224611
+80426,CG-930,MCF10A,JNK inhibitor,MAPK8,-0.223749
+127684,tanespimycin,NPC,HSP inhibitor,HSP90AA1,-0.223265
+115154,lestaurtinib,A549,JAK inhibitor,FLT3,-0.223058
+119079,nateglinide,VCAP,Insulin secretagogue,KCNJ11,-0.222922
+103332,camptothecin,A375,Topoisomerase inhibitor,TOP1,-0.222177
+100871,ascorbic-acid,PC3,Antioxidant,SLC23A1,-0.221288
+126731,sorafenib,HT29,KIT inhibitor,FGFR1,-0.220717
+106367,daunorubicin,HCC515,RNA synthesis inhibitor,TOP2A,-0.219946
+131539,warfarin,A375,Vitamin K antagonist,VKORC1,-0.219640
+106122,danazol,HT29,Estrogen receptor antagonist,ESR1,-0.218955
+106130,danazol,PC3,Estrogen receptor antagonist,ESR1,-0.218829
+108221,doxorubicin,HCC515,Topoisomerase inhibitor,TOP2A,-0.218234
+131580,withaferin-a,HEPG2,IKK inhibitor,NAMPT,-0.218177
+126925,staurosporine,HT29,PKC inhibitor,CDK2,-0.218169
+115633,linsitinib,HT29,IGF-1 inhibitor,IGF1R,-0.217542
+104738,cinnarizine,U2OS,Calcium channel blocker,HRH1,-0.217302
+127252,sunitinib,NPC,KIT inhibitor,FLT1,-0.216963
+110857,fludarabine,NEU,DNA synthesis inhibitor,RRM1,-0.216908
+90002,PD-0325901,VCAP,MEK inhibitor,MAP2K1,-0.216758
+83216,GSK-1059615,HCC515,,,-0.216408
+125554,roxithromycin,PC3,,,-0.216377
+126919,staurosporine,A375,PKC inhibitor,CDK2,-0.216264

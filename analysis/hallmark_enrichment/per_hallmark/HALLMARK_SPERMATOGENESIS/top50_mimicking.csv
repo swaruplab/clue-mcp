@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+83681,GW-441756,A375,Growth factor receptor inhibitor,NTRK1,0.316823
+101019,atovaquone,PC3,,,0.306585
+105899,cytarabine,HCC515,Ribonucleotide reductase inhibitor,POLA1,0.289693
+108740,emetine,U2OS,Protein synthesis inhibitor,RPS2,0.286773
+108724,emetine,HA1E,Protein synthesis inhibitor,RPS2,0.283857
+1805,AZD-1480,MDAMB231,JAK inhibitor,JAK1,0.274378
+131000,vecuronium,HT29,Acetylcholine receptor antagonist,CHRNA2,0.268740
+123727,puromycin,MCF7,,,0.267147
+120997,paclitaxel,PC3,Tubulin inhibitor,TUBB,0.266782
+120972,paclitaxel,A549,Tubulin inhibitor,TUBB,0.265293
+117685,methylprednisolone,A375,Glucocorticoid receptor agonist,NR3C1,0.260182
+108725,emetine,HCC515,Protein synthesis inhibitor,RPS2,0.257790
+118019,mifepristone,VCAP,Progesterone receptor antagonist,NR3C1,0.257254
+127825,taxifolin,A375,Opioid receptor antagonist,ADIPOR2,0.255916
+91441,QL-XII-47,HA1E,,,0.255164
+124821,ribavirin,A549,Antiviral,IMPDH1,0.254202
+120977,paclitaxel,HCC515,Tubulin inhibitor,TUBB,0.254132
+129736,tramadol,A549,Opioid receptor agonist,OPRM1,0.249608
+125922,saracatinib,A375,Src inhibitor,ABL1,0.247786
+97979,XMD-16144,SKBR3,,,0.245884
+109634,estrone,A375,Estrogen receptor agonist,ESR1,0.242949
+109246,equilin,U2OS,Estrogen receptor agonist,HSD17B1,0.242023
+117296,mestranol,HCC515,Estrogen receptor agonist,ESR1,0.241721
+105868,cymarin,VCAP,ATPase inhibitor,ATP1A1,0.241548
+110861,fludarabine,SKB,DNA synthesis inhibitor,RRM1,0.241253
+108720,emetine,A549,Protein synthesis inhibitor,RPS2,0.240600
+131250,vinblastine,ASC,Tubulin inhibitor,TUBB,0.240095
+89849,P-1075,VCAP,ATP channel activator,KCNJ11,0.238745
+109647,estrone,MCF7,Estrogen receptor agonist,ESR1,0.238167
+111892,geldanamycin,HA1E,HSP inhibitor,HSP90AA1,0.237908
+1994,AZD-7762,HEK293,CHK inhibitor,CHEK1,0.235199
+98740,acarbose,HEPG2,Glucosidase inhibitor,GAA,0.231389
+109943,etoposide,HCC515,Topoisomerase inhibitor,TOP2A,0.228713
+124827,ribavirin,HT29,Antiviral,IMPDH1,0.228418
+91388,QL-X-138,A375,,,0.226331
+125142,ritodrine,HT29,Adrenergic receptor agonist,ADRB2,0.226146
+89971,PD-0325901,A375,MEK inhibitor,MAP2K1,0.226098
+131190,vicriviroc,HA1E,CCK receptor antagonist,CCR5,0.225778
+105158,clomifene,PHH,Estrogen receptor antagonist,ESR1,0.225723
+83230,GSK-1059615,NPC,,,0.225100
+108737,emetine,PHH,Protein synthesis inhibitor,RPS2,0.223197
+118036,miglitol,A375,Glucosidase inhibitor,GAA,0.222809
+2498,BI-2536,HELA,PLK inhibitor,PLK1,0.222618
+97976,XMD-16144,MCF7,,,0.220918
+120474,orciprenaline,PC3,Adrenergic receptor agonist,ADRB2,0.220742
+103806,catechin,HCC515,,,0.219783
+118751,nadolol,ASC,Adrenergic receptor antagonist,ADRB1,0.219174
+112859,huperzine-a,A375,Glutamate receptor antagonist,ACHE,0.218438
+110863,fludarabine,VCAP,DNA synthesis inhibitor,RRM1,0.217788
+91449,QL-XII-47,MCF7,,,0.217699

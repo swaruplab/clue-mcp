@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+118892,naloxone,PHH,Opioid receptor antagonist,OPRD1,0.432812
+124676,resveratrol,ASC,SIRT activator,SIRT1,0.431559
+111440,forskolin,PC3,Adenylyl cyclase activator,ADCY2,0.429320
+2486,BH3I-1,VCAP,BCL inhibitor,BCL2L1,0.424535
+129810,tranilast,VCAP,,,0.412456
+120467,orantinib,VCAP,FGFR inhibitor,FGFR1,0.410497
+96279,THZ-2-98-01,MCF10A,,,0.409703
+109916,etomidate,VCAP,GABA receptor modulator,GABRA1,0.403566
+118044,miglitol,MCF7,Glucosidase inhibitor,GAA,0.400771
+105750,cyclopamine,SKB,Smoothened receptor antagonist,SMO,0.400715
+116985,memantine,HT29,Glutamate receptor antagonist,GRIN1,0.400577
+114900,lapatinib,VCAP,EGFR inhibitor,EGFR,0.400350
+103292,calpeptin,VCAP,,,0.399466
+112943,hydrocortisone,PC3,Glucocorticoid receptor agonist,NR3C1,0.396071
+105732,cycloheximide,SKB,Protein synthesis inhibitor,RPL3,0.393861
+110940,flumetasone,ASC,Glucocorticoid receptor agonist,NR3C1,0.393670
+109669,estropipate,VCAP,,,0.388438
+102243,biperiden,A549,Acetylcholine receptor antagonist,CHRM1,0.388174
+129829,tranylcypromine,MCF7,Monoamine oxidase inhibitor,KDM1A,0.388109
+118883,naloxone,ASC,Opioid receptor antagonist,OPRD1,0.386861
+130336,triprolidine,HT29,Histamine receptor antagonist,HRH1,0.385294
+118476,montelukast,VCAP,Leukotriene receptor antagonist,CYSLTR1,0.383194
+131457,voriconazole,PC3,Cytochrome P450 inhibitor,CYP2C19,0.382541
+116813,medrysone,HA1E,Glucocorticoid receptor agonist,NR3C1,0.382281
+126299,sericetin,VCAP,,,0.381105
+101011,atovaquone,A375,,,0.379114
+131348,vinpocetine,PHH,Sodium channel blocker,PDE1A,0.376992
+95789,SU-11274,SKBR3,Tyrosine kinase inhibitor,MET,0.374198
+113182,ibrutinib,YAPC,BTK inhibitor,BTK,0.370499
+122391,pinacidil,SKB,ATP channel activator,ABCC9,0.369213
+107472,diltiazem,SKB,Calcium channel blocker,CACNA1C,0.368284
+110645,finasteride,A375,5 alpha reductase inhibitor,SRD5A1,0.365657
+104619,cimetidine,ASC,Histamine receptor antagonist,HRH2,0.365007
+119855,nizatidine,MCF7,Histamine receptor antagonist,HRH2,0.363077
+105731,cycloheximide,PHH,Protein synthesis inhibitor,RPL3,0.362590
+131453,voriconazole,MCF7,Cytochrome P450 inhibitor,CYP2C19,0.359549
+111415,formoterol,MCF7,Adrenergic receptor agonist,ADRB2,0.354520
+118996,naproxen,VCAP,Cyclooxygenase inhibitor,PTGS1,0.353481
+101720,benzamil,A549,Sodium channel blocker,SCNN1A,0.352816
+112472,guanadrel,MCF7,Adrenergic inhibitor,SLC6A2,0.352155
+112524,halcinonide,A549,Glucocorticoid receptor agonist,NR3C1,0.351716
+124679,resveratrol,HCC515,SIRT activator,SIRT1,0.351263
+127663,tanespimycin,HCT116,HSP inhibitor,HSP90AA1,0.350963
+112512,guggulsterone,NPC,IKK inhibitor,NR3C1,0.350918
+118902,naltrexone,HCC515,Opioid receptor antagonist,OPRD1,0.350873
+79948,BW-B70C,VCAP,Lipoxygenase inhibitor,ALOX5,0.350220
+102004,betamethasone,VCAP,Glucocorticoid receptor agonist,NR3C1,0.349742
+128389,tetrabenazine,NEU,Vesicular monoamine transporter inhibitor,SLC18A2,0.349604
+101502,batimastat,HA1E,,,0.349165
+111110,fluphenazine,VCAP,Dopamine receptor antagonist,DRD1,0.349072

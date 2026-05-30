@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+91392,QL-X-138,HA1E,,,-0.265389
+131602,wortmannin,ASC,PI3K inhibitor,PIK3CA,-0.265003
+91404,QL-X-138,PC3,,,-0.264421
+108720,emetine,A549,Protein synthesis inhibitor,RPS2,-0.262181
+103348,camptothecin,PC3,Topoisomerase inhibitor,TOP1,-0.254369
+129739,tramadol,HCC515,Opioid receptor agonist,OPRM1,-0.252053
+83233,GSK-1059615,SHSY5Y,,,-0.249983
+84060,HG-5-113-01,MCF7,,,-0.247361
+107835,docetaxel,A549,Tubulin inhibitor,TUBB,-0.245027
+102244,biperiden,ASC,Acetylcholine receptor antagonist,CHRM1,-0.242683
+108737,emetine,PHH,Protein synthesis inhibitor,RPS2,-0.242544
+108719,emetine,A375,Protein synthesis inhibitor,RPS2,-0.242488
+131580,withaferin-a,HEPG2,IKK inhibitor,NAMPT,-0.241219
+123722,puromycin,ASC,,,-0.241202
+91449,QL-XII-47,MCF7,,,-0.237974
+121295,parthenolide,NCIH508,,,-0.237416
+348,A-443654,A375,,,-0.234453
+83211,GSK-1059615,ASC,,,-0.232727
+118914,naltriben,A375,Opioid receptor antagonist,OPRD1,-0.232715
+107347,digoxin,PHH,ATPase inhibitor,ATP1A1,-0.232162
+102461,bortezomib,HA1E,Proteasome inhibitor,PSMB1,-0.231156
+120972,paclitaxel,A549,Tubulin inhibitor,TUBB,-0.229753
+619,AG-490,ASC,JAK inhibitor,JAK2,-0.229552
+105828,cyclosporin-a,ASC,Calcineurin inhibitor,PPIA,-0.228002
+115156,lestaurtinib,HA1E,JAK inhibitor,FLT3,-0.227441
+98396,ZD-7114,HT29,Adrenergic receptor agonist,ADRB3,-0.227106
+120636,ouabain,NPC,ATPase inhibitor,ATP1A1,-0.226117
+114359,isradipine,NPC,Calcium channel blocker,CACNA1C,-0.225882
+120638,ouabain,PHH,ATPase inhibitor,ATP1A1,-0.225760
+95825,SU-4312,ASC,PDGFR inhibitor,KDR,-0.223355
+93752,SB-205607,A549,Delta 1 opioid receptor agonist,OPRD1,-0.222663
+128361,testosterone,PC3,,,-0.221078
+104513,cilastatin,A549,Dehydropeptidase inhibitor,DPEP1,-0.219944
+82888,GDC-0980,HA1E,MTOR inhibitor,MTOR,-0.219296
+102466,bortezomib,HEK293,Proteasome inhibitor,PSMB1,-0.219191
+104015,celastrol,A549,,,-0.218559
+371,A-443654,PC3,,,-0.218518
+108736,emetine,PC3,Protein synthesis inhibitor,RPS2,-0.216064
+353,A-443654,HA1E,,,-0.215271
+94924,SN-38,A375,Topoisomerase inhibitor,TOP1,-0.214770
+110145,ezetimibe,PC3,Cholesterol inhibitor,NPC1L1,-0.214716
+111094,fluphenazine,HCC515,Dopamine receptor antagonist,DRD1,-0.214099
+120630,ouabain,HA1E,ATPase inhibitor,ATP1A1,-0.213937
+116447,manumycin-a,A375,NFKB pathway inhibitor,FNTA,-0.213466
+119068,nateglinide,HT29,Insulin secretagogue,KCNJ11,-0.213395
+103870,cefdinir,A375,,,-0.212948
+119988,noretynodrel,A549,Progestogen hormone,PGR,-0.212677
+120629,ouabain,ASC,ATPase inhibitor,ATP1A1,-0.211627
+84091,HG-6-64-01,BT20,,,-0.209766
+111407,formoterol,HA1E,Adrenergic receptor agonist,ADRB2,-0.209664

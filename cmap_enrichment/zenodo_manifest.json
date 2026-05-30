@@ -1,0 +1,59 @@
+{
+  "_comment": "Source of truth for the Zenodo deposit. Fill record_id and the per-archive sha256 values AFTER depositing (see ZENODO_UPLOAD.md). scripts/download_data.sh reads this file; ZENODO_RECORD env var overrides record_id.",
+  "doi": "10.5281/zenodo.20465969",
+  "record_id": "20465969",
+  "version": "2020.1",
+  "base_url": "https://zenodo.org/records",
+  "archives": {
+    "base": {
+      "file": "clue_mcp_base.tar.gz",
+      "sha256": "8f6ad43c183bc8a1f4afbcd945d160c9605ef29b51f1d9198c88fe5a837ee4bc",
+      "extracts": [
+        "gene_names.txt",
+        "cmap.duckdb"
+      ],
+      "required": true,
+      "approx_size": "9 MB"
+    },
+    "drug": {
+      "file": "clue_mcp_drug.tar.gz",
+      "sha256": "de6f0ebb04f75cd958d0049d6f58fe0a0e0cd25623eff7b8bfb72ea907031b03",
+      "extracts": [
+        "drug/zscore_matrix.npy",
+        "drug/rank_matrix.npy",
+        "drug/metadata.parquet"
+      ],
+      "pert_types": [
+        "trt_cp"
+      ],
+      "approx_size": "9 GB"
+    },
+    "knockdown": {
+      "file": "clue_mcp_knockdown.tar.gz",
+      "sha256": "15d76a729e55333e92a1c1ae49969fd403adb175b3419ef18b1cc9358c946daa",
+      "extracts": [
+        "knockdown/zscore_matrix.npy",
+        "knockdown/rank_matrix.npy",
+        "knockdown/metadata.parquet"
+      ],
+      "pert_types": [
+        "trt_sh",
+        "trt_xpr"
+      ],
+      "approx_size": "5.6 GB"
+    },
+    "overexpression": {
+      "file": "clue_mcp_overexpression.tar.gz",
+      "sha256": "0cea870a284006dfa23fffbf48d78ccc0a6a73d3b089b52af7ca6f423a1980d1",
+      "extracts": [
+        "overexpression/zscore_matrix.npy",
+        "overexpression/rank_matrix.npy",
+        "overexpression/metadata.parquet"
+      ],
+      "pert_types": [
+        "trt_oe"
+      ],
+      "approx_size": "1.2 GB"
+    }
+  }
+}

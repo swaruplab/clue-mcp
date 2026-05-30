@@ -1,0 +1,6 @@
+rank,drug,mean_median_score,n_sig_hallmarks,composite_score,moa,target
+1,staurosporine,-0.11793351918458939,18,-0.2979335191845894,PKC inhibitor,CDK2
+2,A-443654,-0.1247398853302002,12,-0.2447398853302002,,
+3,dactinomycin,-0.09314820170402527,14,-0.23314820170402528,RNA polymerase inhibitor,POLR2A
+4,emetine,-0.10696510225534439,11,-0.21696510225534438,Protein synthesis inhibitor,RPS2
+5,PIK-75,-0.09854936599731445,11,-0.20854936599731444,PI3K inhibitor,PIK3CA

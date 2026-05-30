@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+98267,YM-155,HEPG2,Survivin inhibitor,BIRC5,0.397519
+120297,oligomycin-a,HEPG2,ATPase inhibitor,ATP5F1A,0.380160
+130076,triciribine,HEPG2,Akt inhibitor,AKT3,0.371437
+98268,YM-155,HT29,Survivin inhibitor,BIRC5,0.364617
+131253,vinblastine,HEPG2,Tubulin inhibitor,TUBB,0.348350
+83503,GSK-690693,HT29,Akt inhibitor,AKT3,0.347314
+110510,fenretinide,ASC,Apoptosis stimulant,RARA,0.346141
+131323,vinorelbine,HT29,Tubulin inhibitor,TUBB,0.342123
+105725,cycloheximide,HT29,Protein synthesis inhibitor,RPL3,0.340719
+120632,ouabain,HEPG2,ATPase inhibitor,ATP1A1,0.338910
+83953,H-9,HT29,PKA inhibitor,PRKACA,0.327691
+112001,genistein,NPC,Tyrosine kinase inhibitor,CFTR,0.325095
+89762,OSI-027,BT20,MTOR inhibitor,MTOR,0.323036
+103225,calcipotriol,MCF7,Vitamin D receptor agonist,VDR,0.321020
+109142,epitiostanol,PC3,Androgen receptor agonist,AR,0.317863
+82742,GDC-0068,MCF10A,Akt inhibitor,AKT3,0.317551
+107340,digoxin,HT29,ATPase inhibitor,ATP1A1,0.315866
+120633,ouabain,HT29,ATPase inhibitor,ATP1A1,0.310800
+107343,digoxin,MCF7,ATPase inhibitor,ATP1A1,0.307830
+125161,rivaroxaban,A375,Coagulation factor inhibitor,F10,0.297328
+107339,digoxin,HEPG2,ATPase inhibitor,ATP1A1,0.296966
+130074,triciribine,HA1E,Akt inhibitor,AKT3,0.295999
+126134,selegiline,HA1E,Monoamine oxidase inhibitor,MAOA,0.295687
+110508,fenretinide,A375,Apoptosis stimulant,RARA,0.292705
+82738,GDC-0068,HUVEC,Akt inhibitor,AKT3,0.291482
+131322,vinorelbine,HEPG2,Tubulin inhibitor,TUBB,0.290964
+110040,everolimus,MDAMB231,MTOR inhibitor,MTOR,0.289285
+115627,linsitinib,HCC515,IGF-1 inhibitor,IGF1R,0.288930
+125505,rottlerin,HEPG2,,,0.288649
+101191,azacitidine,HT29,DNA methyltransferase inhibitor,DNMT1,0.288368
+100553,antimycin-a,HT29,ATP synthase inhibitor,CYCS,0.287563
+105431,cortisone-acetate,HA1E,Glucocorticoid receptor agonist,NR3C1,0.286746
+124730,retinol,PC3,Retinoid receptor ligand,RXRA,0.286533
+131814,zaprinast,A375,Phosphodiesterase inhibitor,PDE5A,0.286197
+110024,everolimus,ASC,MTOR inhibitor,MTOR,0.285410
+89770,OSI-027,MCF10A,MTOR inhibitor,MTOR,0.283857
+111998,genistein,HT29,Tyrosine kinase inhibitor,CFTR,0.282016
+131346,vinpocetine,NPC,Sodium channel blocker,PDE1A,0.281841
+111678,gabazine,A549,GABA receptor antagonist,GABRA1,0.279177
+89231,NSC-632839,VCAP,Ubiquitin specific protease inhibitor,SENP2,0.278035
+121312,parthenolide,VCAP,,,0.276862
+127833,taxifolin,VCAP,Opioid receptor antagonist,ADIPOR2,0.275302
+106856,dexamethasone,SKB,Glucocorticoid receptor agonist,NR3C1,0.273131
+101006,atorvastatin,THP1,HMGCR inhibitor,DPP4,0.270647
+127372,tacrolimus,A549,Calcineurin inhibitor,FKBP1A,0.270067
+83954,H-9,MCF7,PKA inhibitor,PRKACA,0.269661
+99594,altrenogest,PC3,Progestogen hormone,PGR,0.269574
+125944,saracatinib,MCF7,Src inhibitor,ABL1,0.268139
+102196,bimatoprost,HA1E,Prostanoid receptor agonist,PTGFR,0.268033
+112447,guanaben-acetate,PC3,Adrenergic receptor agonist,ADRA2A,0.267527

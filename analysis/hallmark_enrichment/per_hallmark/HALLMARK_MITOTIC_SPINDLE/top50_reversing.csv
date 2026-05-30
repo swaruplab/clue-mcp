@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+129532,topotecan,HT29,Topoisomerase inhibitor,TOP1,-0.414080
+129527,topotecan,A549,Topoisomerase inhibitor,TOP1,-0.375555
+129530,topotecan,HCC515,Topoisomerase inhibitor,TOP1,-0.369951
+103336,camptothecin,HCC515,Topoisomerase inhibitor,TOP1,-0.352913
+94942,SN-38,PC3,Topoisomerase inhibitor,TOP1,-0.352785
+106052,dactinomycin,HA1E,RNA polymerase inhibitor,POLR2A,-0.347923
+103348,camptothecin,PC3,Topoisomerase inhibitor,TOP1,-0.344344
+94928,SN-38,HA1E,Topoisomerase inhibitor,TOP1,-0.343967
+108216,doxorubicin,A549,Topoisomerase inhibitor,TOP2A,-0.342601
+109941,etoposide,A549,Topoisomerase inhibitor,TOP2A,-0.336260
+129529,topotecan,HA1E,Topoisomerase inhibitor,TOP1,-0.334465
+129538,topotecan,PC3,Topoisomerase inhibitor,TOP1,-0.329620
+99076,afatinib,HA1E,EGFR inhibitor,EGFR,-0.324776
+109940,etoposide,A375,Topoisomerase inhibitor,TOP2A,-0.321918
+106367,daunorubicin,HCC515,RNA synthesis inhibitor,TOP2A,-0.321201
+103335,camptothecin,HA1E,Topoisomerase inhibitor,TOP1,-0.318037
+125935,saracatinib,HME1,Src inhibitor,ABL1,-0.317935
+129526,topotecan,A375,Topoisomerase inhibitor,TOP1,-0.316871
+104018,celastrol,HA1E,,,-0.316204
+108219,doxorubicin,HA1E,Topoisomerase inhibitor,TOP2A,-0.312199
+118234,mitomycin-c,HT29,,,-0.310314
+113291,idarubicin,A375,Topoisomerase inhibitor,TOP2A,-0.309994
+127252,sunitinib,NPC,KIT inhibitor,FLT1,-0.306007
+106362,daunorubicin,A375,RNA synthesis inhibitor,TOP2A,-0.305963
+109125,epirubicin,PC3,Topoisomerase inhibitor,TOP2A,-0.304911
+108221,doxorubicin,HCC515,Topoisomerase inhibitor,TOP2A,-0.302673
+106381,daunorubicin,U2OS,RNA synthesis inhibitor,TOP2A,-0.302366
+106370,daunorubicin,HEPG2,RNA synthesis inhibitor,TOP2A,-0.301583
+125923,saracatinib,A549,Src inhibitor,ABL1,-0.300094
+90717,PIK-75,HA1E,PI3K inhibitor,PIK3CA,-0.299253
+100195,amsacrine,A375,Topoisomerase inhibitor,TOP2A,-0.299210
+94934,SN-38,HT29,Topoisomerase inhibitor,TOP1,-0.298549
+113295,idarubicin,HA1E,Topoisomerase inhibitor,TOP2A,-0.296429
+97746,WZ-4-145,MDAMB231,,,-0.295987
+130347,triptolide,HA1E,,,-0.295580
+105896,cytarabine,A375,Ribonucleotide reductase inhibitor,POLA1,-0.293457
+113292,idarubicin,A549,Topoisomerase inhibitor,TOP2A,-0.291794
+109955,etoposide,PC3,Topoisomerase inhibitor,TOP2A,-0.290985
+106366,daunorubicin,HA1E,RNA synthesis inhibitor,TOP2A,-0.290152
+106055,dactinomycin,HT29,RNA polymerase inhibitor,POLR2A,-0.288290
+100210,amsacrine,PC3,Topoisomerase inhibitor,TOP2A,-0.287756
+118007,mifepristone,HCC515,Progesterone receptor antagonist,NR3C1,-0.287541
+103332,camptothecin,A375,Topoisomerase inhibitor,TOP1,-0.286830
+105890,cyproterone,MCF7,Androgen receptor antagonist,AR,-0.286244
+108237,doxorubicin,PC3,Topoisomerase inhibitor,TOP2A,-0.285955
+108225,doxorubicin,HT29,Topoisomerase inhibitor,TOP2A,-0.285420
+109110,epirubicin,A375,Topoisomerase inhibitor,TOP2A,-0.285322
+109118,epirubicin,HT29,Topoisomerase inhibitor,TOP2A,-0.284896
+103341,camptothecin,HT29,Topoisomerase inhibitor,TOP1,-0.283085
+106363,daunorubicin,A549,RNA synthesis inhibitor,TOP2A,-0.283014

@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+120118,nutlin-3,HCC515,MDM inhibitor,MDM2,0.332688
+110849,fludarabine,A375,DNA synthesis inhibitor,RRM1,0.331775
+1036,AMG-9810,PC3,TRPV antagonist,TRPV1,0.329741
+127654,tanespimycin,A549,HSP inhibitor,HSP90AA1,0.321615
+131583,withaferin-a,HT29,IKK inhibitor,NAMPT,0.318895
+105141,clomifene,A549,Estrogen receptor antagonist,ESR1,0.318739
+102800,brucine,PC3,,,0.315768
+125933,saracatinib,HELA,Src inhibitor,ABL1,0.313980
+110851,fludarabine,ASC,DNA synthesis inhibitor,RRM1,0.311554
+129797,tranilast,HA1E,,,0.311388
+108244,doxorubicin,VCAP,Topoisomerase inhibitor,TOP2A,0.310459
+103806,catechin,HCC515,,,0.309806
+113292,idarubicin,A549,Topoisomerase inhibitor,TOP2A,0.308772
+113305,idarubicin,PC3,Topoisomerase inhibitor,TOP2A,0.306927
+111002,fluocinolone-acetonide,PC3,Corticosteroid agonist,NR3C1,0.303844
+98396,ZD-7114,HT29,Adrenergic receptor agonist,ADRB3,0.302661
+83224,GSK-1059615,JURKAT,,,0.302648
+126925,staurosporine,HT29,PKC inhibitor,CDK2,0.299809
+126919,staurosporine,A375,PKC inhibitor,CDK2,0.299156
+100202,amsacrine,HEPG2,Topoisomerase inhibitor,TOP2A,0.294587
+131580,withaferin-a,HEPG2,IKK inhibitor,NAMPT,0.292633
+108217,doxorubicin,ASC,Topoisomerase inhibitor,TOP2A,0.291586
+106379,daunorubicin,SKB,RNA synthesis inhibitor,TOP2A,0.289892
+118411,molsidomine,A375,Guanylyl cyclase activator,GUCY1A1,0.289744
+129526,topotecan,A375,Topoisomerase inhibitor,TOP1,0.288246
+129289,tofacitinib,HT29,JAK inhibitor,JAK1,0.287513
+122168,picrotoxin,A549,GABA receptor antagonist,GABRA1,0.287381
+131339,vinpocetine,HEPG2,Sodium channel blocker,PDE1A,0.287199
+83682,GW-441756,A549,Growth factor receptor inhibitor,NTRK1,0.286664
+126404,sildenafil,HCC515,Phosphodiesterase inhibitor,PDE5A,0.286496
+131574,withaferin-a,A375,IKK inhibitor,NAMPT,0.286063
+127825,taxifolin,A375,Opioid receptor antagonist,ADIPOR2,0.285593
+125031,rimcazole,MCF7,Sigma receptor antagonist,SIGMAR1,0.284802
+119037,naringenin,PC3,TRPV antagonist,CYP19A1,0.284599
+98257,YM-155,A375,Survivin inhibitor,BIRC5,0.284346
+110145,ezetimibe,PC3,Cholesterol inhibitor,NPC1L1,0.283890
+131575,withaferin-a,A549,IKK inhibitor,NAMPT,0.283433
+119851,nizatidine,HA1E,Histamine receptor antagonist,HRH2,0.283403
+131591,withaferin-a,PC3,IKK inhibitor,NAMPT,0.282896
+131905,zidovudine,A549,,,0.282524
+626,AG-490,PC3,JAK inhibitor,JAK2,0.282267
+103332,camptothecin,A375,Topoisomerase inhibitor,TOP1,0.281743
+80973,CO-102862,HA1E,,,0.281064
+102244,biperiden,ASC,Acetylcholine receptor antagonist,CHRM1,0.280976
+106364,daunorubicin,ASC,RNA synthesis inhibitor,TOP2A,0.280976
+118003,mifepristone,A375,Progesterone receptor antagonist,NR3C1,0.280371
+126924,staurosporine,HEPG2,PKC inhibitor,CDK2,0.280307
+129535,topotecan,MCF7,Topoisomerase inhibitor,TOP1,0.279966
+110852,fludarabine,HA1E,DNA synthesis inhibitor,RRM1,0.279858
+126920,staurosporine,A549,PKC inhibitor,CDK2,0.279851

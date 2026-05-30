@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+96395,TTNPB,ASC,Retinoid receptor agonist,RARB,0.367751
+110940,flumetasone,ASC,Glucocorticoid receptor agonist,NR3C1,0.364466
+106856,dexamethasone,SKB,Glucocorticoid receptor agonist,NR3C1,0.343814
+130009,triamcinolone,A549,Glucocorticoid receptor agonist,NR3C1,0.334405
+124676,resveratrol,ASC,SIRT activator,SIRT1,0.329354
+118883,naloxone,ASC,Opioid receptor antagonist,OPRD1,0.326338
+107457,diltiazem,ASC,Calcium channel blocker,CACNA1C,0.314248
+128995,timolol,A549,Adrenergic receptor antagonist,ADRB1,0.304554
+101720,benzamil,A549,Sodium channel blocker,SCNN1A,0.297283
+99431,aloisine,HA1E,CDK inhibitor,CDK2,0.287369
+105750,cyclopamine,SKB,Smoothened receptor antagonist,SMO,0.283232
+109629,estriol,PHH,Estrogen receptor agonist,ESR1,0.282118
+80413,CG-930,ASC,JNK inhibitor,MAPK8,0.278206
+102854,budesonide,PC3,Glucocorticoid receptor agonist,NR3C1,0.277122
+89994,PD-0325901,PC3,MEK inhibitor,MAP2K1,0.276853
+112524,halcinonide,A549,Glucocorticoid receptor agonist,NR3C1,0.274364
+112943,hydrocortisone,PC3,Glucocorticoid receptor agonist,NR3C1,0.274088
+99750,amcinonide,A549,Glucocorticoid receptor agonist,NR3C1,0.272912
+89995,PD-0325901,PHH,MEK inhibitor,MAP2K1,0.272657
+118044,miglitol,MCF7,Glucosidase inhibitor,GAA,0.271872
+101552,beclomethasone-dipropionate,A375,Immunosuppressant,NR3C1,0.270721
+96413,TTNPB,VCAP,Retinoid receptor agonist,RARB,0.269494
+130336,triprolidine,HT29,Histamine receptor antagonist,HRH1,0.267031
+125151,ritonavir,A375,HIV protease inhibitor,CYP1A2,0.261695
+115058,lenalidomide,A375,Anti-cancer agent,CRBN,0.261489
+112504,guggulsterone,A549,IKK inhibitor,NR3C1,0.259605
+101018,atovaquone,MCF7,,,0.257865
+122391,pinacidil,SKB,ATP channel activator,ABCC9,0.256943
+89976,PD-0325901,HA1E,MEK inhibitor,MAP2K1,0.256102
+95789,SU-11274,SKBR3,Tyrosine kinase inhibitor,MET,0.256032
+110645,finasteride,A375,5 alpha reductase inhibitor,SRD5A1,0.255756
+118892,naloxone,PHH,Opioid receptor antagonist,OPRD1,0.255604
+124673,resveratrol,A375,SIRT activator,SIRT1,0.254299
+107472,diltiazem,SKB,Calcium channel blocker,CACNA1C,0.253890
+118439,mometasone,MCF7,Glucocorticoid receptor agonist,NR3C1,0.253300
+102004,betamethasone,VCAP,Glucocorticoid receptor agonist,NR3C1,0.253034
+126299,sericetin,VCAP,,,0.252913
+89972,PD-0325901,A549,MEK inhibitor,MAP2K1,0.252411
+102848,budesonide,HCC515,Glucocorticoid receptor agonist,NR3C1,0.251744
+122096,piceatannol,ASC,,,0.251689
+128723,thioperamide,ASC,Histamine receptor antagonist,HRH3,0.251047
+102260,biperiden,SKB,Acetylcholine receptor antagonist,CHRM1,0.247640
+125626,rutin,ASC,Antioxidant,AKR1C3,0.246689
+1804,AZD-1480,MCF7,JAK inhibitor,JAK1,0.246663
+106854,dexamethasone,PC3,Glucocorticoid receptor agonist,NR3C1,0.246623
+104378,chlortetracycline,MCF7,,,0.246460
+106834,dexamethasone,A549,Glucocorticoid receptor agonist,NR3C1,0.245985
+128724,thioperamide,HA1E,Histamine receptor antagonist,HRH3,0.245509
+124948,rilmenidine,A549,Adrenergic receptor agonist,NISCH,0.244226
+2486,BH3I-1,VCAP,BCL inhibitor,BCL2L1,0.243470

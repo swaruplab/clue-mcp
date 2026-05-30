@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+89971,PD-0325901,A375,MEK inhibitor,MAP2K1,-0.218818
+125631,rutin,HEPG2,Antioxidant,AKR1C3,-0.209667
+91404,QL-X-138,PC3,,,-0.204286
+124189,radicicol,HCC515,,,-0.204181
+99436,aloisine,NPC,CDK inhibitor,CDK2,-0.196223
+89257,NSC-693868,VCAP,CDK inhibitor,CDK5,-0.189799
+91441,QL-XII-47,HA1E,,,-0.189454
+113692,indirubin,HA1E,CDK inhibitor,CDK5,-0.188833
+131542,warfarin,HA1E,Vitamin K antagonist,VKORC1,-0.188785
+129283,tofacitinib,HA1E,JAK inhibitor,JAK1,-0.188643
+124897,rifampicin,PC3,RNA polymerase inhibitor,NR1I2,-0.183774
+106611,demeclocycline,PC3,,,-0.183311
+122925,pravastatin,ASC,HMGCR inhibitor,HMGCR,-0.182957
+85078,JW-7-24-1,A375,,,-0.181825
+113697,indirubin,MCF7,CDK inhibitor,CDK5,-0.181221
+119506,nifedipine,MCF7,Calcium channel blocker,CACNA1C,-0.181193
+130500,tubocurarine,HCC515,Acetylcholine receptor antagonist,CHRNA2,-0.180803
+100621,apigenin,SKB,,,-0.179635
+127662,tanespimycin,HCC515,HSP inhibitor,HSP90AA1,-0.178114
+83220,GSK-1059615,HME1,,,-0.177546
+89252,NSC-693868,MCF7,CDK inhibitor,CDK5,-0.176991
+112487,guanethidine,PC3,,,-0.176498
+113690,indirubin,A375,CDK inhibitor,CDK5,-0.174185
+84105,HG-6-64-01,SKBR3,,,-0.173916
+100166,ampicillin,MCF7,,,-0.172284
+363,A-443654,MCF10A,,,-0.170449
+120680,oxantel,MCF7,,,-0.169583
+127175,sulindac,NPC,Cyclooxygenase inhibitor,AKR1B1,-0.169305
+120363,olopatadine,PC3,Histamine receptor antagonist,HRH1,-0.168033
+105618,curcumin,THP1,Lipoxygenase inhibitor,PTGS1,-0.167695
+80719,CGS-21680,NPC,Adenosine receptor agonist,ADORA1,-0.167005
+129676,tozasertib,A375,JAK inhibitor,FLT3,-0.166622
+1546,AT-CSC-18,A375,,,-0.164596
+125632,rutin,HT29,Antioxidant,AKR1C3,-0.164466
+82321,EX-527,YAPC,SIRT inhibitor,SIRT1,-0.162751
+111441,forskolin,PHH,Adenylyl cyclase activator,ADCY2,-0.162047
+125518,rottlerin,PC3,,,-0.161670
+80944,CNQX,U2OS,Glutamate receptor antagonist,GRIA1,-0.161510
+85092,JW-7-24-1,PC3,,,-0.161108
+110860,fludarabine,PHH,DNA synthesis inhibitor,RRM1,-0.160974
+120977,paclitaxel,HCC515,Tubulin inhibitor,TUBB,-0.160305
+95825,SU-4312,ASC,PDGFR inhibitor,KDR,-0.160109
+103612,carbidopa,PC3,Aromatic L-amino acid decarboxylase inhibitor,DDC,-0.160096
+111225,fluticasone,HA1E,Glucocorticoid receptor agonist,NR3C1,-0.160078
+118202,mirtazapine,HT29,Serotonin receptor antagonist,ADRA2A,-0.159467
+118473,montelukast,HT29,Leukotriene receptor antagonist,CYSLTR1,-0.159236
+112513,guggulsterone,PC3,IKK inhibitor,NR3C1,-0.158664
+89421,NVP-AUY922,MDAMB231,HSP inhibitor,HSP90AA1,-0.158533
+109558,estradiol,ASC,Estrogen receptor agonist,ESR1,-0.158397
+93758,SB-205607,MCF7,Delta 1 opioid receptor agonist,OPRD1,-0.158369

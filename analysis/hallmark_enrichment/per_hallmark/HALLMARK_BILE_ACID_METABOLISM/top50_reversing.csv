@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+130083,triciribine,PHH,Akt inhibitor,AKT3,-0.363904
+130076,triciribine,HEPG2,Akt inhibitor,AKT3,-0.322353
+131301,vincristine,HEPG2,Tubulin inhibitor,TUBB,-0.313407
+110521,fenretinide,PHH,Apoptosis stimulant,RARA,-0.276871
+131253,vinblastine,HEPG2,Tubulin inhibitor,TUBB,-0.267763
+91446,QL-XII-47,HT29,,,-0.266450
+131322,vinorelbine,HEPG2,Tubulin inhibitor,TUBB,-0.261101
+101183,azacitidine,A549,DNA methyltransferase inhibitor,DNMT1,-0.256317
+80938,CNQX,HA1E,Glutamate receptor antagonist,GRIA1,-0.250647
+103288,calpeptin,PHH,,,-0.247979
+125635,rutin,MCF7,Antioxidant,AKR1C3,-0.232577
+120638,ouabain,PHH,ATPase inhibitor,ATP1A1,-0.232415
+100549,antimycin-a,ASC,ATP synthase inhibitor,CYCS,-0.231627
+89247,NSC-693868,ASC,CDK inhibitor,CDK5,-0.231155
+127391,tacrolimus,SKB,Calcineurin inhibitor,FKBP1A,-0.228712
+96409,TTNPB,PHH,Retinoid receptor agonist,RARB,-0.228593
+110510,fenretinide,ASC,Apoptosis stimulant,RARA,-0.228226
+91441,QL-XII-47,HA1E,,,-0.228159
+131347,vinpocetine,PC3,Sodium channel blocker,PDE1A,-0.227553
+108737,emetine,PHH,Protein synthesis inhibitor,RPS2,-0.225654
+119996,noretynodrel,NPC,Progestogen hormone,PGR,-0.225253
+105828,cyclosporin-a,ASC,Calcineurin inhibitor,PPIA,-0.224887
+91404,QL-X-138,PC3,,,-0.224714
+109258,equol,MCF7,Estrogen receptor agonist,ESR1,-0.224705
+91453,QL-XII-47,PC3,,,-0.222729
+82301,EX-527,HELA,SIRT inhibitor,SIRT1,-0.222115
+101195,azacitidine,MCF7,DNA methyltransferase inhibitor,DNMT1,-0.221756
+114769,lacidipine,HT29,Calcium channel blocker,CACNA1C,-0.221245
+105899,cytarabine,HCC515,Ribonucleotide reductase inhibitor,POLA1,-0.220410
+83956,H-9,NPC,PKA inhibitor,PRKACA,-0.219355
+102464,bortezomib,HCC515,Proteasome inhibitor,PSMB1,-0.218735
+125498,rottlerin,ASC,,,-0.217777
+131249,vinblastine,A549,Tubulin inhibitor,TUBB,-0.216659
+91449,QL-XII-47,MCF7,,,-0.216574
+129539,topotecan,PHH,Topoisomerase inhibitor,TOP1,-0.215872
+125157,ritonavir,PC3,HIV protease inhibitor,CYP1A2,-0.214736
+125624,rutin,A375,Antioxidant,AKR1C3,-0.212441
+91438,QL-XII-47,A549,,,-0.212221
+116788,medetomidine,HA1E,Adrenergic receptor agonist,ADRA2A,-0.211954
+126723,sorafenib,BT20,KIT inhibitor,FGFR1,-0.211340
+100202,amsacrine,HEPG2,Topoisomerase inhibitor,TOP2A,-0.210079
+93920,SB-239063,HEPG2,P38 MAPK inhibitor,MAPK14,-0.209727
+108730,emetine,MCF7,Protein synthesis inhibitor,RPS2,-0.208911
+131325,vinorelbine,MCF7,Tubulin inhibitor,TUBB,-0.208868
+85078,JW-7-24-1,A375,,,-0.208729
+110024,everolimus,ASC,MTOR inhibitor,MTOR,-0.208701
+102461,bortezomib,HA1E,Proteasome inhibitor,PSMB1,-0.208214
+98267,YM-155,HEPG2,Survivin inhibitor,BIRC5,-0.207698
+93721,SB-203580,HEPG2,P38 MAPK inhibitor,MAPK14,-0.206730
+126398,sildenafil,A375,Phosphodiesterase inhibitor,PDE5A,-0.206210

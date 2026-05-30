@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+1787,AZD-1480,A549,JAK inhibitor,JAK1,0.424643
+102196,bimatoprost,HA1E,Prostanoid receptor agonist,PTGFR,0.400552
+101994,betamethasone,HA1E,Glucocorticoid receptor agonist,NR3C1,0.397713
+120035,norgestrel,PC3,,,0.395441
+131329,vinorelbine,PHH,Tubulin inhibitor,TUBB,0.394225
+95833,SU-4312,PC3,PDGFR inhibitor,KDR,0.393413
+112508,guggulsterone,HEPG2,IKK inhibitor,NR3C1,0.379948
+125137,ritodrine,HA1E,Adrenergic receptor agonist,ADRB2,0.379137
+126341,sertraline,A549,Serotonin receptor antagonist,SLC6A4,0.376379
+104512,cilastatin,A375,Dehydropeptidase inhibitor,DPEP1,0.375406
+112510,guggulsterone,MCF7,IKK inhibitor,NR3C1,0.369971
+105849,cyclosporin-a,SKB,Calcineurin inhibitor,PPIA,0.368754
+103478,capsaicin,PC3,TRPV agonist,TRPV1,0.366726
+99085,afatinib,HT29,EGFR inhibitor,EGFR,0.364212
+105605,curcumin,HT29,Lipoxygenase inhibitor,PTGS1,0.363725
+114900,lapatinib,VCAP,EGFR inhibitor,EGFR,0.356262
+125750,safinamide,PC3,Glutamate inhibitor,MAOB,0.355451
+100553,antimycin-a,HT29,ATP synthase inhibitor,CYCS,0.353180
+116985,memantine,HT29,Glutamate receptor antagonist,GRIN1,0.350260
+115891,lonidamine,A549,,,0.350178
+97931,XMD-1185H,MCF10A,,,0.350097
+120467,orantinib,VCAP,FGFR inhibitor,FGFR1,0.348232
+119211,nelfinavir,MCF7,HIV protease inhibitor,CYP1A2,0.346285
+102829,bucladesine,VCAP,CAMP stimulant,PRKACA,0.346123
+112872,huperzine-a,VCAP,Glutamate receptor antagonist,ACHE,0.345717
+102250,biperiden,HT29,Acetylcholine receptor antagonist,CHRM1,0.341986
+129582,toremifene,HT29,Estrogen receptor antagonist,ESR1,0.341256
+123695,pterostilbene,PC3,PPAR receptor agonist,PTGS2,0.339877
+109916,etomidate,VCAP,GABA receptor modulator,GABRA1,0.338822
+107457,diltiazem,ASC,Calcium channel blocker,CACNA1C,0.338335
+105897,cytarabine,A549,Ribonucleotide reductase inhibitor,POLA1,0.337119
+121258,paroxetine,A549,Selective serotonin reuptake inhibitor,SLC6A4,0.336064
+94086,SB-590885,MCF7,RAF inhibitor,BRAF,0.335334
+91411,QL-XI-92,ASC,,,0.335172
+105750,cyclopamine,SKB,Smoothened receptor antagonist,SMO,0.333550
+89995,PD-0325901,PHH,MEK inhibitor,MAP2K1,0.333469
+122391,pinacidil,SKB,ATP channel activator,ABCC9,0.332982
+110803,floxuridine,VCAP,,,0.331603
+102718,bromocriptine,HCC515,Dopamine receptor agonist,ADRA2A,0.331359
+120456,orantinib,MCF7,FGFR inhibitor,FGFR1,0.330386
+129586,toremifene,PC3,Estrogen receptor antagonist,ESR1,0.329818
+105732,cycloheximide,SKB,Protein synthesis inhibitor,RPL3,0.327790
+127201,suloctidil,PC3,,,0.327060
+110957,flunarizine,ASC,Calcium channel blocker,CACNA1H,0.325357
+110645,finasteride,A375,5 alpha reductase inhibitor,SRD5A1,0.324870
+101720,benzamil,A549,Sodium channel blocker,SCNN1A,0.324708
+105731,cycloheximide,PHH,Protein synthesis inhibitor,RPL3,0.324059
+119994,noretynodrel,MCF7,Progestogen hormone,PGR,0.323735
+128349,testosterone,A549,,,0.323167
+83729,GW-5074,MCF7,RAF inhibitor,RAF1,0.323005

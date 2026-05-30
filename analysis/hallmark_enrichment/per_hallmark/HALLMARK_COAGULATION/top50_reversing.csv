@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+85078,JW-7-24-1,A375,,,-0.334848
+98752,acarbose,VCAP,Glucosidase inhibitor,GAA,-0.310269
+120638,ouabain,PHH,ATPase inhibitor,ATP1A1,-0.301347
+91404,QL-X-138,PC3,,,-0.279445
+101183,azacitidine,A549,DNA methyltransferase inhibitor,DNMT1,-0.266791
+91388,QL-X-138,A375,,,-0.263141
+129539,topotecan,PHH,Topoisomerase inhibitor,TOP1,-0.257868
+82301,EX-527,HELA,SIRT inhibitor,SIRT1,-0.254218
+108740,emetine,U2OS,Protein synthesis inhibitor,RPS2,-0.252758
+127660,tanespimycin,HA1E,HSP inhibitor,HSP90AA1,-0.251785
+96281,THZ-2-98-01,MDAMB231,,,-0.243186
+89257,NSC-693868,VCAP,CDK inhibitor,CDK5,-0.240834
+102563,brefeldin-a,HA1E,,,-0.240834
+103292,calpeptin,VCAP,,,-0.238157
+1992,AZD-7762,HA1E,CHK inhibitor,CHEK1,-0.237508
+118473,montelukast,HT29,Leukotriene receptor antagonist,CYSLTR1,-0.232236
+91438,QL-XII-47,A549,,,-0.232073
+94080,SB-590885,HCC515,RAF inhibitor,BRAF,-0.229234
+109556,estradiol,A375,Estrogen receptor agonist,ESR1,-0.229153
+102829,bucladesine,VCAP,CAMP stimulant,PRKACA,-0.227612
+104681,cinanserin,HCC515,,,-0.227369
+111293,fluvoxamine,HT29,Selective serotonin reuptake inhibitor,SLC6A4,-0.227044
+108011,dopamine,NEU,Dopamine receptor agonist,DRD1,-0.226963
+102814,bucladesine,HT29,CAMP stimulant,PRKACA,-0.222745
+103255,calcitriol,U2OS,Vitamin D receptor agonist,VDR,-0.222177
+107277,diflorasone,PC3,Glucocorticoid receptor agonist,NR3C1,-0.222096
+130083,triciribine,PHH,Akt inhibitor,AKT3,-0.221772
+83956,H-9,NPC,PKA inhibitor,PRKACA,-0.221042
+128582,thapsigargin,HA1E,ATPase inhibitor,ATP2A1,-0.220717
+120081,noscapine,HA1E,Tubulin inhibitor,SIGMAR1,-0.219419
+96409,TTNPB,PHH,Retinoid receptor agonist,RARB,-0.219257
+83710,GW-5074,A549,RAF inhibitor,RAF1,-0.218121
+117302,mestranol,MCF7,Estrogen receptor agonist,ESR1,-0.217554
+124189,radicicol,HCC515,,,-0.217554
+98100,Y-27632,HT29,Rho associated kinase inhibitor,ROCK1,-0.216824
+99441,aloisine,VCAP,CDK inhibitor,CDK2,-0.216418
+83690,GW-441756,PC3,Growth factor receptor inhibitor,NTRK1,-0.216175
+108724,emetine,HA1E,Protein synthesis inhibitor,RPS2,-0.215526
+107863,docetaxel,VCAP,Tubulin inhibitor,TUBB,-0.214877
+131450,voriconazole,HT29,Cytochrome P450 inhibitor,CYP2C19,-0.214714
+102803,bucladesine,A375,CAMP stimulant,PRKACA,-0.214552
+126537,sirolimus,MCF7,MTOR inhibitor,FKBP1A,-0.214471
+89655,OBAA,NPC,Phospholipase inhibitor,PLA2G1B,-0.213579
+108737,emetine,PHH,Protein synthesis inhibitor,RPS2,-0.211470
+126739,sorafenib,SKB,KIT inhibitor,FGFR1,-0.210983
+127173,sulindac,MCF7,Cyclooxygenase inhibitor,AKR1B1,-0.210659
+83959,H-9,SKB,PKA inhibitor,PRKACA,-0.210334
+99753,amcinonide,HCC515,Glucocorticoid receptor agonist,NR3C1,-0.209685
+93715,SB-203580,ASC,P38 MAPK inhibitor,MAPK14,-0.209199
+111717,galantamine,A549,Acetylcholinesterase inhibitor,ACHE,-0.209117

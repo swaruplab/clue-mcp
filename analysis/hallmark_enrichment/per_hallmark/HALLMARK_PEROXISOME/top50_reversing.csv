@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+130083,triciribine,PHH,Akt inhibitor,AKT3,-0.355466
+100549,antimycin-a,ASC,ATP synthase inhibitor,CYCS,-0.312006
+121516,penitrem-a,NPC,Potassium channel blocker,KCNMA1,-0.288490
+108737,emetine,PHH,Protein synthesis inhibitor,RPS2,-0.285817
+120638,ouabain,PHH,ATPase inhibitor,ATP1A1,-0.278114
+100202,amsacrine,HEPG2,Topoisomerase inhibitor,TOP2A,-0.276782
+116879,megestrol-acetate,HA1E,DNA inhibitor,PGR,-0.274055
+107347,digoxin,PHH,ATPase inhibitor,ATP1A1,-0.265492
+102469,bortezomib,HT29,Proteasome inhibitor,PSMB1,-0.260861
+98257,YM-155,A375,Survivin inhibitor,BIRC5,-0.259368
+105868,cymarin,VCAP,ATPase inhibitor,ATP1A1,-0.258997
+105828,cyclosporin-a,ASC,Calcineurin inhibitor,PPIA,-0.256123
+91453,QL-XII-47,PC3,,,-0.255087
+102461,bortezomib,HA1E,Proteasome inhibitor,PSMB1,-0.254602
+91446,QL-XII-47,HT29,,,-0.254430
+91388,QL-X-138,A375,,,-0.254023
+91438,QL-XII-47,A549,,,-0.253521
+130763,ursolic-acid,A549,STAT inhibitor,HSD11B1,-0.252284
+103270,calmidazolium,VCAP,Calmodulin antagonist,ATP2B1,-0.251016
+91449,QL-XII-47,MCF7,,,-0.249192
+103264,calmidazolium,MCF7,Calmodulin antagonist,ATP2B1,-0.246747
+110521,fenretinide,PHH,Apoptosis stimulant,RARA,-0.246436
+86712,L-689560,SKB,,,-0.245224
+105158,clomifene,PHH,Estrogen receptor antagonist,ESR1,-0.242206
+125501,rottlerin,HCC515,,,-0.241913
+125498,rottlerin,ASC,,,-0.239452
+115901,lonidamine,HT29,,,-0.238738
+91437,QL-XII-47,A375,,,-0.238352
+119996,noretynodrel,NPC,Progestogen hormone,PGR,-0.236818
+102249,biperiden,HEPG2,Acetylcholine receptor antagonist,CHRM1,-0.236288
+105848,cyclosporin-a,PHH,Calcineurin inhibitor,PPIA,-0.235892
+123723,puromycin,HA1E,,,-0.234368
+130076,triciribine,HEPG2,Akt inhibitor,AKT3,-0.234363
+131281,vincamine,HA1E,,,-0.232135
+102570,brefeldin-a,MCF7,,,-0.231939
+105899,cytarabine,HCC515,Ribonucleotide reductase inhibitor,POLA1,-0.231726
+89207,NSC-632839,A375,Ubiquitin specific protease inhibitor,SENP2,-0.231674
+116447,manumycin-a,A375,NFKB pathway inhibitor,FNTA,-0.230090
+105036,clofarabine,HCC515,Ribonucleoside reductase inhibitor,POLA1,-0.229835
+131248,vinblastine,A375,Tubulin inhibitor,TUBB,-0.229097
+105813,cyclopiazonic-acid,HA1E,ATPase inhibitor,ATP2A1,-0.226895
+120631,ouabain,HCC515,ATPase inhibitor,ATP1A1,-0.226877
+82301,EX-527,HELA,SIRT inhibitor,SIRT1,-0.225240
+120636,ouabain,NPC,ATPase inhibitor,ATP1A1,-0.224768
+105892,cyproterone,PC3,Androgen receptor antagonist,AR,-0.222570
+103352,camptothecin,VCAP,Topoisomerase inhibitor,TOP1,-0.221993
+91404,QL-X-138,PC3,,,-0.220937
+126737,sorafenib,NPC,KIT inhibitor,FGFR1,-0.219527
+130341,triprolidine,VCAP,Histamine receptor antagonist,HRH1,-0.218750
+119079,nateglinide,VCAP,Insulin secretagogue,KCNJ11,-0.218540

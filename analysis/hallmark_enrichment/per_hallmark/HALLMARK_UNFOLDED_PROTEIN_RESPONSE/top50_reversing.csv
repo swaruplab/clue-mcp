@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+89767,OSI-027,HS578T,MTOR inhibitor,MTOR,-0.416521
+110852,fludarabine,HA1E,DNA synthesis inhibitor,RRM1,-0.378932
+109951,etoposide,MCF7,Topoisomerase inhibitor,TOP2A,-0.375326
+115156,lestaurtinib,HA1E,JAK inhibitor,FLT3,-0.370785
+128818,thiothixene,HA1E,Dopamine receptor antagonist,HTR2A,-0.370465
+127733,targinine,A375,,,-0.367446
+110849,fludarabine,A375,DNA synthesis inhibitor,RRM1,-0.366741
+125935,saracatinib,HME1,Src inhibitor,ABL1,-0.364381
+83236,GSK-1059615,THP1,,,-0.361639
+82888,GDC-0980,HA1E,MTOR inhibitor,MTOR,-0.360893
+126919,staurosporine,A375,PKC inhibitor,CDK2,-0.359834
+103271,calpeptin,A375,,,-0.359706
+119037,naringenin,PC3,TRPV antagonist,CYP19A1,-0.358960
+104091,ceramide,A375,,,-0.356445
+131631,wortmannin,PC3,PI3K inhibitor,PIK3CA,-0.356212
+89984,PD-0325901,HT29,MEK inhibitor,MAP2K1,-0.355860
+110861,fludarabine,SKB,DNA synthesis inhibitor,RRM1,-0.354653
+1988,AZD-7762,A549,CHK inhibitor,CHEK1,-0.352198
+118411,molsidomine,A375,Guanylyl cyclase activator,GUCY1A1,-0.350140
+90714,PIK-75,A549,PI3K inhibitor,PIK3CA,-0.348779
+115154,lestaurtinib,A549,JAK inhibitor,FLT3,-0.347829
+127825,taxifolin,A375,Opioid receptor antagonist,ADIPOR2,-0.347218
+89656,OBAA,PC3,Phospholipase inhibitor,PLA2G1B,-0.347069
+89659,OBAA,VCAP,Phospholipase inhibitor,PLA2G1B,-0.346519
+129677,tozasertib,A549,JAK inhibitor,FLT3,-0.345412
+82734,GDC-0068,HEK293,Akt inhibitor,AKT3,-0.343633
+83219,GSK-1059615,HEPG2,,,-0.343570
+113292,idarubicin,A549,Topoisomerase inhibitor,TOP2A,-0.343360
+111093,fluphenazine,HA1E,Dopamine receptor antagonist,DRD1,-0.343111
+89763,OSI-027,HA1E,MTOR inhibitor,MTOR,-0.342890
+126929,staurosporine,PC3,PKC inhibitor,CDK2,-0.342673
+127208,sulpiride,HA1E,Dopamine receptor antagonist,DRD2,-0.341745
+110970,flunisolide,A375,Cytochrome P450 inhibitor,NR3C1,-0.341315
+121265,paroxetine,HT29,Selective serotonin reuptake inhibitor,SLC6A4,-0.340654
+126923,staurosporine,HCC515,PKC inhibitor,CDK2,-0.340511
+89774,OSI-027,PC3,MTOR inhibitor,MTOR,-0.339785
+113166,ibrutinib,MCF10A,BTK inhibitor,BTK,-0.338930
+353,A-443654,HA1E,,,-0.338588
+123686,pterostilbene,A375,PPAR receptor agonist,PTGS2,-0.337672
+82732,GDC-0068,HA1E,Akt inhibitor,AKT3,-0.337039
+84471,ICI-162846,PC3,Histamine receptor antagonist,HRH2,-0.336687
+119993,noretynodrel,HT29,Progestogen hormone,PGR,-0.336315
+108231,doxorubicin,MCF7,Topoisomerase inhibitor,TOP2A,-0.336010
+106052,dactinomycin,HA1E,RNA polymerase inhibitor,POLR2A,-0.332469
+119990,noretynodrel,HA1E,Progestogen hormone,PGR,-0.332305
+126559,sirolimus,THP1,MTOR inhibitor,FKBP1A,-0.330479
+126924,staurosporine,HEPG2,PKC inhibitor,CDK2,-0.330371
+126922,staurosporine,HA1E,PKC inhibitor,CDK2,-0.330181
+100202,amsacrine,HEPG2,Topoisomerase inhibitor,TOP2A,-0.329526
+104513,cilastatin,A549,Dehydropeptidase inhibitor,DPEP1,-0.329503

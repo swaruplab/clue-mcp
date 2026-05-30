@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+108231,doxorubicin,MCF7,Topoisomerase inhibitor,TOP2A,-0.329922
+130355,triptolide,MCF7,,,-0.326110
+102570,brefeldin-a,MCF7,,,-0.322372
+126926,staurosporine,MCF7,PKC inhibitor,CDK2,-0.314844
+111571,fulvestrant,MCF7,Estrogen receptor antagonist,ESR1,-0.310970
+106056,dactinomycin,MCF7,RNA polymerase inhibitor,POLR2A,-0.305756
+91441,QL-XII-47,HA1E,,,-0.295571
+106375,daunorubicin,MCF7,RNA synthesis inhibitor,TOP2A,-0.294416
+103346,camptothecin,MCF7,Topoisomerase inhibitor,TOP1,-0.282729
+91392,QL-X-138,HA1E,,,-0.272070
+98443,ZG-10,MCF7,,,-0.269857
+127675,tanespimycin,MCF7,HSP inhibitor,HSP90AA1,-0.269572
+125924,saracatinib,ASC,Src inhibitor,ABL1,-0.267972
+109121,epirubicin,MCF7,Topoisomerase inhibitor,TOP2A,-0.267284
+89990,PD-0325901,MCF7,MEK inhibitor,MAP2K1,-0.260740
+103282,calpeptin,MCF7,,,-0.260513
+93911,SB-239063,A549,P38 MAPK inhibitor,MAPK14,-0.259435
+129744,tramadol,MCF7,Opioid receptor agonist,OPRM1,-0.259315
+94936,SN-38,MCF7,Topoisomerase inhibitor,TOP1,-0.256175
+112414,griseofulvin,PC3,,,-0.254588
+122744,pitavastatin,MCF7,HMGCR inhibitor,HMGCR,-0.254348
+129535,topotecan,MCF7,Topoisomerase inhibitor,TOP1,-0.251577
+110143,ezetimibe,MCF7,Cholesterol inhibitor,NPC1L1,-0.250383
+114757,labetalol,MCF7,Adrenergic receptor antagonist,ADRA1D,-0.249562
+131339,vinpocetine,HEPG2,Sodium channel blocker,PDE1A,-0.249452
+108167,doxepin,PHH,Histamine receptor antagonist,HRH1,-0.247683
+128582,thapsigargin,HA1E,ATPase inhibitor,ATP2A1,-0.246677
+106169,dantrolene,MCF7,Calcium channel blocker,RYR1,-0.244581
+110511,fenretinide,HA1E,Apoptosis stimulant,RARA,-0.244552
+119027,naringenin,A549,TRPV antagonist,CYP19A1,-0.243676
+1805,AZD-1480,MDAMB231,JAK inhibitor,JAK1,-0.243533
+84091,HG-6-64-01,BT20,,,-0.243326
+90722,PIK-75,MCF7,PI3K inhibitor,PIK3CA,-0.243309
+111721,galantamine,MCF7,Acetylcholinesterase inhibitor,ACHE,-0.242531
+130775,ursolic-acid,MCF7,STAT inhibitor,HSD11B1,-0.240208
+120631,ouabain,HCC515,ATPase inhibitor,ATP1A1,-0.239945
+114362,isradipine,VCAP,Calcium channel blocker,CACNA1C,-0.239776
+124297,ranitidine,ASC,Histamine receptor antagonist,HRH2,-0.239575
+131547,warfarin,MCF7,Vitamin K antagonist,VKORC1,-0.237440
+131251,vinblastine,HA1E,Tubulin inhibitor,TUBB,-0.236710
+127654,tanespimycin,A549,HSP inhibitor,HSP90AA1,-0.235152
+100871,ascorbic-acid,PC3,Antioxidant,SLC23A1,-0.231509
+102249,biperiden,HEPG2,Acetylcholine receptor antagonist,CHRM1,-0.228920
+114357,isradipine,MCF7,Calcium channel blocker,CACNA1C,-0.226204
+131591,withaferin-a,PC3,IKK inhibitor,NAMPT,-0.225954
+111724,galantamine,VCAP,Acetylcholinesterase inhibitor,ACHE,-0.225811
+105621,curcumin,VCAP,Lipoxygenase inhibitor,PTGS1,-0.225324
+114936,lasalocid,MCF7,,,-0.224562
+116465,manumycin-a,MCF7,NFKB pathway inhibitor,FNTA,-0.222398
+90721,PIK-75,HT29,PI3K inhibitor,PIK3CA,-0.222343

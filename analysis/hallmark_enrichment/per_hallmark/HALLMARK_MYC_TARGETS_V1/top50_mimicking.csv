@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+96279,THZ-2-98-01,MCF10A,,,0.569078
+79948,BW-B70C,VCAP,Lipoxygenase inhibitor,ALOX5,0.548331
+120444,orantinib,A549,FGFR inhibitor,FGFR1,0.532533
+120955,ozagrel,VCAP,Thromboxane synthase inhibitor,TBXAS1,0.532119
+120467,orantinib,VCAP,FGFR inhibitor,FGFR1,0.531812
+94083,SB-590885,HS578T,RAF inhibitor,BRAF,0.527852
+130336,triprolidine,HT29,Histamine receptor antagonist,HRH1,0.523618
+129810,tranilast,VCAP,,,0.521834
+94078,SB-590885,BT20,RAF inhibitor,BRAF,0.518735
+104512,cilastatin,A375,Dehydropeptidase inhibitor,DPEP1,0.515182
+118760,nadolol,VCAP,Adrenergic receptor antagonist,ADRB1,0.509288
+113182,ibrutinib,YAPC,BTK inhibitor,BTK,0.507783
+109916,etomidate,VCAP,GABA receptor modulator,GABRA1,0.507747
+124730,retinol,PC3,Retinoid receptor ligand,RXRA,0.507747
+82262,EPZ-5676,MCF10A,DOT1L inhibitor,DOT1L,0.505954
+95789,SU-11274,SKBR3,Tyrosine kinase inhibitor,MET,0.504637
+93931,SB-239063,PC3,P38 MAPK inhibitor,MAPK14,0.501799
+117737,methysergide,U2OS,Serotonin receptor antagonist,HTR1B,0.499376
+90733,PIK-75,VCAP,PI3K inhibitor,PIK3CA,0.498887
+124948,rilmenidine,A549,Adrenergic receptor agonist,NISCH,0.495472
+106843,dexamethasone,HT29,Glucocorticoid receptor agonist,NR3C1,0.489548
+116042,losartan,A375,Angiotensin receptor antagonist,AGTR1,0.489039
+105721,cycloheximide,ASC,Protein synthesis inhibitor,RPL3,0.488686
+131457,voriconazole,PC3,Cytochrome P450 inhibitor,CYP2C19,0.487432
+110956,flunarizine,A549,Calcium channel blocker,CACNA1H,0.487252
+96413,TTNPB,VCAP,Retinoid receptor agonist,RARB,0.474199
+111110,fluphenazine,VCAP,Dopamine receptor antagonist,DRD1,0.473902
+114900,lapatinib,VCAP,EGFR inhibitor,EGFR,0.472427
+2486,BH3I-1,VCAP,BCL inhibitor,BCL2L1,0.472309
+131351,vinpocetine,VCAP,Sodium channel blocker,PDE1A,0.471029
+125626,rutin,ASC,Antioxidant,AKR1C3,0.470018
+91411,QL-XI-92,ASC,,,0.467532
+131815,zaprinast,A549,Phosphodiesterase inhibitor,PDE5A,0.463873
+123066,pregnenolone,PC3,,,0.462647
+113235,icariin,A375,,,0.462601
+112510,guggulsterone,MCF7,IKK inhibitor,NR3C1,0.462374
+118476,montelukast,VCAP,Leukotriene receptor antagonist,CYSLTR1,0.457183
+118892,naloxone,PHH,Opioid receptor antagonist,OPRD1,0.456654
+105832,cyclosporin-a,HCT116,Calcineurin inhibitor,PPIA,0.455718
+119848,nizatidine,A375,Histamine receptor antagonist,HRH2,0.455050
+112943,hydrocortisone,PC3,Glucocorticoid receptor agonist,NR3C1,0.453635
+104691,cinanserin,VCAP,,,0.453147
+1804,AZD-1480,MCF7,JAK inhibitor,JAK1,0.452760
+129000,timolol,HEPG2,Adrenergic receptor antagonist,ADRB1,0.449666
+119795,nitrendipine,HA1E,Calcium channel blocker,CACNA1C,0.449597
+80431,CG-930,PC3,JNK inhibitor,MAPK8,0.448290
+104619,cimetidine,ASC,Histamine receptor antagonist,HRH2,0.447362
+109152,eplerenone,HT29,Cytochrome P450 inhibitor,NR3C2,0.444197
+103237,calcitriol,HCT116,Vitamin D receptor agonist,VDR,0.439989
+126299,sericetin,VCAP,,,0.437401

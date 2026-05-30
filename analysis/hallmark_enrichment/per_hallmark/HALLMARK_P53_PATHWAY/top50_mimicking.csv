@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+105897,cytarabine,A549,Ribonucleotide reductase inhibitor,POLA1,0.393875
+103335,camptothecin,HA1E,Topoisomerase inhibitor,TOP1,0.392910
+105902,cytarabine,HEPG2,Ribonucleotide reductase inhibitor,POLA1,0.383845
+110796,floxuridine,MCF7,,,0.365731
+105042,clofarabine,MCF7,Ribonucleoside reductase inhibitor,POLA1,0.343749
+102652,brivanib,A375,FGFR inhibitor,FGFR1,0.342471
+105032,clofarabine,A375,Ribonucleoside reductase inhibitor,POLA1,0.337985
+109942,etoposide,HA1E,Topoisomerase inhibitor,TOP2A,0.331508
+103333,camptothecin,A549,Topoisomerase inhibitor,TOP1,0.328732
+130172,trifluridine,A549,Thymidylate synthase inhibitor,TYMS,0.327569
+109940,etoposide,A375,Topoisomerase inhibitor,TOP2A,0.309594
+129529,topotecan,HA1E,Topoisomerase inhibitor,TOP1,0.309034
+121425,pemetrexed,MCF7,Thymidylate synthase inhibitor,DHFR,0.307851
+120122,nutlin-3,HEPG2,MDM inhibitor,MDM2,0.301987
+105047,clofarabine,U2OS,Ribonucleoside reductase inhibitor,POLA1,0.301343
+109954,etoposide,NPC,Topoisomerase inhibitor,TOP2A,0.299348
+124698,resveratrol,VCAP,SIRT activator,SIRT1,0.287856
+105033,clofarabine,A549,Ribonucleoside reductase inhibitor,POLA1,0.283771
+109941,etoposide,A549,Topoisomerase inhibitor,TOP2A,0.275682
+125944,saracatinib,MCF7,Src inhibitor,ABL1,0.274558
+105038,clofarabine,HEPG2,Ribonucleoside reductase inhibitor,POLA1,0.274075
+120971,paclitaxel,A375,Tubulin inhibitor,TUBB,0.271547
+105149,clomifene,HT29,Estrogen receptor antagonist,ESR1,0.269950
+105896,cytarabine,A375,Ribonucleotide reductase inhibitor,POLA1,0.267005
+110784,floxuridine,A549,,,0.264680
+100198,amsacrine,HA1E,Topoisomerase inhibitor,TOP2A,0.261803
+112412,griseofulvin,MCF7,,,0.260841
+100207,amsacrine,MCF7,Topoisomerase inhibitor,TOP2A,0.258805
+129539,topotecan,PHH,Topoisomerase inhibitor,TOP1,0.250450
+109950,etoposide,MCF10A,Topoisomerase inhibitor,TOP2A,0.250061
+89874,PAC-1,HT29,Caspase activator,CASP3,0.248119
+106381,daunorubicin,U2OS,RNA synthesis inhibitor,TOP2A,0.246389
+102665,brivanib,MCF10A,FGFR inhibitor,FGFR1,0.244764
+95773,SU-11274,A375,Tyrosine kinase inhibitor,MET,0.244580
+131255,vinblastine,HUH7,Tubulin inhibitor,TUBB,0.243183
+94928,SN-38,HA1E,Topoisomerase inhibitor,TOP1,0.241441
+130179,trifluridine,MCF7,Thymidylate synthase inhibitor,TYMS,0.241380
+89875,PAC-1,MCF7,Caspase activator,CASP3,0.240784
+105908,cytarabine,MCF7,Ribonucleotide reductase inhibitor,POLA1,0.239341
+102718,bromocriptine,HCC515,Dopamine receptor agonist,ADRA2A,0.238650
+119839,nitrofural,MCF7,,,0.238011
+122741,pitavastatin,HT29,HMGCR inhibitor,HMGCR,0.234000
+130078,triciribine,MCF7,Akt inhibitor,AKT3,0.232308
+114892,lapatinib,PC3,EGFR inhibitor,EGFR,0.232065
+100196,amsacrine,A549,Topoisomerase inhibitor,TOP2A,0.230785
+1992,AZD-7762,HA1E,CHK inhibitor,CHEK1,0.230300
+127201,suloctidil,PC3,,,0.228385
+126033,scopolamine,SKB,Acetylcholine receptor antagonist,CHRM1,0.227319
+83505,GSK-690693,MCF7,Akt inhibitor,AKT3,0.225558
+113163,ibrutinib,JURKAT,BTK inhibitor,BTK,0.224510

@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+83503,GSK-690693,HT29,Akt inhibitor,AKT3,0.277408
+105897,cytarabine,A549,Ribonucleotide reductase inhibitor,POLA1,0.273866
+98268,YM-155,HT29,Survivin inhibitor,BIRC5,0.269281
+97733,WZ-4-145,A375,,,0.251000
+111422,formoterol,VCAP,Adrenergic receptor agonist,ADRB2,0.245426
+123725,puromycin,HEPG2,,,0.243783
+101511,batimastat,PC3,,,0.242722
+105149,clomifene,HT29,Estrogen receptor antagonist,ESR1,0.242181
+107343,digoxin,MCF7,ATPase inhibitor,ATP1A1,0.238052
+89874,PAC-1,HT29,Caspase activator,CASP3,0.235497
+103263,calmidazolium,HT29,Calmodulin antagonist,ATP2B1,0.233789
+113096,hyoscyamine,HCC515,,,0.232532
+110510,fenretinide,ASC,Apoptosis stimulant,RARA,0.230620
+112412,griseofulvin,MCF7,,,0.228971
+130078,triciribine,MCF7,Akt inhibitor,AKT3,0.228194
+131255,vinblastine,HUH7,Tubulin inhibitor,TUBB,0.227583
+123721,puromycin,A549,,,0.227298
+105032,clofarabine,A375,Ribonucleoside reductase inhibitor,POLA1,0.226553
+121425,pemetrexed,MCF7,Thymidylate synthase inhibitor,DHFR,0.224226
+102670,brivanib,PC3,FGFR inhibitor,FGFR1,0.224119
+105902,cytarabine,HEPG2,Ribonucleotide reductase inhibitor,POLA1,0.222400
+98258,YM-155,A549,Survivin inhibitor,BIRC5,0.221448
+127393,tacrolimus,THP1,Calcineurin inhibitor,FKBP1A,0.220960
+102196,bimatoprost,HA1E,Prostanoid receptor agonist,PTGFR,0.219801
+111998,genistein,HT29,Tyrosine kinase inhibitor,CFTR,0.217356
+123723,puromycin,HA1E,,,0.213045
+115636,linsitinib,MCF10A,IGF-1 inhibitor,IGF1R,0.212291
+1967,AZD-7545,PC3,,,0.211548
+104023,celastrol,HT29,,,0.211160
+118226,mitomycin-c,A375,,,0.210086
+114617,ketoconazole,PC3,Sterol demethylase inhibitor,CYP19A1,0.206168
+114892,lapatinib,PC3,EGFR inhibitor,EGFR,0.204228
+110803,floxuridine,VCAP,,,0.203029
+89215,NSC-632839,HEPG2,Ubiquitin specific protease inhibitor,SENP2,0.201227
+115638,linsitinib,MDAMB231,IGF-1 inhibitor,IGF1R,0.200347
+97737,WZ-4-145,HA1E,,,0.199265
+105047,clofarabine,U2OS,Ribonucleoside reductase inhibitor,POLA1,0.197973
+116863,mefloquine,MCF7,,,0.196883
+102257,biperiden,PC3,Acetylcholine receptor antagonist,CHRM1,0.196760
+91446,QL-XII-47,HT29,,,0.195850
+82261,EPZ-5676,A375,DOT1L inhibitor,DOT1L,0.195065
+120633,ouabain,HT29,ATPase inhibitor,ATP1A1,0.194865
+128816,thiothixene,A549,Dopamine receptor antagonist,HTR2A,0.194833
+105045,clofarabine,PC3,Ribonucleoside reductase inhibitor,POLA1,0.193298
+127599,tamoxifen,SKB,Estrogen receptor antagonist,ESR1,0.193256
+105725,cycloheximide,HT29,Protein synthesis inhibitor,RPL3,0.192845
+101191,azacitidine,HT29,DNA methyltransferase inhibitor,DNMT1,0.192529
+127253,sunitinib,PC3,KIT inhibitor,FLT1,0.192526
+128819,thiothixene,HCC515,Dopamine receptor antagonist,HTR2A,0.192074
+117555,methotrexate,PC3,Dihydrofolate reductase inhibitor,DHFR,0.192060

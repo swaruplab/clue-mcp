@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+128731,thioperamide,PC3,Histamine receptor antagonist,HRH3,-0.415591
+116982,memantine,A549,Glutamate receptor antagonist,GRIN1,-0.408517
+86714,L-689560,VCAP,,,-0.400470
+111405,formoterol,A549,Adrenergic receptor agonist,ADRB2,-0.399384
+112864,huperzine-a,HT29,Glutamate receptor antagonist,ACHE,-0.398929
+123994,quinidine,HEPG2,Sodium channel blocker,SCN5A,-0.390331
+112512,guggulsterone,NPC,IKK inhibitor,NR3C1,-0.381295
+80412,CG-930,A549,JNK inhibitor,MAPK8,-0.380354
+127679,tanespimycin,NCIH2073,HSP inhibitor,HSP90AA1,-0.369857
+2486,BH3I-1,VCAP,BCL inhibitor,BCL2L1,-0.354283
+126023,scopolamine,HEPG2,Acetylcholine receptor antagonist,CHRM1,-0.350811
+122391,pinacidil,SKB,ATP channel activator,ABCC9,-0.349951
+1817,AZD-1480,THP1,JAK inhibitor,JAK1,-0.346966
+130076,triciribine,HEPG2,Akt inhibitor,AKT3,-0.345036
+131578,withaferin-a,HA1E,IKK inhibitor,NAMPT,-0.344760
+96551,U-0126,A549,MEK inhibitor,MAP2K1,-0.339341
+103904,cefixime,PC3,,,-0.336810
+109669,estropipate,VCAP,,,-0.332560
+906,AM-404,VCAP,FAAH inhibitor,TRPV1,-0.331035
+110514,fenretinide,HT29,Apoptosis stimulant,RARA,-0.331019
+122178,picrotoxin,VCAP,GABA receptor antagonist,GABRA1,-0.331019
+102813,bucladesine,HEPG2,CAMP stimulant,PRKACA,-0.328731
+110660,finasteride,NPC,5 alpha reductase inhibitor,SRD5A1,-0.328488
+130501,tubocurarine,HEPG2,Acetylcholine receptor antagonist,CHRNA2,-0.327936
+103171,caffeic-acid,A375,Lipoxygenase inhibitor,ALOX5,-0.326931
+122167,picrotoxin,A375,GABA receptor antagonist,GABRA1,-0.324919
+120899,oxymetholone,HA1E,Androgen receptor agonist,AR,-0.323021
+126403,sildenafil,HA1E,Phosphodiesterase inhibitor,PDE5A,-0.321609
+98095,Y-27632,HCC515,Rho associated kinase inhibitor,ROCK1,-0.320668
+112038,gestrinone,A549,Progesterone receptor antagonist,ESR1,-0.318981
+128734,thioperamide,VCAP,Histamine receptor antagonist,HRH3,-0.317602
+115370,levonorgestrel,HT29,Estrogen receptor agonist,PGR,-0.316175
+1564,AT-CSC-18,VCAP,,,-0.314504
+125944,saracatinib,MCF7,Src inhibitor,ABL1,-0.314406
+115070,lenalidomide,HT29,Anti-cancer agent,CRBN,-0.313920
+104512,cilastatin,A375,Dehydropeptidase inhibitor,DPEP1,-0.313417
+123066,pregnenolone,PC3,,,-0.313206
+104519,cilastatin,MCF7,Dehydropeptidase inhibitor,DPEP1,-0.308955
+129972,tretinoin,HT29,Retinoid receptor ligand,RARA,-0.308744
+125161,rivaroxaban,A375,Coagulation factor inhibitor,F10,-0.307592
+102574,brefeldin-a,NEU,,,-0.307106
+131329,vinorelbine,PHH,Tubulin inhibitor,TUBB,-0.306927
+82742,GDC-0068,MCF10A,Akt inhibitor,AKT3,-0.306895
+126031,scopolamine,PC3,Acetylcholine receptor antagonist,CHRM1,-0.306262
+117698,methylprednisolone,PC3,Glucocorticoid receptor agonist,NR3C1,-0.305889
+116985,memantine,HT29,Glutamate receptor antagonist,GRIN1,-0.305240
+111231,fluticasone,PC3,Glucocorticoid receptor agonist,NR3C1,-0.305159
+104620,cimetidine,HA1E,Histamine receptor antagonist,HRH2,-0.305127
+116813,medrysone,HA1E,Glucocorticoid receptor agonist,NR3C1,-0.304932
+84084,HG-5-88-01,PC3,,,-0.304040

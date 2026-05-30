@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+104028,celastrol,PC3,,,-0.462993
+131591,withaferin-a,PC3,IKK inhibitor,NAMPT,-0.447088
+105141,clomifene,A549,Estrogen receptor antagonist,ESR1,-0.415847
+104513,cilastatin,A549,Dehydropeptidase inhibitor,DPEP1,-0.403916
+131580,withaferin-a,HEPG2,IKK inhibitor,NAMPT,-0.402638
+131583,withaferin-a,HT29,IKK inhibitor,NAMPT,-0.395012
+100162,ampicillin,A549,,,-0.393939
+127185,sulmazole,HT29,,,-0.385984
+103348,camptothecin,PC3,Topoisomerase inhibitor,TOP1,-0.378402
+104015,celastrol,A549,,,-0.371520
+119851,nizatidine,HA1E,Histamine receptor antagonist,HRH2,-0.369055
+131574,withaferin-a,A375,IKK inhibitor,NAMPT,-0.368924
+1805,AZD-1480,MDAMB231,JAK inhibitor,JAK1,-0.366940
+127208,sulpiride,HA1E,Dopamine receptor antagonist,DRD2,-0.366759
+84096,HG-6-64-01,HS578T,,,-0.365954
+113292,idarubicin,A549,Topoisomerase inhibitor,TOP2A,-0.363427
+129538,topotecan,PC3,Topoisomerase inhibitor,TOP1,-0.360613
+129797,tranilast,HA1E,,,-0.359071
+131199,vicriviroc,MCF7,CCK receptor antagonist,CCR5,-0.356744
+129527,topotecan,A549,Topoisomerase inhibitor,TOP1,-0.355172
+119494,nifedipine,A375,Calcium channel blocker,CACNA1C,-0.353325
+103336,camptothecin,HCC515,Topoisomerase inhibitor,TOP1,-0.352002
+96280,THZ-2-98-01,MCF7,,,-0.351814
+131339,vinpocetine,HEPG2,Sodium channel blocker,PDE1A,-0.351622
+98257,YM-155,A375,Survivin inhibitor,BIRC5,-0.351135
+124027,quinine,PC3,Hemozoin biocrystallization inhibitor,KCNN4,-0.350473
+83223,GSK-1059615,HUVEC,,,-0.350005
+117307,mestranol,SKB,Estrogen receptor agonist,ESR1,-0.349962
+95825,SU-4312,ASC,PDGFR inhibitor,KDR,-0.349724
+118139,minoxidil,A549,Vasodilator,ABCC9,-0.349718
+120030,norgestrel,HT29,,,-0.348589
+124886,rifampicin,A375,RNA polymerase inhibitor,NR1I2,-0.348095
+115900,lonidamine,HEPG2,,,-0.346761
+126380,siguazodan,HA1E,Phosphodiesterase inhibitor,PDE3A,-0.345825
+2476,BH3I-1,A549,BCL inhibitor,BCL2L1,-0.344446
+131190,vicriviroc,HA1E,CCK receptor antagonist,CCR5,-0.342780
+112414,griseofulvin,PC3,,,-0.341251
+120118,nutlin-3,HCC515,MDM inhibitor,MDM2,-0.340902
+113963,ipratropium,HA1E,Acetylcholine receptor antagonist,CHRM1,-0.339922
+80936,CNQX,A375,Glutamate receptor antagonist,GRIA1,-0.338736
+111407,formoterol,HA1E,Adrenergic receptor agonist,ADRB2,-0.337058
+131007,vecuronium,VCAP,Acetylcholine receptor antagonist,CHRNA2,-0.336571
+128583,thapsigargin,HCC515,ATPase inhibitor,ATP2A1,-0.336552
+126922,staurosporine,HA1E,PKC inhibitor,CDK2,-0.336472
+126488,simvastatin,VCAP,HMGCR inhibitor,HMGCR,-0.335835
+131575,withaferin-a,A549,IKK inhibitor,NAMPT,-0.335192
+102244,biperiden,ASC,Acetylcholine receptor antagonist,CHRM1,-0.333708
+89649,OBAA,ASC,Phospholipase inhibitor,PLA2G1B,-0.332228
+93752,SB-205607,A549,Delta 1 opioid receptor agonist,OPRD1,-0.330770
+121295,parthenolide,NCIH508,,,-0.330744

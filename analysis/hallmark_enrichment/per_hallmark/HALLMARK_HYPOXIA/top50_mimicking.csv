@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+89875,PAC-1,MCF7,Caspase activator,CASP3,0.390266
+89871,PAC-1,HCC515,Caspase activator,CASP3,0.386879
+89868,PAC-1,A549,Caspase activator,CASP3,0.359118
+89880,PAC-1,PC3,Caspase activator,CASP3,0.343634
+114924,lasalocid,A375,,,0.338516
+89874,PAC-1,HT29,Caspase activator,CASP3,0.331620
+89867,PAC-1,A375,Caspase activator,CASP3,0.322837
+1967,AZD-7545,PC3,,,0.300125
+103478,capsaicin,PC3,TRPV agonist,TRPV1,0.296171
+131255,vinblastine,HUH7,Tubulin inhibitor,TUBB,0.287896
+127199,suloctidil,MCF7,,,0.282553
+119214,nelfinavir,PC3,HIV protease inhibitor,CYP1A2,0.280545
+79945,BW-B70C,PC3,Lipoxygenase inhibitor,ALOX5,0.279136
+119211,nelfinavir,MCF7,HIV protease inhibitor,CYP1A2,0.275254
+103183,caffeic-acid,PC3,Lipoxygenase inhibitor,ALOX5,0.272790
+119840,nitrofural,PC3,,,0.265407
+114617,ketoconazole,PC3,Sterol demethylase inhibitor,CYP19A1,0.261191
+89870,PAC-1,HA1E,Caspase activator,CASP3,0.257943
+89885,PAC-1,VCAP,Caspase activator,CASP3,0.251812
+111998,genistein,HT29,Tyrosine kinase inhibitor,CFTR,0.251416
+114610,ketoconazole,HA1E,Sterol demethylase inhibitor,CYP19A1,0.250189
+114939,lasalocid,PC3,,,0.249924
+102731,bromocriptine,PC3,Dopamine receptor agonist,ADRA2A,0.249194
+100048,amlodipine,A549,Calcium channel blocker,CACNA1C,0.246032
+125873,salubrinal,PC3,Eukaryotic translation initiation factor inhibitor,EIF2S1,0.241681
+127201,suloctidil,PC3,,,0.239653
+114609,ketoconazole,A549,Sterol demethylase inhibitor,CYP19A1,0.238529
+111419,formoterol,PC3,Adrenergic receptor agonist,ADRB2,0.236855
+114411,itraconazole,PC3,,,0.236035
+84100,HG-6-64-01,MCF7,,,0.232636
+119686,nimodipine,HA1E,Calcium channel blocker,NR3C2,0.230944
+83729,GW-5074,MCF7,RAF inhibitor,RAF1,0.230610
+1027,AMG-9810,A375,TRPV antagonist,TRPV1,0.230273
+102854,budesonide,PC3,Glucocorticoid receptor agonist,NR3C1,0.226449
+119744,nisoldipine,PC3,Calcium channel blocker,CACNA1C,0.226207
+114928,lasalocid,HCC515,,,0.224566
+131299,vincristine,HA1E,Tubulin inhibitor,TUBB,0.223905
+99594,altrenogest,PC3,Progestogen hormone,PGR,0.222161
+89770,OSI-027,MCF10A,MTOR inhibitor,MTOR,0.220256
+83503,GSK-690693,HT29,Akt inhibitor,AKT3,0.217925
+94528,SDZ-NKT-343,PC3,Tachykinin antagonist,TACR1,0.216788
+131300,vincristine,HCC515,Tubulin inhibitor,TUBB,0.215178
+99975,amiodarone,PC3,Potassium channel blocker,KCNH2,0.213614
+121304,parthenolide,PC3,,,0.211718
+99257,alfacalcidol,PC3,Vitamin D receptor agonist,VDR,0.208890
+104023,celastrol,HT29,,,0.208270
+128819,thiothixene,HCC515,Dopamine receptor antagonist,HTR2A,0.208180
+116863,mefloquine,MCF7,,,0.208171
+105144,clomifene,HCC515,Estrogen receptor antagonist,ESR1,0.208039
+112412,griseofulvin,MCF7,,,0.206913

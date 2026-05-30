@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+118226,mitomycin-c,A375,,,0.321176
+113291,idarubicin,A375,Topoisomerase inhibitor,TOP2A,0.319025
+117862,mevastatin,PC3,HMGCR inhibitor,HMGCR,0.294701
+119563,niguldipine,MCF7,Calcium channel blocker,ADRA1A,0.288098
+109957,etoposide,VCAP,Topoisomerase inhibitor,TOP2A,0.286987
+109942,etoposide,HA1E,Topoisomerase inhibitor,TOP2A,0.282021
+127393,tacrolimus,THP1,Calcineurin inhibitor,FKBP1A,0.281364
+83226,GSK-1059615,MCF10A,,,0.279985
+100886,asiatic-acid,A375,,,0.278161
+120113,nutlin-3,A549,MDM inhibitor,MDM2,0.276481
+105339,colchicine,U2OS,Microtubule inhibitor,TUBB,0.276344
+126738,sorafenib,PC3,KIT inhibitor,FGFR1,0.274957
+98268,YM-155,HT29,Survivin inhibitor,BIRC5,0.273368
+127199,suloctidil,MCF7,,,0.266546
+125873,salubrinal,PC3,Eukaryotic translation initiation factor inhibitor,EIF2S1,0.266148
+79937,BW-B70C,A549,Lipoxygenase inhibitor,ALOX5,0.261800
+120125,nutlin-3,MCF7,MDM inhibitor,MDM2,0.260593
+103333,camptothecin,A549,Topoisomerase inhibitor,TOP1,0.257971
+102657,brivanib,HCC515,FGFR inhibitor,FGFR1,0.257476
+117908,mibefradil,A375,T-type calcium channel blocker,CACNA1C,0.256674
+110803,floxuridine,VCAP,,,0.254011
+103891,cefepime,PC3,,,0.251466
+116497,maprotiline,MCF7,Tricyclic antidepressant,SLC6A2,0.250364
+130772,ursolic-acid,HT29,STAT inhibitor,HSD11B1,0.250149
+116447,manumycin-a,A375,NFKB pathway inhibitor,FNTA,0.249242
+119996,noretynodrel,NPC,Progestogen hormone,PGR,0.247393
+131261,vinblastine,SKB,Tubulin inhibitor,TUBB,0.245898
+100195,amsacrine,A375,Topoisomerase inhibitor,TOP2A,0.243806
+106381,daunorubicin,U2OS,RNA synthesis inhibitor,TOP2A,0.243622
+110979,flunisolide,PC3,Cytochrome P450 inhibitor,NR3C1,0.243256
+115638,linsitinib,MDAMB231,IGF-1 inhibitor,IGF1R,0.242292
+116825,medrysone,VCAP,Glucocorticoid receptor agonist,NR3C1,0.239818
+110799,floxuridine,PC3,,,0.238388
+103335,camptothecin,HA1E,Topoisomerase inhibitor,TOP1,0.237642
+119214,nelfinavir,PC3,HIV protease inhibitor,CYP1A2,0.237587
+91437,QL-XII-47,A375,,,0.237206
+114460,ivermectin,MCF7,,,0.237149
+129529,topotecan,HA1E,Topoisomerase inhibitor,TOP1,0.235233
+119079,nateglinide,VCAP,Insulin secretagogue,KCNJ11,0.231236
+124698,resveratrol,VCAP,SIRT activator,SIRT1,0.230190
+103263,calmidazolium,HT29,Calmodulin antagonist,ATP2B1,0.229910
+129537,topotecan,NPC,Topoisomerase inhibitor,TOP1,0.228179
+101063,auranofin,MCF7,,,0.227672
+120022,norgestrel,A375,,,0.226766
+109524,esculin,PC3,,,0.226123
+103267,calmidazolium,PC3,Calmodulin antagonist,ATP2B1,0.224722
+100063,amlodipine,VCAP,Calcium channel blocker,CACNA1C,0.223960
+116112,lovastatin,PC3,HMGCR inhibitor,HMGCR,0.223658
+120112,nutlin-3,A375,MDM inhibitor,MDM2,0.222873
+89231,NSC-632839,VCAP,Ubiquitin specific protease inhibitor,SENP2,0.222297

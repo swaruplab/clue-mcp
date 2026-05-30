@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+111998,genistein,HT29,Tyrosine kinase inhibitor,CFTR,0.264970
+98268,YM-155,HT29,Survivin inhibitor,BIRC5,0.237402
+129535,topotecan,MCF7,Topoisomerase inhibitor,TOP1,0.219331
+79945,BW-B70C,PC3,Lipoxygenase inhibitor,ALOX5,0.208008
+130766,ursolic-acid,HA1E,STAT inhibitor,HSD11B1,0.205812
+127199,suloctidil,MCF7,,,0.204232
+79939,BW-B70C,HA1E,Lipoxygenase inhibitor,ALOX5,0.202592
+103346,camptothecin,MCF7,Topoisomerase inhibitor,TOP1,0.200624
+105896,cytarabine,A375,Ribonucleotide reductase inhibitor,POLA1,0.200233
+99990,amiprilose,MCF7,,,0.197090
+105733,cycloheximide,U2OS,Protein synthesis inhibitor,RPL3,0.196381
+118003,mifepristone,A375,Progesterone receptor antagonist,NR3C1,0.193640
+93763,SB-205607,VCAP,Delta 1 opioid receptor agonist,OPRD1,0.189011
+120125,nutlin-3,MCF7,MDM inhibitor,MDM2,0.187698
+98257,YM-155,A375,Survivin inhibitor,BIRC5,0.185964
+106375,daunorubicin,MCF7,RNA synthesis inhibitor,TOP2A,0.185284
+117553,methotrexate,MCF7,Dihydrofolate reductase inhibitor,DHFR,0.184163
+124203,radicicol,U2OS,,,0.182487
+101003,atorvastatin,PC3,HMGCR inhibitor,DPP4,0.181871
+105339,colchicine,U2OS,Microtubule inhibitor,TUBB,0.181847
+117862,mevastatin,PC3,HMGCR inhibitor,HMGCR,0.180857
+89874,PAC-1,HT29,Caspase activator,CASP3,0.180304
+120640,ouabain,U2OS,ATPase inhibitor,ATP1A1,0.179228
+114460,ivermectin,MCF7,,,0.175162
+120639,ouabain,SKB,ATPase inhibitor,ATP1A1,0.175153
+107317,digitoxin,VCAP,ATPase inhibitor,ATP1A1,0.174728
+130355,triptolide,MCF7,,,0.174658
+119563,niguldipine,MCF7,Calcium channel blocker,ADRA1A,0.173638
+121123,pancuronium,MCF7,,,0.173054
+110143,ezetimibe,MCF7,Cholesterol inhibitor,NPC1L1,0.172577
+89212,NSC-632839,HA1E,Ubiquitin specific protease inhibitor,SENP2,0.168449
+98258,YM-155,A549,Survivin inhibitor,BIRC5,0.167799
+103263,calmidazolium,HT29,Calmodulin antagonist,ATP2B1,0.167076
+103262,calmidazolium,HEPG2,Calmodulin antagonist,ATP2B1,0.166448
+118165,minoxidil,VCAP,Vasodilator,ABCC9,0.166434
+105836,cyclosporin-a,HT29,Calcineurin inhibitor,PPIA,0.166328
+89885,PAC-1,VCAP,Caspase activator,CASP3,0.166126
+110653,finasteride,HT29,5 alpha reductase inhibitor,SRD5A1,0.165564
+114357,isradipine,MCF7,Calcium channel blocker,CACNA1C,0.165501
+123723,puromycin,HA1E,,,0.164966
+105719,cycloheximide,A375,Protein synthesis inhibitor,RPL3,0.164552
+113291,idarubicin,A375,Topoisomerase inhibitor,TOP2A,0.164483
+82727,GDC-0068,A375,Akt inhibitor,AKT3,0.163692
+105153,clomifene,MCF10A,Estrogen receptor antagonist,ESR1,0.163522
+98267,YM-155,HEPG2,Survivin inhibitor,BIRC5,0.163262
+129527,topotecan,A549,Topoisomerase inhibitor,TOP1,0.163095
+99788,amikacin,MCF7,,,0.163066
+131817,zaprinast,HA1E,Phosphodiesterase inhibitor,PDE5A,0.162679
+124024,quinine,MCF7,Hemozoin biocrystallization inhibitor,KCNN4,0.162060
+120300,oligomycin-a,MCF7,ATPase inhibitor,ATP5F1A,0.161169

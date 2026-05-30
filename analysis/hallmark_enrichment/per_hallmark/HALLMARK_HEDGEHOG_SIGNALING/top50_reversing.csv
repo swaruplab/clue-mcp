@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+100604,apicidin,NEU,HDAC inhibitor,HDAC6,-0.470131
+121294,parthenolide,NCIH2073,,,-0.360435
+118151,minoxidil,MCF7,Vasodilator,ABCC9,-0.336623
+110665,finasteride,VCAP,5 alpha reductase inhibitor,SRD5A1,-0.334929
+100622,apigenin,VCAP,,,-0.332207
+125500,rottlerin,HA1E,,,-0.327854
+118229,mitomycin-c,HA1E,,,-0.326456
+1993,AZD-7762,HCC515,CHK inhibitor,CHEK1,-0.318732
+121311,parthenolide,U937,,,-0.309350
+131453,voriconazole,MCF7,Cytochrome P450 inhibitor,CYP2C19,-0.306718
+98735,acarbose,A549,Glucosidase inhibitor,GAA,-0.304384
+127660,tanespimycin,HA1E,HSP inhibitor,HSP90AA1,-0.303843
+109638,estrone,HCC515,Estrogen receptor agonist,ESR1,-0.303320
+126422,sildenafil,THP1,Phosphodiesterase inhibitor,PDE5A,-0.301500
+111387,formestane,HA1E,Aromatase inhibitor,CYP19A1,-0.301166
+99076,afatinib,HA1E,EGFR inhibitor,EGFR,-0.300418
+112676,hesperidin,PC3,,,-0.300094
+121286,parthenolide,HCT116,,,-0.299192
+130501,tubocurarine,HEPG2,Acetylcholine receptor antagonist,CHRNA2,-0.299147
+124678,resveratrol,HA1E,SIRT activator,SIRT1,-0.297480
+123326,progesterone,VCAP,Progesterone receptor agonist,CYP17A1,-0.295975
+116885,megestrol-acetate,PC3,DNA inhibitor,PGR,-0.295551
+1992,AZD-7762,HA1E,CHK inhibitor,CHEK1,-0.293208
+100198,amsacrine,HA1E,Topoisomerase inhibitor,TOP2A,-0.291513
+110097,exemestane,HA1E,Aromatase inhibitor,CYP19A1,-0.291117
+110973,flunisolide,HA1E,Cytochrome P450 inhibitor,NR3C1,-0.289954
+111885,geldanamycin,A375,HSP inhibitor,HSP90AA1,-0.289720
+82750,GDC-0068,PC3,Akt inhibitor,AKT3,-0.289152
+1787,AZD-1480,A549,JAK inhibitor,JAK1,-0.288539
+128734,thioperamide,VCAP,Histamine receptor antagonist,HRH3,-0.287133
+102563,brefeldin-a,HA1E,,,-0.286430
+83690,GW-441756,PC3,Growth factor receptor inhibitor,NTRK1,-0.285484
+124189,radicicol,HCC515,,,-0.285222
+98090,Y-27632,A549,Rho associated kinase inhibitor,ROCK1,-0.284943
+80431,CG-930,PC3,JNK inhibitor,MAPK8,-0.284060
+93731,SB-203580,NPC,P38 MAPK inhibitor,MAPK14,-0.280085
+113456,iloprost,PC3,Prostanoid receptor agonist,PTGER1,-0.279986
+108724,emetine,HA1E,Protein synthesis inhibitor,RPS2,-0.278661
+131457,voriconazole,PC3,Cytochrome P450 inhibitor,CYP2C19,-0.278210
+127696,tanespimycin,THP1,HSP inhibitor,HSP90AA1,-0.277264
+99633,alvespimycin,A375,HSP inhibitor,HSP90AA1,-0.275236
+129978,tretinoin,NEU,Retinoid receptor ligand,RARA,-0.273929
+119791,nitrendipine,A549,Calcium channel blocker,CACNA1C,-0.273866
+93754,SB-205607,HA1E,Delta 1 opioid receptor agonist,OPRD1,-0.273587
+128365,testosterone,VCAP,,,-0.272640
+121929,phentolamine,A549,Adrenergic receptor antagonist,ADRA1A,-0.272388
+124308,ranitidine,MCF7,Histamine receptor antagonist,HRH2,-0.270450
+111385,formestane,A549,Aromatase inhibitor,CYP19A1,-0.270117
+103447,capecitabine,MCF7,DNA synthesis inhibitor,TYMS,-0.269964
+104810,cisapride,A549,Serotonin receptor agonist,HTR4,-0.269792

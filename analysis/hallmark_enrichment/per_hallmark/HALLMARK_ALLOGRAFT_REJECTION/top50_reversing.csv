@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+84105,HG-6-64-01,SKBR3,,,-0.276821
+109864,etodolac,NEU,Cyclooxygenase inhibitor,PTGS2,-0.239789
+102721,bromocriptine,HEPG2,Dopamine receptor agonist,ADRA2A,-0.232040
+89971,PD-0325901,A375,MEK inhibitor,MAP2K1,-0.229822
+111227,fluticasone,HEPG2,Glucocorticoid receptor agonist,NR3C1,-0.228562
+129676,tozasertib,A375,JAK inhibitor,FLT3,-0.224372
+89976,PD-0325901,HA1E,MEK inhibitor,MAP2K1,-0.217547
+120023,norgestrel,A549,,,-0.211937
+119233,nemonapride,NEU,Dopamine receptor antagonist,DRD2,-0.211556
+106783,desoxycortone,MCF7,Mineralocorticoid receptor agonist,NR3C2,-0.208892
+101297,azithromycin,A375,,,-0.208177
+125631,rutin,HEPG2,Antioxidant,AKR1C3,-0.207002
+119549,niguldipine,A375,Calcium channel blocker,ADRA1A,-0.206561
+104681,cinanserin,HCC515,,,-0.203347
+83692,GW-441756,SKB,Growth factor receptor inhibitor,NTRK1,-0.202986
+126299,sericetin,VCAP,,,-0.198478
+126403,sildenafil,HA1E,Phosphodiesterase inhibitor,PDE5A,-0.197917
+112524,halcinonide,A549,Glucocorticoid receptor agonist,NR3C1,-0.197904
+101013,atovaquone,HA1E,,,-0.197611
+84422,IB-MECA,U2OS,Adenosine receptor agonist,ADORA3,-0.192800
+116874,megestrol,MCF7,,,-0.191575
+130878,valsartan,MCF7,Angiotensin receptor antagonist,AGTR1,-0.191298
+131546,warfarin,HT29,Vitamin K antagonist,VKORC1,-0.190446
+131542,warfarin,HA1E,Vitamin K antagonist,VKORC1,-0.190227
+896,AM-404,HA1E,FAAH inhibitor,TRPV1,-0.190171
+102802,brucine,VCAP,,,-0.189885
+94087,SB-590885,MDAMB231,RAF inhibitor,BRAF,-0.189621
+113960,ipratropium,A375,Acetylcholine receptor antagonist,CHRM1,-0.189335
+100528,anisomycin,NEU,,,-0.185198
+105604,curcumin,HEPG2,Lipoxygenase inhibitor,PTGS1,-0.184149
+93758,SB-205607,MCF7,Delta 1 opioid receptor agonist,OPRD1,-0.183973
+110938,flumetasone,A375,Glucocorticoid receptor agonist,NR3C1,-0.183733
+111571,fulvestrant,MCF7,Estrogen receptor antagonist,ESR1,-0.183111
+124821,ribavirin,A549,Antiviral,IMPDH1,-0.183041
+112405,griseofulvin,A375,,,-0.181960
+98748,acarbose,PC3,Glucosidase inhibitor,GAA,-0.181708
+91441,QL-XII-47,HA1E,,,-0.181258
+120535,orteronel,HA1E,Cytochrome P450 inhibitor,CYP17A1,-0.181151
+124910,rifapentine,VCAP,RNA polymerase inhibitor,CYP2C8,-0.181113
+96563,U-0126,MCF7,MEK inhibitor,MAP2K1,-0.181101
+103895,cefixime,A549,,,-0.179934
+128724,thioperamide,HA1E,Histamine receptor antagonist,HRH3,-0.179391
+96397,TTNPB,HCC515,Retinoid receptor agonist,RARB,-0.179215
+114894,lapatinib,SKB,EGFR inhibitor,EGFR,-0.179202
+130499,tubocurarine,HA1E,Acetylcholine receptor antagonist,CHRNA2,-0.178490
+117729,methysergide,HEPG2,Serotonin receptor antagonist,HTR1B,-0.177936
+82894,GDC-0980,MCF7,MTOR inhibitor,MTOR,-0.177747
+99436,aloisine,NPC,CDK inhibitor,CDK2,-0.177254
+97744,WZ-4-145,MCF10A,,,-0.176610
+101016,atovaquone,HT29,,,-0.176158

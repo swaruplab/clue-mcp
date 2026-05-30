@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+89659,OBAA,VCAP,Phospholipase inhibitor,PLA2G1B,-0.458350
+127689,tanespimycin,PC3,HSP inhibitor,HSP90AA1,-0.451541
+101188,azacitidine,HEK293,DNA methyltransferase inhibitor,DNMT1,-0.445241
+105830,cyclosporin-a,HA1E,Calcineurin inhibitor,PPIA,-0.442429
+103128,cabergoline,HA1E,Dopamine receptor agonist,ADRA1A,-0.441002
+95835,SU-4312,VCAP,PDGFR inhibitor,KDR,-0.438941
+120975,paclitaxel,HA1E,Tubulin inhibitor,TUBB,-0.427753
+110523,fenretinide,VCAP,Apoptosis stimulant,RARA,-0.427050
+89247,NSC-693868,ASC,CDK inhibitor,CDK5,-0.417591
+118165,minoxidil,VCAP,Vasodilator,ABCC9,-0.403996
+91441,QL-XII-47,HA1E,,,-0.400330
+111721,galantamine,MCF7,Acetylcholinesterase inhibitor,ACHE,-0.397669
+127680,tanespimycin,NCIH508,HSP inhibitor,HSP90AA1,-0.393759
+91449,QL-XII-47,MCF7,,,-0.392602
+110522,fenretinide,SKB,Apoptosis stimulant,RARA,-0.392170
+100842,artesunate,VCAP,,,-0.389536
+83219,GSK-1059615,HEPG2,,,-0.388368
+83236,GSK-1059615,THP1,,,-0.387400
+126563,sirolimus,VCAP,MTOR inhibitor,FKBP1A,-0.386859
+110975,flunisolide,HEPG2,Cytochrome P450 inhibitor,NR3C1,-0.385724
+99434,aloisine,HT29,CDK inhibitor,CDK2,-0.383333
+118473,montelukast,HT29,Leukotriene receptor antagonist,CYSLTR1,-0.381305
+96410,TTNPB,SKB,Retinoid receptor agonist,RARB,-0.380078
+126730,sorafenib,HS578T,KIT inhibitor,FGFR1,-0.378602
+100834,artesunate,HT29,,,-0.378526
+359,A-443654,HT29,,,-0.378039
+101195,azacitidine,MCF7,DNA methyltransferase inhibitor,DNMT1,-0.377580
+128422,tetracycline,PC3,,,-0.376655
+103282,calpeptin,MCF7,,,-0.376520
+119854,nizatidine,HT29,Histamine receptor antagonist,HRH2,-0.376417
+122084,physostigmine,VCAP,Cholinesterase inhibitor,ACHE,-0.376054
+82888,GDC-0980,HA1E,MTOR inhibitor,MTOR,-0.373983
+89656,OBAA,PC3,Phospholipase inhibitor,PLA2G1B,-0.373378
+110851,fludarabine,ASC,DNA synthesis inhibitor,RRM1,-0.372669
+116879,megestrol-acetate,HA1E,DNA inhibitor,PGR,-0.372193
+89252,NSC-693868,MCF7,CDK inhibitor,CDK5,-0.370160
+129964,tretinoin,ASC,Retinoid receptor ligand,RARA,-0.369257
+118750,nadolol,A549,Adrenergic receptor antagonist,ADRB1,-0.368787
+1542,AT-CSC-07,HT29,,,-0.367505
+104092,ceramide,A549,,,-0.367483
+110981,flunisolide,SKB,Cytochrome P450 inhibitor,NR3C1,-0.366948
+89839,P-1075,HA1E,ATP channel activator,KCNJ11,-0.366261
+82293,EX-527,A549,SIRT inhibitor,SIRT1,-0.363465
+83220,GSK-1059615,HME1,,,-0.363254
+107347,digoxin,PHH,ATPase inhibitor,ATP1A1,-0.361946
+118005,mifepristone,ASC,Progesterone receptor antagonist,NR3C1,-0.360221
+108737,emetine,PHH,Protein synthesis inhibitor,RPS2,-0.360080
+100361,anandamide,HT29,Cannabinoid receptor agonist,CNR1,-0.359599
+100619,apigenin,PC3,,,-0.359550
+128127,temsirolimus,YAPC,MTOR inhibitor,MTOR,-0.359318

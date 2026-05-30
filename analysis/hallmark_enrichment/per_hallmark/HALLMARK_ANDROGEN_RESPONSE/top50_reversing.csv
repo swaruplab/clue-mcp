@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+82888,GDC-0980,HA1E,MTOR inhibitor,MTOR,-0.355590
+120116,nutlin-3,HA1E,MDM inhibitor,MDM2,-0.341948
+131591,withaferin-a,PC3,IKK inhibitor,NAMPT,-0.340016
+130366,triptolide,VCAP,,,-0.332906
+119037,naringenin,PC3,TRPV antagonist,CYP19A1,-0.329467
+108244,doxorubicin,VCAP,Topoisomerase inhibitor,TOP2A,-0.328314
+89659,OBAA,VCAP,Phospholipase inhibitor,PLA2G1B,-0.325284
+113305,idarubicin,PC3,Topoisomerase inhibitor,TOP2A,-0.318404
+83217,GSK-1059615,HEK293,,,-0.315436
+126929,staurosporine,PC3,PKC inhibitor,CDK2,-0.314559
+106379,daunorubicin,SKB,RNA synthesis inhibitor,TOP2A,-0.308784
+128582,thapsigargin,HA1E,ATPase inhibitor,ATP2A1,-0.308447
+110821,flucloxacillin,PC3,,,-0.305495
+127208,sulpiride,HA1E,Dopamine receptor antagonist,DRD2,-0.305475
+104028,celastrol,PC3,,,-0.303202
+131713,yohimbine,A549,Adrenergic receptor antagonist,ADRA2A,-0.302393
+131580,withaferin-a,HEPG2,IKK inhibitor,NAMPT,-0.301888
+89247,NSC-693868,ASC,CDK inhibitor,CDK5,-0.300628
+99441,aloisine,VCAP,CDK inhibitor,CDK2,-0.299287
+101188,azacitidine,HEK293,DNA methyltransferase inhibitor,DNMT1,-0.299170
+110511,fenretinide,HA1E,Apoptosis stimulant,RARA,-0.298080
+96578,U-0126,VCAP,MEK inhibitor,MAP2K1,-0.297662
+125642,rutin,VCAP,Antioxidant,AKR1C3,-0.294301
+119851,nizatidine,HA1E,Histamine receptor antagonist,HRH2,-0.293632
+100619,apigenin,PC3,,,-0.292177
+90717,PIK-75,HA1E,PI3K inhibitor,PIK3CA,-0.288181
+102583,brefeldin-a,VCAP,,,-0.287752
+99649,alvespimycin,VCAP,HSP inhibitor,HSP90AA1,-0.285893
+129745,tramadol,PC3,Opioid receptor agonist,OPRM1,-0.284842
+95835,SU-4312,VCAP,PDGFR inhibitor,KDR,-0.284484
+106059,dactinomycin,VCAP,RNA polymerase inhibitor,POLR2A,-0.282878
+371,A-443654,PC3,,,-0.282586
+91392,QL-X-138,HA1E,,,-0.282494
+101193,azacitidine,JURKAT,DNA methyltransferase inhibitor,DNMT1,-0.281663
+130484,tubaic-acid,PC3,,,-0.281453
+126563,sirolimus,VCAP,MTOR inhibitor,FKBP1A,-0.281208
+126926,staurosporine,MCF7,PKC inhibitor,CDK2,-0.281104
+104525,cilastatin,VCAP,Dehydropeptidase inhibitor,DPEP1,-0.280847
+82734,GDC-0068,HEK293,Akt inhibitor,AKT3,-0.278778
+110860,fludarabine,PHH,DNA synthesis inhibitor,RRM1,-0.278629
+119079,nateglinide,VCAP,Insulin secretagogue,KCNJ11,-0.278467
+120631,ouabain,HCC515,ATPase inhibitor,ATP1A1,-0.278106
+97751,WZ-4-145,SKBR3,,,-0.278026
+99103,afatinib,SKBR3,EGFR inhibitor,EGFR,-0.277121
+117079,mephentermine,MCF7,,,-0.276823
+102563,brefeldin-a,HA1E,,,-0.276750
+349,A-443654,A549,,,-0.276611
+120118,nutlin-3,HCC515,MDM inhibitor,MDM2,-0.273858
+103352,camptothecin,VCAP,Topoisomerase inhibitor,TOP1,-0.273650
+106055,dactinomycin,HT29,RNA polymerase inhibitor,POLR2A,-0.273366

@@ -1,0 +1,51 @@
+sig_idx,cmap_name,cell_iname,moa,target,enrichment_score
+102574,brefeldin-a,NEU,,,0.458924
+101189,azacitidine,HELA,DNA methyltransferase inhibitor,DNMT1,0.395311
+102559,brefeldin-a,A549,,,0.395003
+105836,cyclosporin-a,HT29,Calcineurin inhibitor,PPIA,0.377966
+105835,cyclosporin-a,HEPG2,Calcineurin inhibitor,PPIA,0.374665
+102558,brefeldin-a,A375,,,0.364779
+103177,caffeic-acid,HEPG2,Lipoxygenase inhibitor,ALOX5,0.360060
+102583,brefeldin-a,VCAP,,,0.357351
+126723,sorafenib,BT20,KIT inhibitor,FGFR1,0.357261
+130426,tropisetron,HA1E,Serotonin receptor antagonist,HTR3A,0.346687
+110510,fenretinide,ASC,Apoptosis stimulant,RARA,0.344909
+119795,nitrendipine,HA1E,Calcium channel blocker,CACNA1C,0.342794
+124188,radicicol,HA1E,,,0.342763
+126134,selegiline,HA1E,Monoamine oxidase inhibitor,MAOA,0.338378
+82301,EX-527,HELA,SIRT inhibitor,SIRT1,0.337704
+100825,artesunate,A375,,,0.335724
+102570,brefeldin-a,MCF7,,,0.334871
+110516,fenretinide,MCF7,Apoptosis stimulant,RARA,0.334657
+106856,dexamethasone,SKB,Glucocorticoid receptor agonist,NR3C1,0.334067
+125496,rottlerin,A549,,,0.333005
+99645,alvespimycin,PC3,HSP inhibitor,HSP90AA1,0.332352
+124204,radicicol,VCAP,,,0.329767
+102564,brefeldin-a,HCC515,,,0.329650
+102566,brefeldin-a,HEPG2,,,0.328972
+109567,estradiol,MCF7,Estrogen receptor agonist,ESR1,0.326239
+102250,biperiden,HT29,Acetylcholine receptor antagonist,CHRM1,0.324171
+128579,thapsigargin,A375,ATPase inhibitor,ATP2A1,0.323889
+125626,rutin,ASC,Antioxidant,AKR1C3,0.322788
+130521,tunicamycin,NEU,GLCNAC phosphotransferase inhibitor,GNPTAB,0.322182
+119994,noretynodrel,MCF7,Progestogen hormone,PGR,0.321679
+102578,brefeldin-a,PC3,,,0.321410
+105839,cyclosporin-a,MCF10A,Calcineurin inhibitor,PPIA,0.320575
+127586,tamoxifen,HT29,Estrogen receptor antagonist,ESR1,0.319530
+116042,losartan,A375,Angiotensin receptor antagonist,AGTR1,0.319500
+126739,sorafenib,SKB,KIT inhibitor,FGFR1,0.318648
+113695,indirubin,HT29,CDK inhibitor,CDK5,0.316293
+128587,thapsigargin,HT29,ATPase inhibitor,ATP2A1,0.314828
+103260,calmidazolium,ASC,Calmodulin antagonist,ATP2B1,0.313011
+102000,betamethasone,PC3,Glucocorticoid receptor agonist,NR3C1,0.312067
+100826,artesunate,A549,,,0.312048
+105813,cyclopiazonic-acid,HA1E,ATPase inhibitor,ATP2A1,0.309579
+102656,brivanib,HA1E,FGFR inhibitor,FGFR1,0.309436
+105854,cyclosporin-a,VCAP,Calcineurin inhibitor,PPIA,0.309069
+105429,cortisone-acetate,A549,Glucocorticoid receptor agonist,NR3C1,0.307172
+119211,nelfinavir,MCF7,HIV protease inhibitor,CYP1A2,0.306069
+102563,brefeldin-a,HA1E,,,0.305476
+113182,ibrutinib,YAPC,BTK inhibitor,BTK,0.305404
+102004,betamethasone,VCAP,Glucocorticoid receptor agonist,NR3C1,0.305376
+97925,XMD-1185H,BT20,,,0.304472
+128590,thapsigargin,MCF7,ATPase inhibitor,ATP2A1,0.304156
